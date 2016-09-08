@@ -1,0 +1,133 @@
+1460388220790 TackleJ opened world -205 64 285 DoubleChest
+1460388221991 TackleJ closed world -205 64 285 DoubleChest
+1460388226542 TackleJ opened world -206 74 275 DoubleChest
+1460388234643 TackleJ closed world -206 74 275 DoubleChest
+1460388240247 TackleJ clicked world -203 74 277 SULPHUR CraftChest 9 LEFT PICKUP_ALL
+1460388240745 TackleJ clicked world -203 74 277 AIR CraftPlayer 37 LEFT PLACE_ALL
+1460388241795 TackleJ opened world -206 74 275 DoubleChest
+1460388242895 TackleJ clicked world -206 74 275 RED_ROSE CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460388243846 TackleJ clicked world -206 74 275 SULPHUR CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460388247797 TackleJ clicked world -206 74 275 RAW_FISH DoubleChest 51 LEFT PICKUP_ALL
+1460388248397 TackleJ dragged world -206 74 275 RAW_FISH 2 0 1 EVEN
+1460388249197 TackleJ clicked world -206 74 275 RAW_FISH CraftPlayer 60 LEFT PICKUP_ALL
+1460388249747 TackleJ clicked world -206 74 275 AIR CraftPlayer 60 LEFT PLACE_ALL
+1460388250447 TackleJ clicked world -206 74 275 BOWL DoubleChest 24 LEFT PICKUP_ALL
+1460388251097 TackleJ dragged world -206 74 275 BOWL 8 0 1 EVEN
+1460388251197 TackleJ closed world -206 74 275 DoubleChest
+1460388254998 TackleJ opened world -206 74 275 DoubleChest
+1460388255798 TackleJ clicked world -206 74 275 BOWL CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460388256899 TackleJ closed world -206 74 275 DoubleChest
+1460388308380 TackleJ opened world -206 74 275 DoubleChest
+1460388312081 TackleJ closed world -206 74 275 DoubleChest
+1460388324989 TackleJ opened world -213 77 268 DoubleChest
+1460388325488 TackleJ clicked world -213 77 268 COBBLESTONE DoubleChest 49 RIGHT PICKUP_HALF
+1460388326589 TackleJ clicked world -213 77 268 COBBLESTONE DoubleChest 49 LEFT PLACE_ALL
+1460388336441 TackleJ closed world -213 77 268 DoubleChest
+1460388337192 TackleJ opened world -213 78 268 DoubleChest
+1460388339742 TackleJ closed world -213 78 268 DoubleChest
+1460388340243 TackleJ opened world -213 79 268 DoubleChest
+1460388340892 TackleJ closed world -213 79 268 DoubleChest
+1460388341392 TackleJ opened world -213 80 268 DoubleChest
+1460388341692 TackleJ closed world -213 80 268 DoubleChest
+1460388350894 TackleJ opened world -205 77 261 DoubleChest
+1460388356946 TackleJ closed world -205 77 261 DoubleChest
+1460388357396 TackleJ opened world -205 78 261 DoubleChest
+1460388362248 TackleJ closed world -205 78 261 DoubleChest
+1460388363048 TackleJ opened world -202 77 263 DoubleChest
+1460388365498 TackleJ closed world -202 77 263 DoubleChest
+1460388365948 TackleJ opened world -202 78 263 DoubleChest
+1460388369649 TackleJ closed world -202 78 263 DoubleChest
+1460388370350 TackleJ opened world -202 79 263 DoubleChest
+1460388371100 TackleJ closed world -202 79 263 DoubleChest
+1460388396309 TackleJ opened world -208 78 230 DoubleChest
+1460388396808 TackleJ closed world -208 78 230 DoubleChest
+1460388413326 TackleJ opened world -204 71 205 DoubleChest
+1460388413826 TackleJ closed world -204 71 205 DoubleChest
+1460388490807 TackleJ opened world -101 127 296 DoubleChest
+1460388492307 TackleJ closed world -101 127 296 DoubleChest
+1460388493508 TackleJ opened world -101 127 296 DoubleChest
+1460388494809 TackleJ closed world -101 127 296 DoubleChest
+1460388501461 TackleJ opened world -101 127 296 DoubleChest
+1460388502261 TackleJ closed world -101 127 296 DoubleChest
+1460388512226 TackleJ opened world -101 127 296 DoubleChest
+1460388515277 TackleJ closed world -101 127 296 DoubleChest
+1460388516377 TackleJ opened world -101 127 296 DoubleChest
+1460388518086 TackleJ closed world -101 127 296 DoubleChest
+1460388652425 TackleJ opened world -192 65 203 DoubleChest
+1460388653026 TackleJ closed world -192 65 203 DoubleChest
+1460388653326 TackleJ opened world -191 64 203 DoubleChest
+1460388653726 TackleJ closed world -191 64 203 DoubleChest
+1460388655327 TackleJ opened world -192 66 206 DoubleChest
+1460388655827 TackleJ closed world -192 66 206 DoubleChest
+1460388659678 TackleJ opened world -191 66 208 DoubleChest
+1460388660728 TackleJ closed world -191 66 208 DoubleChest
+1460388665281 TackleJ opened world -192 66 200 DoubleChest
+1460388665882 TackleJ closed world -192 66 200 DoubleChest
+1460388666382 TackleJ opened world -192 65 200 DoubleChest
+1460388667083 TackleJ closed world -192 65 200 DoubleChest
+1460388667384 TackleJ opened world -191 64 200 DoubleChest
+1460388667934 TackleJ closed world -191 64 200 DoubleChest
+1460388668383 TackleJ opened world -191 64 200 DoubleChest
+1460388668785 TackleJ closed world -191 64 200 DoubleChest
+1460388671237 TackleJ opened world -191 64 206 DoubleChest
+1460388672387 TackleJ closed world -191 64 206 DoubleChest
+1460388676040 TackleJ opened world -188 65 208 DoubleChest
+1460388676840 TackleJ closed world -188 65 208 DoubleChest
+1460388677140 TackleJ opened world -188 66 208 DoubleChest
+1460388677990 TackleJ closed world -188 66 208 DoubleChest
+1460388678440 TackleJ opened world -188 67 208 DoubleChest
+1460388678941 TackleJ closed world -188 67 208 DoubleChest
+1460389273123 TackleJ opened world -101 127 296 DoubleChest
+1460389274673 TackleJ clicked world -101 127 296 BOW DoubleChest 15 LEFT PICKUP_ALL
+1460389276273 TackleJ dragged world -101 127 296 BOW 1 1 0 EVEN
+1460389276823 TackleJ clicked world -101 127 296 BOW DoubleChest 24 LEFT PICKUP_ALL
+1460389277123 TackleJ clicked world -101 127 296 AIR DoubleChest 15 LEFT PLACE_ALL
+1460389277574 TackleJ clicked world -101 127 296 WOOD_STEP DoubleChest 5 LEFT PICKUP_ALL
+1460389278174 TackleJ dragged world -101 127 296 WOOD_STEP 2 0 1 EVEN
+1460389278274 TackleJ closed world -101 127 296 DoubleChest
+1460389282374 TackleJ opened world -101 127 296 DoubleChest
+1460389283473 TackleJ clicked world -101 127 296 SULPHUR CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460389283774 TackleJ clicked world -101 127 296 STRING CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460389285973 TackleJ clicked world -101 127 296 ARROW CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460389287224 TackleJ clicked world -101 127 296 WOOL CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460389288274 TackleJ clicked world -101 127 296 INK_SACK CraftPlayer 86 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460389290624 TackleJ closed world -101 127 296 DoubleChest
+1460389294125 TackleJ opened world -101 127 296 DoubleChest
+1460389295124 TackleJ closed world -101 127 296 DoubleChest
+1460389312125 TackleJ opened world -101 127 296 DoubleChest
+1460389313175 TackleJ closed world -101 127 296 DoubleChest
+1460389475032 TackleJ opened world -286 102 267 DoubleChest
+1460389477032 TackleJ closed world -286 102 267 DoubleChest
+1460389480983 TackleJ opened world -284 103 253 DoubleChest
+1460389482483 TackleJ clicked world -284 103 253 IRON_INGOT DoubleChest 11 LEFT PICKUP_ALL
+1460389483082 TackleJ clicked world -284 103 253 AIR CraftPlayer 68 LEFT PLACE_ALL
+1460389483233 TackleJ closed world -284 103 253 DoubleChest
+1460389483682 TackleJ opened world -282 102 253 DoubleChest
+1460389485482 TackleJ closed world -282 102 253 DoubleChest
+1460389794020 TackleJ opened world -101 127 296 DoubleChest
+1460389794970 TackleJ clicked world -101 127 296 WOOL CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460389796570 TackleJ closed world -101 127 296 DoubleChest
+1460389885377 TackleJ opened world -101 127 296 DoubleChest
+1460389887227 TackleJ closed world -101 127 296 DoubleChest
+1460389936982 TackleJ opened world -101 127 296 DoubleChest
+1460389940232 TackleJ closed world -101 127 296 DoubleChest
+1460389967082 TackleJ opened world -101 127 296 DoubleChest
+1460389967882 TackleJ clicked world -101 127 296 SAND DoubleChest 13 LEFT PICKUP_ALL
+1460389968531 TackleJ dragged world -101 127 296 SAND 1 0 1 SINGLE
+1460389968732 TackleJ clicked world -101 127 296 SAND CraftPlayer 69 RIGHT PLACE_ONE
+1460389968982 TackleJ clicked world -101 127 296 SAND CraftPlayer 69 RIGHT PLACE_ONE
+1460389969431 TackleJ clicked world -101 127 296 SAND CraftPlayer 69 RIGHT PLACE_ONE
+1460389970432 TackleJ clicked world -101 127 296 AIR DoubleChest 13 LEFT PLACE_ALL
+1460389970781 TackleJ closed world -101 127 296 DoubleChest
+1460390055032 TackleJ opened world -101 127 296 DoubleChest
+1460390055832 TackleJ clicked world -101 127 296 SAND DoubleChest 13 LEFT PICKUP_ALL
+1460390056632 TackleJ clicked world -101 127 296 AIR CraftPlayer 67 RIGHT PLACE_ONE
+1460390056833 TackleJ clicked world -101 127 296 SAND CraftPlayer 67 RIGHT PLACE_ONE
+1460390057583 TackleJ dragged world -101 127 296 SAND 6 1 0 EVEN
+1460390057982 TackleJ closed world -101 127 296 DoubleChest
+1460390093282 TackleJ opened world -101 127 296 DoubleChest
+1460390094682 TackleJ closed world -101 127 296 DoubleChest
+1460390110683 TackleJ opened world -101 127 296 DoubleChest
+1460390111532 TackleJ clicked world -101 127 296 WOOD_STEP CraftPlayer 86 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460390117532 TackleJ closed world -101 127 296 DoubleChest
+1460396815053 clashololli clicked world 257 55 1720 SIGN CraftChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY

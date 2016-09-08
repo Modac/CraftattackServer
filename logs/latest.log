@@ -1,0 +1,51 @@
+[00:46:57] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[01:46:58] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[02:47:00] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[03:47:01] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[04:47:02] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[05:47:03] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[06:47:04] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[07:47:05] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[08:47:07] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[09:47:08] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[10:47:09] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[11:47:10] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[12:47:11] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[13:47:13] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[14:47:15] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[15:47:16] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[16:47:17] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[17:47:18] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[18:47:27] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[19:47:29] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[20:47:31] [Server thread/INFO]: [AutoBackup] Skipped auto backup because world is already backed up
+[20:54:55] [Server thread/INFO]: Stopping the server
+[20:54:55] [Server thread/INFO]: Stopping server
+[20:54:55] [Server thread/INFO]: [CubeDisplay] Disabling CubeDisplay v1.0_r37
+[20:54:55] [Server thread/INFO]: [WorldGuard] Disabling WorldGuard v6.1
+[20:54:55] [Server thread/INFO]: [WorldGuard] Shutting down executor and waiting for any pending tasks...
+[20:54:55] [Server thread/INFO]: [TesterPlugin] Disabling TesterPlugin v0.0_r31
+[20:54:55] [Server thread/INFO]: [TesterPlugin] Tester Plugin deactivated
+[20:54:55] [Server thread/INFO]: [AutoBackup] Disabling AutoBackup v1.0_r48
+[20:54:55] [Server thread/INFO]: [AutoBackup] AutoBackup deactivated
+[20:54:55] [Server thread/INFO]: [HomePlugin] Disabling HomePlugin v0.1_r115
+[20:54:55] [Server thread/INFO]: [HomePlugin] §b[Home] §rHome Plugin deaktiviert
+[20:54:55] [Server thread/INFO]: [ClickSort] Disabling ClickSort v1.3.1
+[20:54:55] [Server thread/INFO]: [ChestLogger] Disabling ChestLogger v0.1_r385
+[20:54:55] [Server thread/INFO]: [ChestLogger] ChestLogger deactivated
+[20:54:55] [Server thread/INFO]: [WorldEdit] Disabling WorldEdit v6.1;no_git_id
+[20:54:55] [Server thread/INFO]: [MultiWorld] Disabling MultiWorld v5.2.8
+[20:54:55] [Server thread/INFO]: [MultiWorld] Disabled.
+[20:54:55] [Server thread/INFO]: [dynmap] Disabling dynmap v2.3-SNAPSHOT-1132
+[20:54:55] [Server thread/INFO]: [dynmap] Unloaded 11 components.
+[20:54:55] [Server thread/INFO]: [dynmap] Stopping map renderer...
+[20:54:56] [Server thread/INFO]: [dynmap] Saved 12 pending tile renders in world 'world'
+[20:54:56] [Server thread/INFO]: [dynmap] Disabled
+[20:54:56] [Server thread/INFO]: [FallbackConfigure] Disabling FallbackConfigure v1.0_r47
+[20:54:56] [Server thread/INFO]: [FallbackConfigure] Configuring port forward to Fallback
+[20:54:57] [Server thread/INFO]: [FallbackConfigure] FallbackConfigure deactivated
+[20:54:57] [Server thread/INFO]: Saving players
+[20:54:57] [Server thread/INFO]: Saving worlds
+[20:54:57] [Server thread/INFO]: Saving chunks for level 'world'/Overworld
+[20:54:57] [Server thread/INFO]: Saving chunks for level 'world_nether'/Nether
+[20:54:57] [Server thread/INFO]: Saving chunks for level 'world_the_end'/The End

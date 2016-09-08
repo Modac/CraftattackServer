@@ -1,0 +1,943 @@
+1459770613088 C4Phoenix closed world -231 64 211 unknown
+1459770613987 C4Phoenix closed world -231 64 211 unknown
+1459770628092 C4Phoenix closed world -206 77 226 SingleChest
+1459770684400 C4Phoenix opened world -208 78 230 DoubleChest
+1459770684848 C4Phoenix closed world -208 78 230 DoubleChest
+1459770685349 C4Phoenix opened world -208 77 230 DoubleChest
+1459770685798 C4Phoenix closed world -208 77 230 DoubleChest
+1459770687049 C4Phoenix closed world -206 76 228 unknown
+1459770704254 Sackboyninja007 closed world 467 55 1666 SingleChest
+1459770704704 Sackboyninja007 opened world 465 54 1665 DoubleChest
+1459770707410 Sackboyninja007 clicked world 465 54 1665 SIGN CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459770710061 Sackboyninja007 closed world 465 54 1665 DoubleChest
+1459770716113 C4Phoenix opened world -207 71 212 DoubleChest
+1459770716662 C4Phoenix closed world -207 71 212 DoubleChest
+1459770719114 C4Phoenix closed world -204 72 209 unknown
+1459770719914 C4Phoenix closed world -206 71 210 unknown
+1459770733826 C4Phoenix closed world -206 71 209 unknown
+1459770886821 Sackboyninja007 clicked world 449 63 1663 STONE_HOE CraftChest 6 LEFT PICKUP_ALL
+1459770886971 Sackboyninja007 clicked world 449 63 1663 AIR CraftChest 6 DOUBLE_CLICK NOTHING
+1459770889471 Sackboyninja007 clicked world 449 63 1663 AIR CraftPlayer 60 LEFT PLACE_ALL
+1459770889472 Sackboyninja007 clicked world 449 63 1663 STONE_HOE CraftPlayer 60 LEFT PICKUP_ALL
+1459770890272 Sackboyninja007 clicked world 449 63 1663 AIR CraftPlayer 60 LEFT PLACE_ALL
+1459770890272 Sackboyninja007 clicked world 449 63 1663 STONE_HOE CraftPlayer 60 LEFT PICKUP_ALL
+1459770891022 Sackboyninja007 clicked world 449 63 1663 AIR CraftPlayer 60 LEFT PLACE_ALL
+1459770891023 Sackboyninja007 clicked world 449 63 1663 STONE_HOE CraftPlayer 60 LEFT PICKUP_ALL
+1459770891923 Sackboyninja007 clicked world 449 63 1663 AIR CraftPlayer 60 LEFT PLACE_ALL
+1459770891923 Sackboyninja007 clicked world 449 63 1663 STONE_HOE CraftPlayer 60 LEFT PICKUP_ALL
+1459770892723 Sackboyninja007 clicked world 449 63 1663 AIR CraftPlayer 60 LEFT PLACE_ALL
+1459770892724 Sackboyninja007 clicked world 449 63 1663 STONE_HOE CraftPlayer 60 LEFT PICKUP_ALL
+1459770893374 Sackboyninja007 clicked world 449 63 1663 AIR CraftPlayer 60 LEFT PLACE_ALL
+1459770893374 Sackboyninja007 clicked world 449 63 1663 STONE_HOE CraftPlayer 60 LEFT PICKUP_ALL
+1459770893774 Sackboyninja007 clicked world 449 63 1663 AIR CraftPlayer 60 DOUBLE_CLICK NOTHING
+1459770895774 Sackboyninja007 clicked world 449 63 1663 AIR CraftPlayer 60 LEFT PLACE_ALL
+1459770897174 Sackboyninja007 closed world 449 63 1663 SingleChest
+1459770918629 Sackboyninja007 closed world 446 63 1663 unknown
+1459770944739 Sackboyninja007 clicked world 449 63 1663 CARROT_ITEM CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459770945588 Sackboyninja007 clicked world 449 63 1663 CARROT_ITEM CraftPlayer 41 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459770946989 Sackboyninja007 clicked world 449 63 1663 FISHING_ROD CraftPlayer 38 LEFT PICKUP_ALL
+1459770947840 Sackboyninja007 dragged world 449 63 1663 FISHING_ROD 1 0 1 EVEN
+1459770948089 Sackboyninja007 closed world 449 63 1663 SingleChest
+1459770958143 Sackboyninja007 closed world 445 63 1661 unknown
+1459770961694 Sackboyninja007 clicked world 449 63 1663 STONE_HOE CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459770962044 Sackboyninja007 closed world 449 63 1663 SingleChest
+1459770966396 Sackboyninja007 closed world 451 63 1658 unknown
+1459770988312 Sackboyninja007 closed world 451 63 1658 unknown
+1459771084021 C4Phoenix closed world -331 81 156 unknown
+1459771093926 Sackboyninja007 opened world 460 54 1662 DoubleChest
+1459771095826 Sackboyninja007 closed world 460 54 1662 DoubleChest
+1459771102330 Sackboyninja007 opened world 460 54 1662 DoubleChest
+1459771103630 Sackboyninja007 closed world 460 54 1662 DoubleChest
+1459771105231 Sackboyninja007 opened world 465 54 1665 DoubleChest
+1459771109432 Sackboyninja007 clicked world 465 54 1665 SIGN DoubleChest 44 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459771109533 Sackboyninja007 closed world 465 54 1665 DoubleChest
+1459771127936 C4Phoenix closed world -334 82 160 unknown
+1459771149944 C4Phoenix closed world -333 80 157 unknown
+1459771167246 C4Phoenix closed world -333 80 157 unknown
+1459771169447 Sackboyninja007 opened world 465 54 1665 DoubleChest
+1459771171148 Sackboyninja007 clicked world 465 54 1665 SIGN CraftPlayer 86 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459771171498 Sackboyninja007 closed world 465 54 1665 DoubleChest
+1459771172948 Sackboyninja007 opened world 465 54 1665 DoubleChest
+1459771174599 Sackboyninja007 closed world 465 54 1665 DoubleChest
+1459771186054 Sackboyninja007 opened world 460 54 1662 DoubleChest
+1459771192057 Sackboyninja007 clicked world 460 54 1662 SLIME_BALL CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459771192757 Sackboyninja007 clicked world 460 54 1662 INK_SACK CraftPlayer 66 LEFT PICKUP_ALL
+1459771193908 Sackboyninja007 dragged world 460 54 1662 INK_SACK 5 0 1 EVEN
+1459771195957 Sackboyninja007 closed world 460 54 1662 DoubleChest
+1459771206012 C4Phoenix closed world -346 80 168 unknown
+1459771208762 C4Phoenix closed world -341 80 169 unknown
+1459771237175 C4Phoenix closed world -368 76 173 unknown
+1459771267741 Sackboyninja007 closed world 450 63 1658 unknown
+1459771288062 Sackboyninja007 closed world 450 63 1658 unknown
+1459771310672 Sackboyninja007 closed world 435 62 1659 unknown
+1459771334395 C4Phoenix closed world -429 67 170 unknown
+1459771340896 C4Phoenix closed world -429 67 170 unknown
+1459771344047 Sackboyninja007 closed world 450 63 1665 unknown
+1459771344497 C4Phoenix closed world -430 67 169 unknown
+1459771346047 Sackboyninja007 clicked world 449 63 1663 CARROT_ITEM CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459771350198 Sackboyninja007 closed world 449 63 1663 SingleChest
+1459771354799 C4Phoenix closed world -430 67 169 unknown
+1459771355899 C4Phoenix closed world -430 67 169 unknown
+1459771365255 C4Phoenix closed world -430 67 169 unknown
+1459771379369 C4Phoenix closed world -430 67 169 unknown
+1459771396624 C4Phoenix closed world -430 67 169 unknown
+1459771471318 C4Phoenix closed world -598 69 312 unknown
+1459771507032 Sackboyninja007 closed world 462 63 1647 unknown
+1459771524249 Sackboyninja007 closed world 471 64 1648 unknown
+1459771556432 C4Phoenix closed world -654 67 421 unknown
+1459771559133 Sackboyninja007 closed world 473 64 1646 unknown
+1459771568241 C4Phoenix closed world -675 72 446 unknown
+1459771585626 C4Phoenix closed world -689 72 458 unknown
+1459771589027 Sackboyninja007 closed world 473 65 1656 unknown
+1459771617792 C4Phoenix closed world -738 65 438 unknown
+1459771674689 Sackboyninja007 closed world 458 63 1670 unknown
+1459771763989 Sackboyninja007 closed world 458 63 1682 unknown
+1459771802253 Sackboyninja007 closed world 459 71 1680 unknown
+1459771825705 C4Phoenix closed world -1091 66 417 unknown
+1459771845603 Sackboyninja007 closed world 460 72 1679 unknown
+1459771860654 Sackboyninja007 opened world 460 54 1662 DoubleChest
+1459771862254 Sackboyninja007 clicked world 460 54 1662 WOOD CraftPlayer 71 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459771864053 Sackboyninja007 closed world 460 54 1662 DoubleChest
+1459771896448 C4Phoenix closed world -1118 60 436 unknown
+1459771953892 Sackboyninja007 closed world 445 72 1683 unknown
+1459771962392 C4Phoenix closed world -1156 68 473 unknown
+1459771974442 C4Phoenix closed world -1154 67 472 unknown
+1459771983192 C4Phoenix closed world -1154 67 472 unknown
+1459771984892 C4Phoenix closed world -1154 67 472 unknown
+1459771985992 C4Phoenix closed world -1154 67 472 unknown
+1459771988593 C4Phoenix closed world -1154 67 472 unknown
+1459771994993 Sackboyninja007 closed world 456 72 1668 unknown
+1459772040168 Sackboyninja007 clicked world 449 63 1663 STONE_HOE CraftChest 10 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459772040417 Sackboyninja007 closed world 449 63 1663 SingleChest
+1459772055018 Sackboyninja007 clicked world 449 63 1663 CARROT_ITEM CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459772055467 Sackboyninja007 closed world 449 63 1663 SingleChest
+1459772062271 C4Phoenix closed world -1185 63 428 unknown
+1459772105737 C4Phoenix closed world -1174 62 433 unknown
+1459772106437 C4Phoenix closed world -1174 62 433 unknown
+1459772114537 C4Phoenix closed world -1171 64 430 unknown
+1459772120737 C4Phoenix closed world -1171 63 432 unknown
+1459772121643 C4Phoenix closed world -1171 63 432 unknown
+1459772127596 C4Phoenix closed world -1171 63 432 unknown
+1459772157619 C4Phoenix closed world -1170 64 421 unknown
+1459772235141 Sackboyninja007 closed world 445 72 1668 unknown
+1459772265515 C4Phoenix closed world -1166 59 421 unknown
+1459772279121 Sackboyninja007 closed world 447 71 1670 unknown
+1459772283476 Sackboyninja007 closed world 445 71 1673 unknown
+1459772296499 Sackboyninja007 clicked world 444 63 1680 AIR CraftChest 1 LEFT NOTHING
+1459772297100 Sackboyninja007 clicked world 444 63 1680 THIN_GLASS CraftChest 0 LEFT PICKUP_ALL
+1459772298050 Sackboyninja007 dragged world 444 63 1680 THIN_GLASS 1 0 1 SINGLE
+1459772298350 Sackboyninja007 dragged world 444 63 1680 THIN_GLASS 2 0 2 SINGLE
+1459772299151 Sackboyninja007 dragged world 444 63 1680 THIN_GLASS 12 1 0 EVEN
+1459772299250 Sackboyninja007 closed world 444 63 1680 SingleChest
+1459772310453 Sackboyninja007 closed world 450 63 1680 unknown
+1459772313860 Sackboyninja007 clicked world 444 63 1680 THIN_GLASS CraftPlayer 47 LEFT PICKUP_ALL
+1459772314859 Sackboyninja007 dragged world 444 63 1680 THIN_GLASS 1 1 0 SINGLE
+1459772315859 Sackboyninja007 dragged world 444 63 1680 THIN_GLASS 2 0 1 EVEN
+1459772315959 Sackboyninja007 closed world 444 63 1680 SingleChest
+1459772331759 C4Phoenix closed world -1166 59 422 unknown
+1459772336360 Sackboyninja007 closed world 455 63 1678 unknown
+1459772341510 Sackboyninja007 closed world 444 63 1680 SingleChest
+1459772343760 C4Phoenix closed world -1162 63 425 unknown
+1459772350710 Sackboyninja007 clicked world 449 63 1663 STONE_HOE CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459772351110 Sackboyninja007 closed world 449 63 1663 SingleChest
+1459772356460 C4Phoenix closed world -1164 63 426 unknown
+1459772358010 Sackboyninja007 clicked world 449 63 1663 CARROT_ITEM CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459772358310 Sackboyninja007 closed world 449 63 1663 SingleChest
+1459772465550 C4Phoenix closed world -1157 64 424 unknown
+1459772477130 C4Phoenix closed world -1158 63 424 unknown
+1459772480381 C4Phoenix closed world -1159 63 424 unknown
+1459772503732 C4Phoenix closed world -1159 63 424 unknown
+1459772507783 C4Phoenix closed world -1160 63 424 unknown
+1459772513983 C4Phoenix closed world -1158 63 424 unknown
+1459772516333 C4Phoenix closed world -1160 63 424 unknown
+1459772525884 C4Phoenix closed world -1162 63 424 unknown
+1459772532634 C4Phoenix closed world -1166 60 423 unknown
+1459772570501 C4Phoenix closed world -1162 63 424 unknown
+1459772575202 Sackboyninja007 closed world 463 63 1642 unknown
+1459772588452 C4Phoenix closed world -1166 60 422 unknown
+1459772593852 C4Phoenix closed world -1164 63 424 unknown
+1459772594703 Sackboyninja007 closed world 463 54 1665 unknown
+1459772641989 DragonRider0x2A closed world -188 65 201 unknown
+1459772672602 Sackboyninja007 closed world 461 54 1663 unknown
+1459772680971 Coolman20a closed world -207 77 270 unknown
+1459772683071 Coolman20a closed world -206 76 270 unknown
+1459772688421 Sackboyninja007 closed world 461 54 1664 unknown
+1459772701021 C4Phoenix closed world -1166 59 422 unknown
+1459772703621 C4Phoenix closed world -1166 59 422 unknown
+1459772710373 Coolman20a clicked world -205 77 254 STEP CraftPlayer 28 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459772712973 Coolman20a clicked world -205 77 254 STEP CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459772713473 Coolman20a clicked world -205 77 254 COBBLESTONE CraftPlayer 29 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459772714523 Coolman20a clicked world -205 77 254 STEP CraftPlayer 38 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459772714823 Coolman20a clicked world -205 77 254 NETHER_FENCE CraftPlayer 37 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459772715473 Coolman20a closed world -205 77 254 SingleChest
+1459772729531 C4Phoenix closed world -1166 59 422 unknown
+1459772734193 Coolman20a clicked world -205 77 254 NETHERRACK CraftPlayer 31 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459772735143 Coolman20a clicked world -205 77 254 WOOL CraftPlayer 41 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459772736244 Coolman20a clicked world -205 77 254 QUARTZ CraftPlayer 35 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459772737294 Coolman20a clicked world -205 77 254 HOPPER CraftPlayer 51 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459772738044 Coolman20a clicked world -205 77 254 MUTTON CraftPlayer 48 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459772739194 Coolman20a clicked world -205 77 254 WOOD CraftPlayer 58 LEFT PICKUP_ALL
+1459772739694 Coolman20a clicked world -205 77 254 WOOD CraftPlayer 47 LEFT PLACE_ALL
+1459772740344 Coolman20a clicked world -205 77 254 GLOWSTONE CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459772741494 Coolman20a clicked world -205 77 254 STONE_SWORD CraftPlayer 36 LEFT PICKUP_ALL
+1459772741944 Coolman20a clicked world -205 77 254 STEP CraftPlayer 54 LEFT SWAP_WITH_CURSOR
+1459772742244 Coolman20a clicked world -205 77 254 AIR CraftPlayer 36 LEFT PLACE_ALL
+1459772742594 Coolman20a closed world -205 77 254 SingleChest
+1459772746494 C4Phoenix closed world -1166 58 421 unknown
+1459772755596 Coolman20a closed world -204 77 255 SingleChest
+[Exception] 1459772763297 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:52)
+[Exception] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[Exception] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+1459772767348 Coolman20a closed world -207 77 268 unknown
+[Exception] 1459772770348 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:52)
+[Exception] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[Exception] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+1459772771748 Coolman20a closed world -207 77 268 unknown
+1459772787550 Coolman20a closed world -211 77 230 unknown
+1459772810632 C4Phoenix closed world -1166 59 420 unknown
+1459772817433 C4Phoenix closed world -1166 59 420 unknown
+1459772819232 Coolman20a closed world -190 65 202 unknown
+1459772827885 C4Phoenix closed world -1166 58 421 unknown
+1459772855959 Sackboyninja007 closed world 461 54 1664 unknown
+1459772868510 Sackboyninja007 closed world 461 54 1666 unknown
+1459772882584 Coolman20a closed world -206 77 226 SingleChest
+1459772899337 C4Phoenix closed world -1166 59 421 unknown
+1459772902837 Coolman20a closed world -228 77 240 unknown
+1459772909688 C4Phoenix closed world -1166 61 423 unknown
+1459772911238 Coolman20a closed world -235 77 234 unknown
+1459772948266 Coolman20a closed world -224 77 233 unknown
+1459772952470 Sackboyninja007 closed world 450 63 1660 unknown
+1459772971023 C4Phoenix closed world -1166 61 423 unknown
+1459772973523 Coolman20a closed world -224 77 235 unknown
+1459772981324 Sackboyninja007 closed world 452 63 1657 unknown
+1459772988676 Coolman20a closed world -225 77 234 unknown
+1459773064738 Coolman20a closed world -225 77 242 unknown
+1459773067188 Sackboyninja007 closed world 452 63 1657 unknown
+1459773080339 C4Phoenix closed world -1166 61 423 unknown
+1459773085789 C4Phoenix closed world -1166 58 421 unknown
+1459773133225 Sackboyninja007 closed world 452 63 1658 unknown
+1459773151577 C4Phoenix closed world -1166 55 421 unknown
+1459773312836 Sackboyninja007 opened world 460 54 1662 DoubleChest
+1459773314636 Sackboyninja007 clicked world 460 54 1662 INK_SACK CraftPlayer 62 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773315436 Sackboyninja007 clicked world 460 54 1662 WOOD CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773315886 Sackboyninja007 clicked world 460 54 1662 IRON_HELMET CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773316236 Sackboyninja007 clicked world 460 54 1662 IRON_CHESTPLATE CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773316436 Sackboyninja007 clicked world 460 54 1662 IRON_LEGGINGS CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773317036 Sackboyninja007 clicked world 460 54 1662 IRON_BOOTS CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773317336 Sackboyninja007 clicked world 460 54 1662 AIR CraftPlayer 57 SHIFT_LEFT NOTHING
+1459773320886 Sackboyninja007 clicked world 460 54 1662 AIR CraftPlayer 59 SHIFT_LEFT NOTHING
+1459773321786 Sackboyninja007 clicked world 460 54 1662 AIR CraftPlayer 59 SHIFT_LEFT NOTHING
+1459773323035 Sackboyninja007 clicked world 460 54 1662 AIR DoubleChest 51 MIDDLE NOTHING
+1459773323246 Sackboyninja007 clicked world 460 54 1662 AIR DoubleChest 51 MIDDLE NOTHING
+1459773324396 Sackboyninja007 clicked world 460 54 1662 LOG CraftPlayer 64 LEFT PICKUP_ALL
+1459773325097 Sackboyninja007 dragged world 460 54 1662 LOG 64 1 0 EVEN
+1459773325796 Sackboyninja007 clicked world 460 54 1662 LOG CraftPlayer 84 LEFT PICKUP_ALL
+1459773326596 Sackboyninja007 dragged world 460 54 1662 LOG 18 1 0 EVEN
+1459773327946 Sackboyninja007 clicked world 460 54 1662 FISHING_ROD CraftPlayer 63 LEFT PICKUP_ALL
+1459773328746 Sackboyninja007 clicked world 460 54 1662 AIR DoubleChest 43 LEFT PLACE_ALL
+1459773330196 Sackboyninja007 closed world 460 54 1662 DoubleChest
+1459773691367 Coolman20a opened world -205 77 261 DoubleChest
+1459773693067 Coolman20a clicked world -205 77 261 LOG_2 DoubleChest 41 LEFT PICKUP_ALL
+1459773693576 Coolman20a clicked world -205 77 261 AIR CraftPlayer 58 LEFT PLACE_ALL
+1459773696376 Coolman20a closed world -205 77 261 DoubleChest
+1459773697177 Coolman20a opened world -205 78 261 DoubleChest
+1459773698627 Coolman20a closed world -205 78 261 DoubleChest
+1459773699377 Coolman20a opened world -202 77 263 DoubleChest
+1459773699977 Coolman20a closed world -202 77 263 DoubleChest
+1459773700228 Coolman20a opened world -202 78 263 DoubleChest
+1459773701127 Coolman20a closed world -202 78 263 DoubleChest
+1459773701378 Coolman20a opened world -202 79 263 DoubleChest
+1459773702028 Coolman20a closed world -202 79 263 DoubleChest
+1459773705228 Coolman20a clicked world -208 77 266 WORKBENCH CraftChest 6 LEFT PICKUP_ALL
+1459773705628 Coolman20a clicked world -208 77 266 DARK_OAK_DOOR_ITEM CraftChest 15 LEFT SWAP_WITH_CURSOR
+1459773706328 Coolman20a dragged world -208 77 266 DARK_OAK_DOOR_ITEM 24 0 1 EVEN
+1459773884327 Coolman20a opened world -205 77 261 DoubleChest
+1459773887113 Coolman20a clicked world -205 77 261 STEP DoubleChest 3 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773887521 Coolman20a closed world -205 77 261 DoubleChest
+1459773974004 Coolman20a clicked world -205 77 254 CARROT_ITEM CraftPlayer 29 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773975404 Coolman20a clicked world -205 77 254 STONE CraftPlayer 35 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773976603 Coolman20a clicked world -205 77 254 STONE CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773977104 Coolman20a clicked world -205 77 254 SMOOTH_BRICK CraftPlayer 34 LEFT PICKUP_ALL
+1459773977603 Coolman20a clicked world -205 77 254 SMOOTH_BRICK CraftPlayer 52 LEFT PLACE_ALL
+1459773977854 Coolman20a clicked world -205 77 254 SMOOTH_BRICK CraftPlayer 52 LEFT PICKUP_ALL
+1459773978253 Coolman20a dragged world -205 77 254 SMOOTH_BRICK 17 0 1 EVEN
+1459773978453 Coolman20a clicked world -205 77 254 QUARTZ_STAIRS CraftPlayer 43 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773979103 Coolman20a clicked world -205 77 254 QUARTZ_BLOCK CraftPlayer 48 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773979704 Coolman20a clicked world -205 77 254 STEP CraftPlayer 36 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773980404 Coolman20a clicked world -205 77 254 WOOD CraftPlayer 46 LEFT PICKUP_ALL
+1459773980803 Coolman20a clicked world -205 77 254 AIR CraftPlayer 37 LEFT PLACE_ALL
+1459773983554 Coolman20a clicked world -205 77 254 GRAVEL CraftPlayer 42 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773984053 Coolman20a clicked world -205 77 254 SMOOTH_STAIRS CraftPlayer 49 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773985104 Coolman20a clicked world -205 77 254 BUCKET CraftPlayer 39 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459773985854 Coolman20a clicked world -205 77 254 BUCKET CraftChest 16 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774892874 C4Phoenix opened world -1165 55 431 DoubleChest
+1459774894624 C4Phoenix clicked world -1165 55 431 STONE CraftPlayer 70 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774895224 C4Phoenix clicked world -1165 55 431 LEATHER CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774895424 C4Phoenix clicked world -1165 55 431 BONE CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774895724 C4Phoenix clicked world -1165 55 431 COBBLESTONE CraftPlayer 62 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774896875 C4Phoenix clicked world -1165 55 431 COBBLESTONE DoubleChest 3 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774897646 C4Phoenix clicked world -1165 55 431 LADDER CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774897845 C4Phoenix clicked world -1165 55 431 WOOL CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774898046 C4Phoenix clicked world -1165 55 431 WOOD CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774898345 C4Phoenix clicked world -1165 55 431 CACTUS CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774898646 C4Phoenix clicked world -1165 55 431 SAPLING CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774898896 C4Phoenix clicked world -1165 55 431 COAL CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774899495 C4Phoenix clicked world -1165 55 431 SAND CraftPlayer 63 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774899696 C4Phoenix clicked world -1165 55 431 STONE CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774899895 C4Phoenix clicked world -1165 55 431 RED_ROSE CraftPlayer 65 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774900796 C4Phoenix clicked world -1165 55 431 DIRT CraftPlayer 67 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774901346 C4Phoenix clicked world -1165 55 431 STICK CraftPlayer 68 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774901946 C4Phoenix clicked world -1165 55 431 LOG CraftPlayer 69 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774902497 C4Phoenix clicked world -1165 55 431 COBBLESTONE CraftPlayer 70 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774902996 C4Phoenix clicked world -1165 55 431 SUGAR_CANE CraftPlayer 71 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774903897 C4Phoenix clicked world -1165 55 431 FEATHER CraftPlayer 79 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774904997 C4Phoenix clicked world -1165 55 431 IRON_INGOT CraftPlayer 78 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774905247 C4Phoenix clicked world -1165 55 431 STONE CraftPlayer 77 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774905498 C4Phoenix clicked world -1165 55 431 INK_SACK CraftPlayer 76 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774905848 C4Phoenix clicked world -1165 55 431 TRAP_DOOR CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774906148 C4Phoenix clicked world -1165 55 431 WOOD_PICKAXE CraftPlayer 74 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774906398 C4Phoenix clicked world -1165 55 431 STONE CraftPlayer 73 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774906598 C4Phoenix clicked world -1165 55 431 ROTTEN_FLESH CraftPlayer 72 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774906798 C4Phoenix closed world -1165 55 431 DoubleChest
+1459774918005 Sackboyninja007 opened world -1165 55 431 DoubleChest
+1459774918905 Sackboyninja007 clicked world -1165 55 431 COBBLESTONE CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774919206 Sackboyninja007 clicked world -1165 55 431 COBBLESTONE CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774919506 Sackboyninja007 clicked world -1165 55 431 STONE CraftPlayer 86 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774920407 Sackboyninja007 clicked world -1165 55 431 STONE CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774920807 Sackboyninja007 clicked world -1165 55 431 STONE CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774921008 C4Phoenix opened world -1165 55 431 DoubleChest
+1459774921107 Sackboyninja007 clicked world -1165 55 431 STONE CraftPlayer 79 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774921308 Sackboyninja007 clicked world -1165 55 431 STONE CraftPlayer 78 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774921508 Sackboyninja007 clicked world -1165 55 431 STONE CraftPlayer 77 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774921908 Sackboyninja007 closed world -1165 55 431 DoubleChest
+1459774924610 C4Phoenix clicked world -1165 55 431 STONE DoubleChest 27 LEFT PICKUP_ALL
+1459774925411 C4Phoenix clicked world -1165 55 431 STONE CraftPlayer 82 LEFT SWAP_WITH_CURSOR
+1459774925661 C4Phoenix clicked world -1165 55 431 AIR CraftPlayer 73 LEFT PLACE_ALL
+1459774925811 C4Phoenix closed world -1165 55 431 DoubleChest
+1459774941118 C4Phoenix opened world -1165 55 431 DoubleChest
+1459774942218 C4Phoenix clicked world -1165 55 431 STONE DoubleChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774942468 C4Phoenix closed world -1165 55 431 DoubleChest
+1459774948471 C4Phoenix opened world -1165 55 431 DoubleChest
+1459774949221 C4Phoenix clicked world -1165 55 431 STONE CraftPlayer 63 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459774949471 C4Phoenix closed world -1165 55 431 DoubleChest
+1459774953823 Sackboyninja007 opened world -1165 55 431 DoubleChest
+1459774955773 Sackboyninja007 closed world -1165 55 431 DoubleChest
+1459774956822 C4Phoenix opened world -1165 55 431 DoubleChest
+1459774957532 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775043895 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775045545 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775158292 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775160094 C4Phoenix clicked world -1165 55 431 COBBLESTONE DoubleChest 25 LEFT PICKUP_ALL
+1459775160944 C4Phoenix clicked world -1165 55 431 WOOL CraftPlayer 89 LEFT SWAP_WITH_CURSOR
+1459775161344 C4Phoenix dragged world -1165 55 431 WOOL 1 0 1 EVEN
+1459775161444 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775216093 Coolman20a opened world -1165 55 431 DoubleChest
+1459775218142 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775218293 Coolman20a clicked world -1165 55 431 STONE CraftPlayer 73 LEFT PICKUP_ALL
+1459775220144 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775220194 Coolman20a dragged world -1165 55 431 STONE 5 0 1 EVEN
+1459775220294 Coolman20a closed world -1165 55 431 DoubleChest
+1459775224245 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775224896 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775237501 Coolman20a opened world -1165 55 431 DoubleChest
+1459775238200 Coolman20a clicked world -1165 55 431 RAW_CHICKEN CraftPlayer 56 LEFT PICKUP_ALL
+1459775238501 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775239050 Coolman20a clicked world -1165 55 431 AIR DoubleChest 53 LEFT PLACE_ALL
+1459775240050 Coolman20a closed world -1165 55 431 DoubleChest
+1459775240702 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775241952 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775242552 Coolman20a opened world -1165 55 431 DoubleChest
+1459775242901 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775243603 Coolman20a clicked world -1165 55 431 ROTTEN_FLESH CraftPlayer 63 LEFT PICKUP_ALL
+1459775244153 Coolman20a clicked world -1165 55 431 FEATHER CraftPlayer 54 LEFT SWAP_WITH_CURSOR
+1459775244903 Coolman20a clicked world -1165 55 431 AIR DoubleChest 52 LEFT PLACE_ALL
+1459775245503 Coolman20a clicked world -1165 55 431 WOOL CraftPlayer 70 LEFT PICKUP_ALL
+1459775246053 Coolman20a clicked world -1165 55 431 AIR DoubleChest 51 LEFT PLACE_ALL
+1459775250005 Coolman20a clicked world -1165 55 431 WATER_BUCKET CraftPlayer 85 LEFT PICKUP_ALL
+1459775250554 Coolman20a clicked world -1165 55 431 LAVA_BUCKET CraftPlayer 86 LEFT SWAP_WITH_CURSOR
+1459775250855 Coolman20a clicked world -1165 55 431 AIR CraftPlayer 85 LEFT PLACE_ALL
+1459775251054 Coolman20a closed world -1165 55 431 DoubleChest
+1459775277477 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775278727 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775373242 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775374493 C4Phoenix clicked world -1165 55 431 IRON_INGOT DoubleChest 18 LEFT PICKUP_ALL
+1459775375194 C4Phoenix clicked world -1165 55 431 AIR CraftPlayer 73 LEFT PLACE_ALL
+1459775375294 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775422625 Coolman20a opened world -1165 55 431 DoubleChest
+1459775423325 Coolman20a closed world -1165 55 431 DoubleChest
+1459775481262 Coolman20a opened world -1165 55 431 DoubleChest
+1459775483313 Coolman20a closed world -1165 55 431 DoubleChest
+1459775498262 Sackboyninja007 opened world -1165 55 431 DoubleChest
+1459775500362 Sackboyninja007 closed world -1165 55 431 DoubleChest
+1459775502664 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775504365 C4Phoenix clicked world -1165 55 431 STONE CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775504965 C4Phoenix clicked world -1165 55 431 STONE CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775505564 C4Phoenix clicked world -1165 55 431 STONE CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775506515 Coolman20a opened world -1165 55 431 DoubleChest
+1459775506516 C4Phoenix clicked world -1165 55 431 STONE CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775507616 Coolman20a clicked world -1165 55 431 BOW CraftPlayer 87 LEFT PICKUP_ALL
+1459775509215 Coolman20a clicked world -1165 55 431 AIR CraftPlayer 87 LEFT PLACE_ALL
+1459775509665 Coolman20a closed world -1165 55 431 DoubleChest
+1459775509816 C4Phoenix clicked world -1165 55 431 STONE CraftPlayer 73 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775511266 C4Phoenix clicked world -1165 55 431 WOOL CraftPlayer 79 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775512767 C4Phoenix clicked world -1165 55 431 TORCH CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775513267 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775526872 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775528023 C4Phoenix clicked world -1165 55 431 STONE CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775528924 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775588750 Sackboyninja007 opened world -1165 55 431 DoubleChest
+1459775589401 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775590802 C4Phoenix clicked world -1165 55 431 STICK DoubleChest 13 LEFT PICKUP_ALL
+1459775591102 Sackboyninja007 closed world -1165 55 431 DoubleChest
+1459775591451 C4Phoenix dragged world -1165 55 431 STICK 1 0 1 EVEN
+1459775591501 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775610608 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775611609 C4Phoenix clicked world -1165 55 431 TORCH DoubleChest 27 LEFT PICKUP_ALL
+1459775612159 C4Phoenix dragged world -1165 55 431 TORCH 1 1 0 EVEN
+1459775613813 C4Phoenix clicked world -1165 55 431 COAL DoubleChest 8 LEFT PICKUP_ALL
+1459775614511 C4Phoenix clicked world -1165 55 431 AIR CraftPlayer 68 LEFT PLACE_ALL
+1459775615661 C4Phoenix clicked world -1165 55 431 LOG DoubleChest 14 LEFT PICKUP_ALL
+1459775616362 C4Phoenix clicked world -1165 55 431 AIR CraftPlayer 58 RIGHT PLACE_ONE
+1459775616514 C4Phoenix clicked world -1165 55 431 LOG CraftPlayer 58 RIGHT PLACE_ONE
+1459775616713 C4Phoenix clicked world -1165 55 431 LOG CraftPlayer 58 RIGHT PLACE_ONE
+1459775616863 C4Phoenix clicked world -1165 55 431 LOG CraftPlayer 58 RIGHT PLACE_ONE
+1459775617576 C4Phoenix clicked world -1165 55 431 AIR DoubleChest 14 LEFT PLACE_ALL
+1459775617676 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775692803 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775696004 C4Phoenix clicked world -1165 55 431 WOOD DoubleChest 5 LEFT PICKUP_ALL
+1459775696604 C4Phoenix dragged world -1165 55 431 WOOD 1 0 1 EVEN
+1459775697053 C4Phoenix clicked world -1165 55 431 LOG DoubleChest 14 LEFT PICKUP_ALL
+1459775698307 C4Phoenix clicked world -1165 55 431 AIR CraftPlayer 58 RIGHT PLACE_ONE
+1459775698509 C4Phoenix clicked world -1165 55 431 LOG CraftPlayer 58 RIGHT PLACE_ONE
+1459775699157 C4Phoenix clicked world -1165 55 431 AIR DoubleChest 5 LEFT PLACE_ALL
+1459775699307 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775747815 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775754716 C4Phoenix clicked world -1165 55 431 LOG DoubleChest 5 LEFT PICKUP_ALL
+1459775755566 C4Phoenix clicked world -1165 55 431 AIR CraftPlayer 69 LEFT PLACE_ALL
+1459775755616 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775780449 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775781150 C4Phoenix clicked world -1165 55 431 STONE DoubleChest 28 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775781400 C4Phoenix clicked world -1165 55 431 STONE DoubleChest 18 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775781559 C4Phoenix clicked world -1165 55 431 STONE DoubleChest 19 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775781710 C4Phoenix clicked world -1165 55 431 INK_SACK DoubleChest 20 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775781961 C4Phoenix clicked world -1165 55 431 TRAP_DOOR DoubleChest 21 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775782111 Coolman20a opened world -205 77 261 DoubleChest
+1459775782112 C4Phoenix clicked world -1165 55 431 AIR DoubleChest 21 SHIFT_LEFT NOTHING
+1459775782311 C4Phoenix clicked world -1165 55 431 WOOD_PICKAXE DoubleChest 22 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775782511 C4Phoenix clicked world -1165 55 431 STONE DoubleChest 23 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775782660 C4Phoenix clicked world -1165 55 431 ROTTEN_FLESH DoubleChest 24 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775782861 C4Phoenix clicked world -1165 55 431 AIR DoubleChest 24 SHIFT_LEFT NOTHING
+1459775783062 C4Phoenix clicked world -1165 55 431 WOOL DoubleChest 25 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775783362 Coolman20a closed world -205 77 261 DoubleChest
+1459775783412 C4Phoenix clicked world -1165 55 431 COBBLESTONE DoubleChest 26 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775783612 Coolman20a opened world -205 77 261 DoubleChest
+1459775783661 C4Phoenix clicked world -1165 55 431 FEATHER DoubleChest 17 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775783812 C4Phoenix clicked world -1165 55 431 SUGAR_CANE DoubleChest 16 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775784012 C4Phoenix clicked world -1165 55 431 COBBLESTONE DoubleChest 15 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775784362 Coolman20a closed world -205 77 261 DoubleChest
+1459775784461 C4Phoenix clicked world -1165 55 431 SAPLING DoubleChest 7 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775784662 Coolman20a opened world -205 78 261 DoubleChest
+1459775784663 C4Phoenix clicked world -1165 55 431 CACTUS DoubleChest 6 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775785012 C4Phoenix clicked world -1165 55 431 WOOL DoubleChest 4 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775785211 C4Phoenix clicked world -1165 55 431 LADDER DoubleChest 3 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775785462 C4Phoenix clicked world -1165 55 431 BONE DoubleChest 2 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775785662 C4Phoenix clicked world -1165 55 431 AIR DoubleChest 2 SHIFT_LEFT NOTHING
+1459775786061 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775786512 Coolman20a closed world -205 78 261 DoubleChest
+1459775786512 C4Phoenix opened world -1168 55 430 DoubleChest
+1459775787762 Coolman20a opened world -202 77 263 DoubleChest
+1459775788662 Coolman20a closed world -202 77 263 DoubleChest
+1459775789263 Coolman20a opened world -202 77 263 DoubleChest
+1459775789773 Coolman20a closed world -202 77 263 DoubleChest
+1459775789973 Coolman20a opened world -202 77 263 DoubleChest
+1459775790573 Coolman20a closed world -202 77 263 DoubleChest
+1459775790874 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 39 LEFT NOTHING
+1459775791724 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 39 SHIFT_LEFT NOTHING
+1459775792424 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 39 SHIFT_LEFT NOTHING
+1459775792674 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 39 SHIFT_RIGHT NOTHING
+1459775793276 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 39 SHIFT_LEFT NOTHING
+1459775794628 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 39 SHIFT_LEFT NOTHING
+1459775794678 Coolman20a opened world -213 77 268 DoubleChest
+1459775795778 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 39 SHIFT_LEFT NOTHING
+1459775796077 Coolman20a closed world -213 77 268 DoubleChest
+1459775796628 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 39 SHIFT_LEFT NOTHING
+1459775797028 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 39 SHIFT_LEFT NOTHING
+1459775798536 Coolman20a opened world -213 77 268 DoubleChest
+1459775799336 Coolman20a clicked world -213 77 268 DIAMOND_HELMET CraftPlayer 66 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775799637 Coolman20a clicked world -213 77 268 DIAMOND_CHESTPLATE CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775799836 Coolman20a clicked world -213 77 268 DIAMOND_LEGGINGS CraftPlayer 63 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775800237 C4Phoenix clicked world -1168 55 430 BED CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775800587 Coolman20a clicked world -213 77 268 DIAMOND_BOOTS CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775801037 Coolman20a clicked world -213 77 268 FURNACE CraftPlayer 60 LEFT PICKUP_ALL
+1459775801688 C4Phoenix clicked world -1168 55 430 BED DoubleChest 0 LEFT PICKUP_ALL
+1459775801737 Coolman20a clicked world -213 77 268 AIR DoubleChest 52 LEFT PLACE_ALL
+1459775802595 C4Phoenix clicked world -1168 55 430 BONE CraftPlayer 56 LEFT SWAP_WITH_CURSOR
+1459775802844 Coolman20a clicked world -213 77 268 SHEARS CraftPlayer 62 LEFT PICKUP_ALL
+1459775803295 Coolman20a clicked world -213 77 268 AIR DoubleChest 51 LEFT PLACE_ALL
+1459775803495 C4Phoenix clicked world -1168 55 430 BED CraftPlayer 56 LEFT SWAP_WITH_CURSOR
+1459775803795 C4Phoenix dragged world -1168 55 430 BED 1 0 1 EVEN
+1459775804094 Coolman20a clicked world -213 77 268 DIAMOND_BOOTS DoubleChest 16 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775804245 C4Phoenix clicked world -1168 55 430 COBBLESTONE CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775804295 Coolman20a clicked world -213 77 268 DIAMOND_LEGGINGS DoubleChest 15 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775804595 Coolman20a clicked world -213 77 268 DIAMOND_CHESTPLATE DoubleChest 14 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775804746 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 74 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775804896 Coolman20a clicked world -213 77 268 DIAMOND_HELMET DoubleChest 13 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775805346 Coolman20a closed world -213 77 268 DoubleChest
+1459775805452 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 79 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775805711 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775806367 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775808514 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 21 MIDDLE NOTHING
+1459775808914 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 21 MIDDLE NOTHING
+1459775809714 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 1 LEFT PICKUP_ALL
+1459775810114 C4Phoenix clicked world -1168 55 430 COBBLESTONE DoubleChest 0 LEFT SWAP_WITH_CURSOR
+1459775810314 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 1 LEFT PLACE_ALL
+1459775810565 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 48 MIDDLE NOTHING
+1459775811915 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 19 SHIFT_LEFT NOTHING
+1459775812867 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 19 SHIFT_LEFT NOTHING
+1459775813066 Coolman20a opened world -213 77 268 DoubleChest
+1459775813216 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 19 SHIFT_LEFT NOTHING
+1459775813566 Coolman20a clicked world -213 77 268 ENCHANTED_BOOK CraftPlayer 61 LEFT PICKUP_ALL
+1459775814017 Coolman20a clicked world -213 77 268 AIR DoubleChest 50 LEFT PLACE_ALL
+1459775814017 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 19 MIDDLE NOTHING
+1459775814766 Coolman20a closed world -213 77 268 DoubleChest
+1459775814866 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 0 LEFT PICKUP_ALL
+1459775815218 C4Phoenix clicked world -1168 55 430 COBBLESTONE DoubleChest 1 LEFT SWAP_WITH_CURSOR
+1459775815517 C4Phoenix dragged world -1168 55 430 COBBLESTONE 21 1 0 EVEN
+1459775819273 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 1 LEFT PICKUP_ALL
+1459775819723 C4Phoenix dragged world -1168 55 430 STONE 20 1 0 EVEN
+1459775820624 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 2 LEFT PICKUP_ALL
+1459775822074 C4Phoenix dragged world -1168 55 430 STONE 35 1 0 EVEN
+1459775822374 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 10 LEFT PICKUP_ALL
+1459775822975 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 29 LEFT PLACE_ALL
+1459775824025 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 3 LEFT PICKUP_ALL
+1459775824175 Coolman20a opened world -205 77 261 DoubleChest
+1459775824475 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 3 LEFT PLACE_ALL
+1459775824825 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 4 LEFT PICKUP_ALL
+1459775825425 Coolman20a clicked world -205 77 261 COBBLESTONE DoubleChest 29 LEFT PICKUP_ALL
+1459775826030 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 18 LEFT PLACE_ALL
+1459775826279 Coolman20a clicked world -205 77 261 AIR CraftPlayer 60 LEFT PLACE_ALL
+1459775827280 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 3 LEFT PICKUP_ALL
+1459775827796 Coolman20a closed world -205 77 261 DoubleChest
+1459775828146 Coolman20a opened world -202 77 263 DoubleChest
+1459775828497 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 29 LEFT SWAP_WITH_CURSOR
+1459775829246 Coolman20a closed world -202 77 263 DoubleChest
+1459775840458 C4Phoenix dragged world -1168 55 430 STONE 20 1 0 EVEN
+1459775840808 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 29 LEFT PICKUP_ALL
+1459775841408 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 32 LEFT PLACE_ALL
+1459775844731 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 18 LEFT PICKUP_ALL
+1459775845082 C4Phoenix dragged world -1168 55 430 STONE 1 1 0 EVEN
+1459775845533 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 32 LEFT PICKUP_ALL
+1459775845882 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 41 LEFT PLACE_ALL
+1459775846232 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 14 LEFT PICKUP_ALL
+1459775846584 C4Phoenix dragged world -1168 55 430 STONE 20 1 0 EVEN
+1459775847083 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 9 LEFT PICKUP_ALL
+1459775847634 Coolman20a opened world -206 74 275 DoubleChest
+1459775847884 C4Phoenix dragged world -1168 55 430 STONE 35 1 0 EVEN
+1459775850285 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 87 LEFT PICKUP_ALL
+1459775851085 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 32 LEFT PLACE_ALL
+1459775852086 Coolman20a closed world -206 74 275 DoubleChest
+1459775852286 C4Phoenix clicked world -1168 55 430 COBBLESTONE CraftPlayer 89 LEFT PICKUP_ALL
+1459775853197 C4Phoenix dragged world -1168 55 430 COBBLESTONE 43 1 0 EVEN
+1459775853447 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 1 LEFT PLACE_ALL
+1459775860429 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 82 LEFT PICKUP_ALL
+1459775861238 C4Phoenix dragged world -1168 55 430 STONE 40 1 0 EVEN
+1459775861539 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 42 LEFT PLACE_ALL
+1459775863089 C4Phoenix closed world -1168 55 430 DoubleChest
+1459775864211 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775865237 C4Phoenix clicked world -1165 55 431 DIRT DoubleChest 12 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775865488 C4Phoenix clicked world -1165 55 431 STONE DoubleChest 10 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775865738 C4Phoenix clicked world -1165 55 431 SAND DoubleChest 9 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775866038 C4Phoenix clicked world -1165 55 431 STONE DoubleChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775866238 C4Phoenix clicked world -1165 55 431 LEATHER DoubleChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775866506 C4Phoenix clicked world -1165 55 431 RED_ROSE DoubleChest 11 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775866756 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775867156 C4Phoenix opened world -1168 55 430 DoubleChest
+1459775869022 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775870423 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 80 LEFT PICKUP_ALL
+1459775870673 Coolman20a opened world -202 77 263 DoubleChest
+1459775871706 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 36 LEFT PLACE_ALL
+1459775872656 Coolman20a closed world -202 77 263 DoubleChest
+1459775872857 Coolman20a opened world -202 78 263 DoubleChest
+1459775874906 C4Phoenix clicked world -1168 55 430 DIRT CraftPlayer 89 LEFT PICKUP_ALL
+1459775875594 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 45 LEFT PLACE_ALL
+1459775875594 Coolman20a closed world -202 78 263 DoubleChest
+1459775875844 Coolman20a opened world -202 79 263 DoubleChest
+1459775876553 Coolman20a closed world -202 79 263 DoubleChest
+1459775877353 Coolman20a opened world -205 77 261 DoubleChest
+1459775879789 Coolman20a clicked world -205 77 261 AIR CraftPlayer 70 LEFT NOTHING
+1459775879939 C4Phoenix clicked world -1168 55 430 DIRT DoubleChest 45 LEFT PICKUP_ALL
+1459775880841 C4Phoenix dragged world -1168 55 430 DIRT 52 0 1 EVEN
+1459775881192 C4Phoenix closed world -1168 55 430 DoubleChest
+1459775882791 Coolman20a clicked world -205 77 261 FLINT DoubleChest 7 LEFT PICKUP_ALL
+1459775883417 Coolman20a dragged world -205 77 261 FLINT 1 0 1 EVEN
+1459775883617 Coolman20a closed world -205 77 261 DoubleChest
+1459775891623 C4Phoenix opened world -1168 55 430 DoubleChest
+1459775892472 C4Phoenix clicked world -1168 55 430 COBBLESTONE DoubleChest 1 RIGHT PICKUP_HALF
+1459775892973 C4Phoenix clicked world -1168 55 430 COBBLESTONE DoubleChest 1 LEFT PLACE_ALL
+1459775893323 C4Phoenix clicked world -1168 55 430 COBBLESTONE DoubleChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775893623 C4Phoenix closed world -1168 55 430 DoubleChest
+1459775904182 C4Phoenix opened world -1168 55 430 DoubleChest
+1459775904932 C4Phoenix closed world -1168 55 430 DoubleChest
+1459775908188 Coolman20a opened world -188 66 208 DoubleChest
+1459775909338 Coolman20a clicked world -188 66 208 IRON_INGOT DoubleChest 6 LEFT PICKUP_ALL
+1459775910238 Coolman20a dragged world -188 66 208 IRON_INGOT 1 0 1 SINGLE
+1459775910788 Coolman20a dragged world -188 66 208 IRON_INGOT 43 1 0 EVEN
+1459775911040 Coolman20a closed world -188 66 208 DoubleChest
+1459775940738 C4Phoenix opened world -1168 55 430 DoubleChest
+1459775941838 C4Phoenix closed world -1168 55 430 DoubleChest
+1459775951537 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775954441 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775955641 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775959075 C4Phoenix closed world -1165 55 431 DoubleChest
+1459775959525 C4Phoenix opened world -1168 55 430 DoubleChest
+1459775961076 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775961522 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775963773 C4Phoenix clicked world -1168 55 430 COBBLESTONE CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775977870 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 36 LEFT PICKUP_ALL
+1459775978364 C4Phoenix dragged world -1168 55 430 STONE 3 1 0 EVEN
+1459775978614 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 27 LEFT PICKUP_ALL
+1459775978965 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 36 LEFT PLACE_ALL
+1459775979265 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 18 LEFT PICKUP_ALL
+1459775979665 C4Phoenix dragged world -1168 55 430 STONE 35 1 0 EVEN
+1459775980247 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 41 LEFT PICKUP_ALL
+1459775980647 C4Phoenix dragged world -1168 55 430 STONE 64 1 0 EVEN
+1459775980848 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 42 LEFT PICKUP_ALL
+1459775981198 C4Phoenix dragged world -1168 55 430 STONE 25 1 0 EVEN
+1459775981448 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 32 LEFT PICKUP_ALL
+1459775981797 C4Phoenix dragged world -1168 55 430 STONE 47 1 0 EVEN
+1459775982048 C4Phoenix clicked world -1168 55 430 STONE DoubleChest 23 LEFT PICKUP_ALL
+1459775982399 C4Phoenix dragged world -1168 55 430 STONE 20 1 0 EVEN
+1459775983248 C4Phoenix clicked world -1168 55 430 COBBLESTONE DoubleChest 0 LEFT PICKUP_ALL
+1459775983799 C4Phoenix dragged world -1168 55 430 COBBLESTONE 64 1 0 EVEN
+1459775984250 C4Phoenix clicked world -1168 55 430 COBBLESTONE DoubleChest 1 LEFT PICKUP_ALL
+1459775984635 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 19 LEFT PLACE_ALL
+1459775985515 C4Phoenix clicked world -1168 55 430 DIRT CraftPlayer 89 LEFT PICKUP_ALL
+1459775986414 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 0 LEFT PLACE_ALL
+1459775987064 C4Phoenix clicked world -1168 55 430 IRON_SPADE CraftPlayer 83 LEFT PICKUP_ALL
+1459775988115 C4Phoenix dragged world -1168 55 430 IRON_SPADE 1 0 1 EVEN
+1459775988315 C4Phoenix clicked world -1168 55 430 SAND CraftPlayer 82 LEFT PICKUP_ALL
+1459775989014 C4Phoenix dragged world -1168 55 430 SAND 1 1 0 EVEN
+1459775994008 C4Phoenix closed world -1168 55 430 DoubleChest
+1459775994358 C4Phoenix opened world -1165 55 431 DoubleChest
+1459775995009 C4Phoenix clicked world -1165 55 431 TORCH DoubleChest 36 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775995509 C4Phoenix clicked world -1165 55 431 WOOL DoubleChest 51 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775995709 C4Phoenix clicked world -1165 55 431 FEATHER DoubleChest 52 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775995909 C4Phoenix clicked world -1165 55 431 RAW_CHICKEN DoubleChest 53 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459775996266 C4Phoenix closed world -1165 55 431 DoubleChest
+1459776010266 C4Phoenix opened world -1168 57 430 DoubleChest
+1459776010516 C4Phoenix clicked world -1168 57 430 AIR DoubleChest 49 RIGHT NOTHING
+1459776010817 C4Phoenix closed world -1168 57 430 DoubleChest
+1459776011716 C4Phoenix opened world -1168 55 430 DoubleChest
+1459776012191 C4Phoenix closed world -1168 55 430 DoubleChest
+1459776035130 C4Phoenix opened world -1168 55 430 DoubleChest
+1459776036781 C4Phoenix clicked world -1168 55 430 COBBLESTONE DoubleChest 19 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776037032 C4Phoenix clicked world -1168 55 430 COBBLESTONE DoubleChest 18 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776037982 C4Phoenix closed world -1168 55 430 DoubleChest
+1459776226899 C4Phoenix opened world -1168 55 430 DoubleChest
+1459776228451 C4Phoenix closed world -1168 55 430 DoubleChest
+1459776245057 C4Phoenix opened world -1168 55 430 DoubleChest
+1459776245456 C4Phoenix closed world -1168 55 430 DoubleChest
+1459776245856 C4Phoenix opened world -1168 57 430 DoubleChest
+1459776247662 C4Phoenix closed world -1168 57 430 DoubleChest
+1459776492503 Sackboyninja007 clicked world 449 63 1663 STONE_HOE CraftChest 10 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776569485 Sackboyninja007 clicked world 449 63 1663 STONE_HOE CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776572588 Sackboyninja007 clicked world 449 63 1663 CARROT_ITEM CraftPlayer 41 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776573088 Sackboyninja007 clicked world 449 63 1663 INK_SACK CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776574639 Sackboyninja007 clicked world 449 63 1663 RED_ROSE CraftPlayer 34 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776576389 Sackboyninja007 clicked world 449 63 1663 PUMPKIN CraftPlayer 38 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776577791 Sackboyninja007 clicked world 449 63 1663 RAW_BEEF CraftPlayer 27 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776578591 Sackboyninja007 clicked world 449 63 1663 BONE CraftPlayer 28 LEFT PICKUP_ALL
+1459776579413 Sackboyninja007 dragged world 449 63 1663 BONE 5 0 1 EVEN
+1459776579864 Sackboyninja007 clicked world 449 63 1663 WOOD CraftPlayer 36 LEFT PICKUP_ALL
+1459776580213 Sackboyninja007 clicked world 449 63 1663 AIR CraftPlayer 27 LEFT PLACE_ALL
+1459776580364 Sackboyninja007 clicked world 449 63 1663 WORKBENCH CraftPlayer 37 LEFT PICKUP_ALL
+1459776580814 Sackboyninja007 clicked world 449 63 1663 AIR CraftPlayer 37 LEFT PLACE_ALL
+1459776608246 Sackboyninja007 opened world 465 54 1665 DoubleChest
+1459776610096 Sackboyninja007 clicked world 465 54 1665 SADDLE DoubleChest 25 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776610807 Sackboyninja007 closed world 465 54 1665 DoubleChest
+1459776612161 Sackboyninja007 opened world 460 54 1662 DoubleChest
+1459776613611 Sackboyninja007 clicked world 460 54 1662 WOOD CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776613962 Sackboyninja007 clicked world 460 54 1662 WOOD CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776614518 Sackboyninja007 clicked world 460 54 1662 FURNACE CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776615419 Sackboyninja007 clicked world 460 54 1662 LEATHER CraftPlayer 62 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776616318 Sackboyninja007 clicked world 460 54 1662 SAPLING CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776617569 Sackboyninja007 clicked world 460 54 1662 STICK CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776618019 Sackboyninja007 clicked world 460 54 1662 SAND CraftPlayer 63 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776618368 Sackboyninja007 clicked world 460 54 1662 BONE CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776618726 Sackboyninja007 clicked world 460 54 1662 COBBLESTONE CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776621328 Sackboyninja007 closed world 460 54 1662 DoubleChest
+1459776625249 Sackboyninja007 opened world 460 54 1662 DoubleChest
+1459776626499 Sackboyninja007 clicked world 460 54 1662 AIR CraftPlayer 64 LEFT NOTHING
+1459776628461 Sackboyninja007 clicked world 460 54 1662 WORKBENCH CraftPlayer 56 LEFT PICKUP_ALL
+1459776629112 Sackboyninja007 dragged world 460 54 1662 WORKBENCH 1 0 1 EVEN
+1459776629512 Sackboyninja007 clicked world 460 54 1662 TORCH CraftPlayer 65 LEFT PICKUP_ALL
+1459776630261 Sackboyninja007 dragged world 460 54 1662 TORCH 35 0 1 EVEN
+1459776631064 Sackboyninja007 clicked world 460 54 1662 IRON_AXE CraftPlayer 61 LEFT PICKUP_ALL
+1459776631780 Sackboyninja007 clicked world 460 54 1662 AIR CraftPlayer 56 LEFT PLACE_ALL
+1459776632632 Sackboyninja007 clicked world 460 54 1662 IRON_SPADE CraftPlayer 84 LEFT PICKUP_ALL
+1459776633332 Sackboyninja007 dragged world 460 54 1662 IRON_SPADE 1 0 1 EVEN
+1459776633932 Sackboyninja007 clicked world 460 54 1662 BOAT_BIRCH CraftPlayer 85 LEFT PICKUP_ALL
+1459776634631 Sackboyninja007 dragged world 460 54 1662 BOAT_BIRCH 1 0 1 EVEN
+1459776635133 Sackboyninja007 clicked world 460 54 1662 SADDLE CraftPlayer 88 LEFT PICKUP_ALL
+1459776637000 Sackboyninja007 clicked world 460 54 1662 AIR CraftPlayer 80 LEFT PLACE_ALL
+1459776639100 Sackboyninja007 clicked world 460 54 1662 STRING DoubleChest 37 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776639301 Sackboyninja007 closed world 460 54 1662 DoubleChest
+1459776642402 Sackboyninja007 opened world 465 54 1665 DoubleChest
+1459776645302 Sackboyninja007 closed world 465 54 1665 DoubleChest
+1459776646504 Sackboyninja007 opened world 465 54 1665 DoubleChest
+1459776649362 Sackboyninja007 closed world 465 54 1665 DoubleChest
+1459776654268 Sackboyninja007 clicked world 467 55 1666 WOOL CraftChest 12 LEFT PICKUP_ALL
+1459776654819 Sackboyninja007 dragged world 467 55 1666 WOOL 7 0 1 EVEN
+1459776701057 Sackboyninja007 opened world 460 54 1662 DoubleChest
+1459776703536 Sackboyninja007 closed world 460 54 1662 DoubleChest
+1459776705637 Sackboyninja007 opened world 465 54 1665 DoubleChest
+1459776706840 Sackboyninja007 clicked world 465 54 1665 WOOL CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776715549 Sackboyninja007 clicked world 465 54 1665 WOOD_AXE DoubleChest 31 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776715850 Sackboyninja007 closed world 465 54 1665 DoubleChest
+1459776721152 Sackboyninja007 opened world 465 54 1665 DoubleChest
+1459776722656 Sackboyninja007 clicked world 465 54 1665 WOOD_AXE CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459776723006 Sackboyninja007 closed world 465 54 1665 DoubleChest
+1459776728068 Sackboyninja007 opened world 460 54 1662 DoubleChest
+1459776742451 Sackboyninja007 closed world 460 54 1662 DoubleChest
+1459777311055 Sackboyninja007 clicked world 449 63 1663 CARROT_ITEM CraftChest 6 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459777321913 Sackboyninja007 clicked world 449 63 1663 CARROT_ITEM CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459777322713 Sackboyninja007 clicked world 449 63 1663 WHEAT CraftChest 11 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459777344976 Sackboyninja007 clicked world 449 63 1663 DIRT CraftChest 2 LEFT PICKUP_ALL
+1459777374683 Sackboyninja007 opened world 460 54 1662 DoubleChest
+1459777376233 Sackboyninja007 clicked world 460 54 1662 SLIME_BALL DoubleChest 35 LEFT PICKUP_ALL
+1459777376834 Sackboyninja007 dragged world 460 54 1662 SLIME_BALL 1 0 1 SINGLE
+1459777377533 Sackboyninja007 clicked world 460 54 1662 AIR DoubleChest 35 LEFT PLACE_ALL
+1459777377633 Sackboyninja007 closed world 460 54 1662 DoubleChest
+1459777386086 Sackboyninja007 opened world 460 54 1662 DoubleChest
+1459777386787 Sackboyninja007 clicked world 460 54 1662 STRING CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459777387086 Sackboyninja007 closed world 460 54 1662 DoubleChest
+1459777393688 Sackboyninja007 opened world 460 54 1662 DoubleChest
+1459777394938 Sackboyninja007 clicked world 460 54 1662 WOOL DoubleChest 40 LEFT PICKUP_ALL
+1459777395688 Sackboyninja007 dragged world 460 54 1662 WOOL 1 0 1 SINGLE
+1459777395938 Sackboyninja007 dragged world 460 54 1662 WOOL 1 0 1 SINGLE
+1459777396138 Sackboyninja007 dragged world 460 54 1662 WOOL 1 0 1 SINGLE
+1459777396938 Sackboyninja007 clicked world 460 54 1662 AIR DoubleChest 40 LEFT PLACE_ALL
+1459777397388 Sackboyninja007 clicked world 460 54 1662 LOG DoubleChest 42 LEFT PICKUP_ALL
+1459777398489 Sackboyninja007 dragged world 460 54 1662 LOG 1 0 1 SINGLE
+1459777399038 Sackboyninja007 clicked world 460 54 1662 AIR DoubleChest 42 LEFT PLACE_ALL
+1459777399289 Sackboyninja007 closed world 460 54 1662 DoubleChest
+1459777564498 Sackboyninja007 opened world 465 54 1665 DoubleChest
+1459777565698 Sackboyninja007 clicked world 465 54 1665 SADDLE CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459777565998 Sackboyninja007 closed world 465 54 1665 DoubleChest
+1459780166073 clashololli opened world -205 78 230 DoubleChest
+1459780166623 clashololli closed world -205 78 230 DoubleChest
+1459780167124 clashololli opened world -205 77 230 DoubleChest
+1459780167174 clashololli closed world -205 77 230 DoubleChest
+1459780167174 clashololli opened world -205 77 230 DoubleChest
+1459780167624 clashololli closed world -205 77 230 DoubleChest
+1459780172476 clashololli opened world -208 78 230 DoubleChest
+1459780173025 clashololli closed world -208 78 230 DoubleChest
+1459780173525 clashololli opened world -208 77 230 DoubleChest
+1459780173876 clashololli closed world -208 77 230 DoubleChest
+1459780339073 clashololli opened world -205 78 261 DoubleChest
+1459780342274 clashololli closed world -205 78 261 DoubleChest
+1459783394283 C4Phoenix opened world -1168 57 430 DoubleChest
+1459783395033 C4Phoenix closed world -1168 57 430 DoubleChest
+1459783395634 C4Phoenix opened world -1168 55 430 DoubleChest
+1459783397833 C4Phoenix clicked world -1168 55 430 COBBLESTONE CraftPlayer 66 LEFT PICKUP_ALL
+1459783398683 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 18 LEFT PLACE_ALL
+1459783400484 C4Phoenix closed world -1168 55 430 DoubleChest
+1459783401734 C4Phoenix opened world -1168 57 430 DoubleChest
+1459783403036 C4Phoenix clicked world -1168 57 430 ARROW CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783404835 C4Phoenix clicked world -1168 57 430 STONE CraftPlayer 63 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783405787 C4Phoenix clicked world -1168 57 430 WOOL CraftPlayer 72 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783406436 C4Phoenix clicked world -1168 57 430 ROTTEN_FLESH CraftPlayer 73 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783406837 C4Phoenix clicked world -1168 57 430 RED_ROSE CraftPlayer 74 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783407337 C4Phoenix clicked world -1168 57 430 STONE CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783407838 C4Phoenix clicked world -1168 57 430 STONE CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783408038 C4Phoenix clicked world -1168 57 430 BONE CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783408387 C4Phoenix clicked world -1168 57 430 AIR CraftPlayer 59 SHIFT_LEFT NOTHING
+1459783409239 C4Phoenix clicked world -1168 57 430 STONE DoubleChest 6 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783409588 C4Phoenix clicked world -1168 57 430 STONE DoubleChest 5 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783410138 C4Phoenix clicked world -1168 57 430 STONE DoubleChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783412039 C4Phoenix closed world -1168 57 430 DoubleChest
+1459783415041 C4Phoenix opened world -1168 57 430 DoubleChest
+1459783415691 C4Phoenix closed world -1168 57 430 DoubleChest
+1459783416141 C4Phoenix opened world -1168 55 430 DoubleChest
+1459783421042 C4Phoenix closed world -1168 55 430 DoubleChest
+1459783620592 C4Phoenix opened world -1168 57 430 DoubleChest
+1459783621892 C4Phoenix clicked world -1168 57 430 ARROW DoubleChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783623892 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 54 LEFT PICKUP_ALL
+1459783625193 C4Phoenix clicked world -1168 57 430 AIR DoubleChest 0 LEFT PLACE_ALL
+1459783625793 C4Phoenix clicked world -1168 57 430 WOOL DoubleChest 2 LEFT PICKUP_ALL
+1459783627044 C4Phoenix clicked world -1168 57 430 WOOL CraftPlayer 56 LEFT PLACE_ONE
+1459783627594 C4Phoenix clicked world -1168 57 430 ROTTEN_FLESH DoubleChest 3 LEFT PICKUP_ALL
+1459783628394 C4Phoenix dragged world -1168 57 430 ROTTEN_FLESH 4 0 1 EVEN
+1459783628943 C4Phoenix clicked world -1168 57 430 RED_ROSE DoubleChest 4 LEFT PICKUP_ALL
+1459783631894 C4Phoenix dragged world -1168 57 430 RED_ROSE 1 1 0 EVEN
+1459783632544 C4Phoenix clicked world -1168 57 430 BONE DoubleChest 7 LEFT PICKUP_ALL
+1459783633145 C4Phoenix clicked world -1168 57 430 AIR DoubleChest 7 LEFT PLACE_ALL
+1459783636795 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 59 LEFT PICKUP_ALL
+1459783637845 C4Phoenix clicked world -1168 57 430 AIR DoubleChest 9 LEFT PLACE_ALL
+1459783638946 C4Phoenix clicked world -1168 57 430 LOG DoubleChest 9 LEFT PICKUP_ALL
+1459783639596 C4Phoenix clicked world -1168 57 430 AIR DoubleChest 18 LEFT PLACE_ALL
+1459783645099 C4Phoenix clicked world -1168 57 430 BONE DoubleChest 7 LEFT PICKUP_ALL
+1459783646199 C4Phoenix clicked world -1168 57 430 AIR CraftPlayer 59 LEFT PLACE_ALL
+1459783651699 C4Phoenix clicked world -1168 57 430 RED_ROSE DoubleChest 47 LEFT PICKUP_ALL
+1459783652799 C4Phoenix clicked world -1168 57 430 SAPLING CraftPlayer 69 LEFT SWAP_WITH_CURSOR
+1459783653701 C4Phoenix clicked world -1168 57 430 AIR DoubleChest 5 LEFT PLACE_ALL
+1459783657101 C4Phoenix clicked world -1168 57 430 SAPLING DoubleChest 5 LEFT PICKUP_ALL
+1459783657751 C4Phoenix dragged world -1168 57 430 SAPLING 1 1 0 EVEN
+1459783659452 C4Phoenix clicked world -1168 57 430 SAPLING DoubleChest 3 LEFT PICKUP_ALL
+1459783660152 C4Phoenix clicked world -1168 57 430 AIR DoubleChest 6 LEFT PLACE_ALL
+1459783662402 C4Phoenix closed world -1168 57 430 DoubleChest
+1459783663803 C4Phoenix opened world -1168 55 430 DoubleChest
+1459783666753 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783674556 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 74 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783674906 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 73 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783675756 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459783681557 C4Phoenix closed world -1168 55 430 DoubleChest
+1459783686807 C4Phoenix opened world -1168 55 430 DoubleChest
+1459783687857 C4Phoenix clicked world -1168 55 430 COBBLESTONE DoubleChest 18 RIGHT PICKUP_HALF
+1459783688957 C4Phoenix clicked world -1168 55 430 AIR CraftPlayer 73 LEFT PLACE_ALL
+1459783689259 C4Phoenix closed world -1168 55 430 DoubleChest
+1459783690009 C4Phoenix opened world -1168 57 430 DoubleChest
+1459783691058 C4Phoenix closed world -1168 57 430 DoubleChest
+1459783691609 C4Phoenix opened world -1168 55 430 DoubleChest
+1459783693109 C4Phoenix clicked world -1168 55 430 COBBLESTONE CraftPlayer 73 LEFT PICKUP_ALL
+1459783694410 C4Phoenix dragged world -1168 55 430 COBBLESTONE 1 0 1 SINGLE
+1459783695160 C4Phoenix clicked world -1168 55 430 COBBLESTONE DoubleChest 18 LEFT PLACE_ALL
+1459783695310 C4Phoenix closed world -1168 55 430 DoubleChest
+1459783695861 C4Phoenix opened world -1168 57 430 DoubleChest
+1459783698062 C4Phoenix clicked world -1168 57 430 SAPLING CraftPlayer 66 LEFT PICKUP_ALL
+1459783698912 C4Phoenix clicked world -1168 57 430 AIR DoubleChest 24 LEFT PLACE_ALL
+1459783700412 C4Phoenix closed world -1168 57 430 DoubleChest
+1459783733122 C4Phoenix opened world -1168 55 430 DoubleChest
+1459783734372 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 80 LEFT PICKUP_ALL
+1459783735572 C4Phoenix clicked world -1168 55 430 AIR DoubleChest 23 LEFT PLACE_ALL
+1459783741573 C4Phoenix closed world -1168 55 430 DoubleChest
+1459783742324 C4Phoenix opened world -1168 57 430 DoubleChest
+1459783745174 C4Phoenix clicked world -1168 57 430 LOG DoubleChest 0 RIGHT PICKUP_HALF
+1459783746624 C4Phoenix clicked world -1168 57 430 LOG DoubleChest 0 LEFT PLACE_ALL
+1459783747774 C4Phoenix clicked world -1168 57 430 LOG DoubleChest 0 RIGHT PICKUP_HALF
+1459783749082 C4Phoenix clicked world -1168 57 430 LOG DoubleChest 0 LEFT PLACE_ALL
+1459783749681 C4Phoenix clicked world -1168 57 430 LOG DoubleChest 0 RIGHT PICKUP_HALF
+1459783750832 C4Phoenix clicked world -1168 57 430 AIR CraftPlayer 74 LEFT PLACE_ALL
+1459783751083 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 74 LEFT PICKUP_ALL
+1459783751482 C4Phoenix clicked world -1168 57 430 AIR CraftPlayer 74 LEFT PLACE_ALL
+1459783751983 C4Phoenix clicked world -1168 57 430 LOG DoubleChest 0 LEFT PICKUP_ALL
+1459783752633 C4Phoenix clicked world -1168 57 430 AIR CraftPlayer 73 LEFT PLACE_ALL
+1459783752833 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 74 LEFT PICKUP_ALL
+1459783753533 C4Phoenix clicked world -1168 57 430 AIR DoubleChest 0 LEFT PLACE_ALL
+1459783753633 C4Phoenix closed world -1168 57 430 DoubleChest
+1459793117146 Coolman20a clicked world -206 75 276 LOG CraftPlayer 40 LEFT PICKUP_ALL
+1459793117646 Coolman20a clicked world -206 75 276 AIR CraftPlayer 40 LEFT PLACE_ALL
+1459793124750 Coolman20a opened world -205 77 261 DoubleChest
+1459793135411 Coolman20a closed world -205 77 261 DoubleChest
+1459793234520 Coolman20a clicked world -206 77 226 SIGN CraftPlayer 28 LEFT PICKUP_ALL
+1459793235021 Coolman20a clicked world -206 77 226 RAW_CHICKEN CraftPlayer 37 LEFT SWAP_WITH_CURSOR
+1459793235821 Coolman20a clicked world -206 77 226 AIR CraftChest 0 LEFT PLACE_ALL
+1459793237122 Coolman20a clicked world -206 77 226 ROTTEN_FLESH CraftPlayer 27 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459793237472 Coolman20a clicked world -206 77 226 EGG CraftPlayer 36 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459793238522 Coolman20a clicked world -206 77 226 FEATHER CraftPlayer 33 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459795799748 Rollmops opened world 291 62 1641 DoubleChest
+1459795800547 Rollmops closed world 291 62 1641 DoubleChest
+1459795801498 Rollmops opened world 291 61 1641 DoubleChest
+1459795802099 Rollmops closed world 291 61 1641 DoubleChest
+1459795803250 Rollmops opened world 291 62 1644 DoubleChest
+1459795803849 Rollmops closed world 291 62 1644 DoubleChest
+1459795804600 Rollmops opened world 291 61 1644 DoubleChest
+1459795805150 Rollmops closed world 291 61 1644 DoubleChest
+1459795805850 Rollmops opened world 295 61 1644 DoubleChest
+1459795806900 Rollmops closed world 295 61 1644 DoubleChest
+1459795807350 Rollmops opened world 295 62 1644 DoubleChest
+1459795808100 Rollmops closed world 295 62 1644 DoubleChest
+1459795808901 Rollmops opened world 295 62 1641 DoubleChest
+1459795809550 Rollmops closed world 295 62 1641 DoubleChest
+1459795810051 Rollmops opened world 295 61 1641 DoubleChest
+1459795810701 Rollmops closed world 295 61 1641 DoubleChest
+1459795835854 Rollmops opened world 287 49 1638 DoubleChest
+1459795837804 Rollmops clicked world 287 49 1638 RAW_BEEF DoubleChest 8 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459795838104 Rollmops closed world 287 49 1638 DoubleChest
+1459796178881 burni1 opened world -207 71 212 DoubleChest
+1459796179781 burni1 closed world -207 71 212 DoubleChest
+1459796228135 Rollmops opened world 295 62 1641 DoubleChest
+1459796229085 Rollmops closed world 295 62 1641 DoubleChest
+1459796230036 Rollmops opened world 295 61 1641 DoubleChest
+1459796231036 Rollmops closed world 295 61 1641 DoubleChest
+1459796231906 Rollmops opened world 295 61 1644 DoubleChest
+1459796232506 Rollmops closed world 295 61 1644 DoubleChest
+1459796232906 Rollmops opened world 295 62 1644 DoubleChest
+1459796233456 Rollmops closed world 295 62 1644 DoubleChest
+1459796234156 Rollmops opened world 291 62 1644 DoubleChest
+1459796234657 Rollmops closed world 291 62 1644 DoubleChest
+1459796235307 Rollmops opened world 291 61 1644 DoubleChest
+1459796235807 Rollmops closed world 291 61 1644 DoubleChest
+1459796236507 Rollmops opened world 291 62 1641 DoubleChest
+1459796237357 Rollmops closed world 291 62 1641 DoubleChest
+1459796237957 Rollmops opened world 291 61 1641 DoubleChest
+1459796239157 Rollmops closed world 291 61 1641 DoubleChest
+1459796340192 burni1 opened world -286 102 267 DoubleChest
+1459796340992 burni1 closed world -286 102 267 DoubleChest
+1459797358225 burni1 clicked world -27 11 765 COOKED_BEEF CraftPlayer 62 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459797368077 burni1 clicked world -27 11 765 COOKED_BEEF CraftPlayer 62 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459797368777 burni1 clicked world -27 11 765 WOOD CraftPlayer 31 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459797369127 burni1 clicked world -27 11 765 WOOD CraftPlayer 33 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459797370277 burni1 clicked world -27 11 765 COBBLESTONE CraftPlayer 39 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459797390332 burni1 clicked world -27 11 765 WOOD CraftChest 1 LEFT PICKUP_ALL
+1459797390882 burni1 clicked world -27 11 765 AIR CraftPlayer 30 RIGHT PLACE_ONE
+1459797391082 burni1 clicked world -27 11 765 WOOD CraftPlayer 30 RIGHT PLACE_ONE
+1459797391232 burni1 clicked world -27 11 765 WOOD CraftPlayer 30 RIGHT PLACE_ONE
+1459797391782 burni1 clicked world -27 11 765 WOOD CraftPlayer 30 RIGHT PLACE_ONE
+1459797391783 burni1 clicked world -27 11 765 WOOD CraftPlayer 30 RIGHT PLACE_ONE
+1459797391783 burni1 clicked world -27 11 765 WOOD CraftPlayer 30 RIGHT PLACE_ONE
+1459797391783 burni1 clicked world -27 11 765 WOOD CraftPlayer 30 RIGHT PLACE_ONE
+1459797392532 burni1 clicked world -27 11 765 AIR CraftChest 1 LEFT PLACE_ALL
+1459797573023 burni1 clicked world -27 11 765 COBBLESTONE CraftChest 2 LEFT PICKUP_ALL
+1459797574123 burni1 clicked world -27 11 765 AIR CraftChest 2 LEFT PLACE_ALL
+1459797574323 burni1 clicked world -27 11 765 COBBLESTONE CraftChest 2 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY

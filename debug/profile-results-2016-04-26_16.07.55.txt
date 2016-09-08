@@ -1,0 +1,11 @@
+---- Minecraft Profiler Results ----
+// Maybe if you treated it better then it'll have more motivation to work faster! Poor server.
+
+Time span: 81507 ms
+Tick span: 1630 ticks
+// This is approximately 20,00 ticks per second. It should be 20 ticks per second
+
+--- BEGIN PROFILE DUMP ---
+
+--- END PROFILE DUMP ---
+

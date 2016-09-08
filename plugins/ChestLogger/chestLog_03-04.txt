@@ -1,0 +1,1473 @@
+1459691134406 Modac2 opened world -191 64 203 DoubleChest
+1459691135106 Modac2 closed world -191 64 203 DoubleChest
+1459691136956 Modac2 opened world -191 64 203 DoubleChest
+1459691137306 Modac2 closed world -191 64 203 DoubleChest
+1459691165956 Modac2 opened world -191 64 203 DoubleChest
+1459691166957 Modac2 clicked world -191 64 203 SAND DoubleChest 5 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459691167256 Modac2 clicked world -191 64 203 SAND DoubleChest 4 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459691168106 Modac2 clicked world -191 64 203 SAND CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459691168407 Modac2 clicked world -191 64 203 SAND CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459691169407 Modac2 closed world -191 64 203 DoubleChest
+1459691282572 DragonRider0x2A opened world -192 65 203 DoubleChest
+1459691283670 DragonRider0x2A closed world -192 65 203 DoubleChest
+1459691284321 DragonRider0x2A opened world -192 65 203 DoubleChest
+1459691284821 DragonRider0x2A closed world -192 65 203 DoubleChest
+1459691311345 DragonRider0x2A opened world -192 66 203 DoubleChest
+1459691312344 DragonRider0x2A clicked world -192 66 203 SUGAR_CANE DoubleChest 40 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459691313394 DragonRider0x2A clicked world -192 66 203 SUGAR_CANE CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459691314745 DragonRider0x2A clicked world -192 66 203 AIR DoubleChest 49 LEFT NOTHING
+1459691314894 DragonRider0x2A clicked world -192 66 203 AIR DoubleChest 49 LEFT NOTHING
+1459691314994 DragonRider0x2A clicked world -192 66 203 AIR DoubleChest 49 DOUBLE_CLICK NOTHING
+1459691315395 DragonRider0x2A clicked world -192 66 203 AIR DoubleChest 49 LEFT NOTHING
+1459691315545 DragonRider0x2A clicked world -192 66 203 AIR DoubleChest 49 LEFT NOTHING
+1459691315645 DragonRider0x2A clicked world -192 66 203 AIR DoubleChest 49 DOUBLE_CLICK NOTHING
+1459691316095 DragonRider0x2A clicked world -192 66 203 AIR DoubleChest 49 MIDDLE NOTHING
+1459691317259 DragonRider0x2A clicked world -192 66 203 AIR DoubleChest 49 MIDDLE NOTHING
+1459691319360 DragonRider0x2A closed world -192 66 203 DoubleChest
+1459691323809 Modac2 opened world -192 66 203 DoubleChest
+1459691324509 Modac2 clicked world -192 66 203 AIR DoubleChest 49 LEFT NOTHING
+1459691324659 Modac2 clicked world -192 66 203 AIR DoubleChest 49 LEFT NOTHING
+1459691324759 Modac2 clicked world -192 66 203 AIR DoubleChest 49 DOUBLE_CLICK NOTHING
+1459691325660 Modac2 closed world -192 66 203 DoubleChest
+1459691583724 Modac2 opened world -192 65 203 DoubleChest
+1459691584273 Modac2 closed world -192 65 203 DoubleChest
+1459692728479 DragonRider0x2A opened world -192 65 203 DoubleChest
+1459692728829 DragonRider0x2A closed world -192 65 203 DoubleChest
+1459692729079 DragonRider0x2A opened world -192 65 203 DoubleChest
+1459692729329 DragonRider0x2A closed world -192 65 203 DoubleChest
+1459692729829 DragonRider0x2A opened world -192 66 203 DoubleChest
+1459692730079 DragonRider0x2A closed world -192 66 203 DoubleChest
+1459692730529 DragonRider0x2A opened world -192 66 203 DoubleChest
+1459692730779 DragonRider0x2A closed world -192 66 203 DoubleChest
+1459692731030 DragonRider0x2A opened world -192 66 203 DoubleChest
+1459692731179 DragonRider0x2A closed world -192 66 203 DoubleChest
+1459692884444 Modac2 opened world -192 65 203 DoubleChest
+1459692885694 Modac2 closed world -192 65 203 DoubleChest
+1459692886094 Modac2 opened world -192 65 203 DoubleChest
+1459692886294 Modac2 closed world -192 65 203 DoubleChest
+1459692915113 DragonRider0x2A opened world -192 65 203 DoubleChest
+1459692916063 DragonRider0x2A clicked world -192 65 203 DIRT DoubleChest 14 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459692916462 DragonRider0x2A clicked world -192 65 203 DIRT DoubleChest 13 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459692917312 DragonRider0x2A clicked world -192 65 203 DIRT CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459692917962 DragonRider0x2A clicked world -192 65 203 DIRT CraftPlayer 83 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459692918363 DragonRider0x2A clicked world -192 65 203 AIR CraftPlayer 66 SHIFT_LEFT NOTHING
+1459692919512 DragonRider0x2A clicked world -192 65 203 ENCHANTED_BOOK CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459692920412 DragonRider0x2A clicked world -192 65 203 ENCHANTED_BOOK DoubleChest 15 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459692921162 DragonRider0x2A closed world -192 65 203 DoubleChest
+1459692923412 Modac2 closed world -189 65 204 unknown
+1459695946722 Modac2 closed world -189 65 204 unknown
+[Exception] 1459696083730 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryOpen(ChestListener.java:31)
+[Exception] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[Exception] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:748)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:734)
+[Exception] 	at net.minecraft.server.v1_9_R1.EntityPlayer.a(EntityPlayer.java:767)
+[Exception] 	at net.minecraft.server.v1_9_R1.EntityHorse.f(EntityHorse.java:494)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1470)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInEntityAction.a(SourceFile:43)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInEntityAction.a(SourceFile:9)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459696084184 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:51)
+[Exception] 	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+[Exception] 	at sun.reflect.NativeMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+1459696129311 Coolman20a closed world -239 76 256 unknown
+1459696168538 Modac2 closed world -187 65 203 unknown
+1459696170753 DragonRider0x2A closed world -188 65 201 unknown
+1459696235027 Coolman20a closed world -243 78 267 unknown
+1459696238477 Coolman20a closed world -246 82 257 unknown
+1459696251527 Coolman20a opened world -205 78 261 DoubleChest
+1459696253877 Coolman20a clicked world -205 78 261 SNOW_BALL DoubleChest 1 LEFT PICKUP_ALL
+1459696254877 Coolman20a dragged world -205 78 261 SNOW_BALL 16 0 1 EVEN
+1459696255227 Coolman20a clicked world -205 78 261 STRING CraftPlayer 64 LEFT PICKUP_ALL
+1459696256027 Coolman20a clicked world -205 78 261 AIR DoubleChest 50 LEFT PLACE_ALL
+1459696256777 Coolman20a clicked world -205 78 261 SEEDS CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696257127 Coolman20a clicked world -205 78 261 RAW_CHICKEN CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696257377 Coolman20a clicked world -205 78 261 SULPHUR CraftPlayer 62 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696257677 Coolman20a clicked world -205 78 261 RAW_BEEF CraftPlayer 71 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696257927 Coolman20a clicked world -205 78 261 LEATHER CraftPlayer 70 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696258477 Coolman20a clicked world -205 78 261 BOW CraftPlayer 69 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696258777 Coolman20a clicked world -205 78 261 QUARTZ CraftPlayer 68 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696259427 Coolman20a clicked world -205 78 261 BONE CraftPlayer 77 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696260127 Coolman20a clicked world -205 78 261 EGG CraftPlayer 78 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696260677 Coolman20a clicked world -205 78 261 WOOD CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696261677 Coolman20a clicked world -205 78 261 ROTTEN_FLESH CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696262227 Coolman20a clicked world -205 78 261 WOOL CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696262527 Coolman20a clicked world -205 78 261 FEATHER CraftPlayer 63 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696262976 Coolman20a clicked world -205 78 261 SPIDER_EYE CraftPlayer 65 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696263677 Coolman20a clicked world -205 78 261 TORCH CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696263977 Coolman20a clicked world -205 78 261 BROWN_MUSHROOM CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696264727 Coolman20a clicked world -205 78 261 COBBLESTONE CraftPlayer 66 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696265327 Coolman20a clicked world -205 78 261 HAY_BLOCK CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696266127 Coolman20a closed world -205 78 261 DoubleChest
+1459696267027 Coolman20a opened world -205 77 261 DoubleChest
+1459696267827 Coolman20a clicked world -205 77 261 HAY_BLOCK CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696269627 Coolman20a clicked world -205 77 261 PUMPKIN DoubleChest 25 LEFT PICKUP_ALL
+1459696270577 Coolman20a clicked world -205 77 261 AIR CraftPlayer 61 RIGHT PLACE_ONE
+1459696270777 Coolman20a dragged world -205 77 261 PUMPKIN 1 0 1 SINGLE
+1459696271377 Coolman20a clicked world -205 77 261 AIR DoubleChest 25 LEFT PLACE_ALL
+1459696275377 Coolman20a clicked world -205 77 261 STONE DoubleChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696275927 Coolman20a closed world -205 77 261 DoubleChest
+1459696279177 Coolman20a closed world -207 77 258 unknown
+1459696280327 Coolman20a opened world -202 77 263 DoubleChest
+1459696281877 Coolman20a clicked world -202 77 263 LOG_2 DoubleChest 42 LEFT PICKUP_ALL
+1459696282577 Coolman20a clicked world -202 77 263 AIR CraftPlayer 60 RIGHT PLACE_ONE
+1459696283227 Coolman20a clicked world -202 77 263 AIR DoubleChest 42 LEFT PLACE_ALL
+1459696283627 Coolman20a closed world -202 77 263 DoubleChest
+1459696287028 Coolman20a closed world -204 77 263 unknown
+1459696287703 Coolman20a opened world -204 77 265 unknown
+1459696293777 Coolman20a closed world -205 77 265 unknown
+1459696338877 Coolman20a closed world -184 65 193 unknown
+1459696368477 Coolman20a closed world -187 65 197 unknown
+1459696411428 Coolman20a closed world -181 82 251 unknown
+1459696419328 Coolman20a closed world -177 87 258 unknown
+1459696449623 Coolman20a closed world -49 76 275 unknown
+1459696527846 Coolman20a closed world -185 87 333 unknown
+1459696534899 Coolman20a opened world -202 79 298 SingleChest
+1459696535348 Coolman20a closed world -202 79 298 SingleChest
+1459696536499 Coolman20a opened world -204 79 298 SingleChest
+1459696536848 Coolman20a closed world -204 79 298 SingleChest
+1459696537199 Coolman20a opened world -206 79 298 SingleChest
+1459696537549 Coolman20a closed world -206 79 298 SingleChest
+1459696538100 Coolman20a opened world -208 79 298 SingleChest
+1459696538450 Coolman20a closed world -208 79 298 SingleChest
+1459696539250 Coolman20a opened world -212 78 298 SingleChest
+1459696539700 Coolman20a closed world -212 78 298 SingleChest
+1459696562953 Coolman20a closed world -232 77 257 unknown
+1459696614166 Coolman20a closed world -220 77 237 unknown
+1459696619118 Coolman20a closed world -216 76 237 unknown
+1459696625270 Coolman20a opened world -205 77 261 DoubleChest
+1459696627721 Coolman20a closed world -205 77 261 DoubleChest
+1459696628021 Coolman20a opened world -205 78 261 DoubleChest
+1459696636122 Coolman20a clicked world -205 78 261 COAL DoubleChest 16 LEFT PICKUP_ALL
+1459696636872 Coolman20a dragged world -205 78 261 COAL 14 0 1 EVEN
+1459696637272 Coolman20a clicked world -205 78 261 WOOD DoubleChest 51 LEFT PICKUP_ALL
+1459696638322 Coolman20a dragged world -205 78 261 WOOD 3 1 0 EVEN
+1459696638422 Coolman20a clicked world -205 78 261 WOOD DoubleChest 16 LEFT PICKUP_ALL
+1459696638873 Coolman20a clicked world -205 78 261 AIR DoubleChest 16 LEFT PLACE_ALL
+1459696639925 Coolman20a clicked world -205 78 261 WOOD DoubleChest 16 LEFT PICKUP_ALL
+1459696640675 Coolman20a dragged world -205 78 261 WOOD 3 0 1 EVEN
+1459696641275 Coolman20a clicked world -205 78 261 WOOD DoubleChest 7 LEFT PICKUP_ALL
+1459696642275 Coolman20a dragged world -205 78 261 WOOD 1 0 1 EVEN
+1459696642475 Coolman20a closed world -205 78 261 DoubleChest
+1459696647976 Coolman20a closed world -206 77 259 unknown
+1459696648176 Coolman20a opened world -205 78 261 DoubleChest
+1459696648927 Coolman20a closed world -205 78 261 DoubleChest
+1459696652227 Coolman20a closed world -206 77 259 unknown
+1459696653428 Coolman20a opened world -202 77 263 DoubleChest
+1459696654727 Coolman20a closed world -202 77 263 DoubleChest
+1459696654978 Coolman20a opened world -202 78 263 DoubleChest
+1459696658631 Coolman20a closed world -202 78 263 DoubleChest
+1459696658983 Coolman20a opened world -202 77 263 DoubleChest
+1459696659883 Coolman20a clicked world -202 77 263 LOG_2 DoubleChest 42 RIGHT PICKUP_HALF
+1459696660534 Coolman20a dragged world -202 77 263 LOG_2 32 0 1 EVEN
+1459696661534 Coolman20a clicked world -202 77 263 RED_ROSE CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696661783 Coolman20a clicked world -202 77 263 RAW_CHICKEN CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696662985 Coolman20a clicked world -202 77 263 CARROT_ITEM CraftPlayer 67 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696663384 Coolman20a clicked world -202 77 263 BROWN_MUSHROOM CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696663685 Coolman20a clicked world -202 77 263 RAW_BEEF CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696663934 Coolman20a clicked world -202 77 263 WOOL CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696664234 Coolman20a clicked world -202 77 263 MUTTON CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696670186 Coolman20a clicked world -202 77 263 DIRT CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696672537 Coolman20a closed world -202 77 263 DoubleChest
+[Exception] 1459696674189 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryOpen(ChestListener.java:31)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor93.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:748)
+[Exception] 	at net.minecraft.server.v1_9_R1.EntityPlayer.openContainer(EntityPlayer.java:697)
+[Exception] 	at net.minecraft.server.v1_9_R1.BlockEnderChest.interact(SourceFile:105)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerInteractManager.a(PlayerInteractManager.java:515)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:888)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:55)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:11)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459696676188 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:51)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor91.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+1459696676488 Coolman20a opened world -208 77 266 SingleChest
+1459696677238 Coolman20a closed world -208 77 266 SingleChest
+1459696679788 Coolman20a closed world -208 77 267 unknown
+[Exception] 1459696680038 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryOpen(ChestListener.java:31)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor93.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:748)
+[Exception] 	at net.minecraft.server.v1_9_R1.EntityPlayer.openContainer(EntityPlayer.java:697)
+[Exception] 	at net.minecraft.server.v1_9_R1.BlockEnderChest.interact(SourceFile:105)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerInteractManager.a(PlayerInteractManager.java:515)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:888)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:55)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:11)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459696685288 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:51)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor91.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+1459696685489 Coolman20a opened world -208 77 266 SingleChest
+1459696686189 Coolman20a clicked world -208 77 266 SPLASH_POTION CraftPlayer 34 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696687339 Coolman20a clicked world -208 77 266 COOKED_BEEF CraftPlayer 35 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696687790 Coolman20a clicked world -208 77 266 COBBLESTONE CraftPlayer 42 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696688239 Coolman20a clicked world -208 77 266 LOG_2 CraftPlayer 43 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696688489 Coolman20a clicked world -208 77 266 DARK_OAK_FENCE CraftPlayer 53 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696688939 Coolman20a clicked world -208 77 266 TORCH CraftPlayer 52 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696689239 Coolman20a clicked world -208 77 266 LOG_2 CraftPlayer 43 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696689939 Coolman20a clicked world -208 77 266 INK_SACK CraftPlayer 47 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696690140 Coolman20a clicked world -208 77 266 AIR CraftPlayer 46 SHIFT_LEFT NOTHING
+1459696690489 Coolman20a clicked world -208 77 266 INK_SACK CraftPlayer 47 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696690689 Coolman20a clicked world -208 77 266 INK_SACK CraftPlayer 47 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696690789 Coolman20a clicked world -208 77 266 INK_SACK CraftPlayer 47 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696691190 Coolman20a closed world -208 77 266 SingleChest
+1459696692290 Coolman20a opened world -202 78 263 DoubleChest
+1459696693189 Coolman20a clicked world -202 78 263 INK_SACK CraftPlayer 74 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696694440 Coolman20a clicked world -202 78 263 DARK_OAK_FENCE CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696695140 Coolman20a clicked world -202 78 263 STONE CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696696791 Coolman20a clicked world -202 78 263 DIAMOND_AXE CraftPlayer 86 LEFT PICKUP_ALL
+1459696698043 Coolman20a dragged world -202 78 263 DIAMOND_AXE 1 0 1 EVEN
+1459696698643 Coolman20a clicked world -202 78 263 DIAMOND_AXE CraftPlayer 86 LEFT PICKUP_ALL
+1459696699443 Coolman20a clicked world -202 78 263 AIR DoubleChest 53 LEFT PLACE_ALL
+1459696703744 Coolman20a closed world -202 78 263 DoubleChest
+1459696704544 Coolman20a opened world -202 77 263 DoubleChest
+1459696704945 Coolman20a closed world -202 77 263 DoubleChest
+1459696705145 Coolman20a opened world -202 78 263 DoubleChest
+1459696705745 Coolman20a clicked world -202 78 263 DIAMOND_AXE DoubleChest 53 LEFT PICKUP_ALL
+1459696706144 Coolman20a dragged world -202 78 263 DIAMOND_AXE 1 0 1 EVEN
+1459696706295 Coolman20a closed world -202 78 263 DoubleChest
+[Exception] 1459696707545 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryOpen(ChestListener.java:31)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor93.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:748)
+[Exception] 	at net.minecraft.server.v1_9_R1.EntityPlayer.openContainer(EntityPlayer.java:697)
+[Exception] 	at net.minecraft.server.v1_9_R1.BlockEnderChest.interact(SourceFile:105)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerInteractManager.a(PlayerInteractManager.java:515)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:888)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:55)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:11)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459696716496 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:51)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor91.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+1459696717047 Coolman20a opened world -207 77 267 unknown
+1459696717497 Coolman20a closed world -207 77 267 unknown
+1459696718448 Coolman20a opened world -202 77 263 DoubleChest
+1459696719198 Coolman20a closed world -202 77 263 DoubleChest
+1459696719447 Coolman20a opened world -202 78 263 DoubleChest
+1459696721498 Coolman20a clicked world -202 78 263 COBBLESTONE DoubleChest 30 RIGHT PICKUP_HALF
+1459696721847 Coolman20a clicked world -202 78 263 COBBLESTONE DoubleChest 30 LEFT PLACE_ALL
+1459696721948 Coolman20a clicked world -202 78 263 COBBLESTONE DoubleChest 30 LEFT PICKUP_ALL
+1459696723148 Coolman20a dragged world -202 78 263 COBBLESTONE 32 1 0 EVEN
+1459696723248 Coolman20a clicked world -202 78 263 COBBLESTONE DoubleChest 30 RIGHT PICKUP_HALF
+1459696724149 Coolman20a clicked world -202 78 263 AIR CraftPlayer 60 LEFT PLACE_ALL
+1459696724498 Coolman20a closed world -202 78 263 DoubleChest
+1459696726401 Coolman20a opened world -207 77 267 unknown
+1459696740810 Coolman20a closed world -207 77 267 unknown
+1459696744262 Coolman20a opened world -204 75 274 unknown
+1459696746717 Coolman20a closed world -204 75 274 unknown
+1459696748418 Coolman20a opened world -204 74 275 unknown
+1459696748818 Coolman20a closed world -204 74 275 unknown
+1459696749218 Coolman20a opened world -206 74 275 DoubleChest
+1459696750568 Coolman20a clicked world -206 74 275 IRON_INGOT CraftPlayer 63 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459696751418 Coolman20a clicked world -206 74 275 IRON_INGOT DoubleChest 33 LEFT PICKUP_ALL
+1459696752018 Coolman20a clicked world -206 74 275 QUARTZ_ORE DoubleChest 46 LEFT SWAP_WITH_CURSOR
+1459696752669 Coolman20a clicked world -206 74 275 AIR DoubleChest 33 LEFT PLACE_ALL
+1459696752818 Coolman20a closed world -206 74 275 DoubleChest
+1459696768727 Coolman20a closed world -204 32 319 unknown
+1459696772879 Coolman20a closed world -204 22 328 unknown
+1459696952587 Coolman20a closed world -187 9 365 unknown
+1459697138530 Coolman20a closed world -190 7 382 unknown
+1459697153983 Coolman20a closed world -187 9 386 unknown
+1459697272455 Coolman20a closed world -187 7 396 unknown
+1459697349457 Coolman20a closed world -187 9 404 unknown
+1459697381957 Coolman20a closed world -187 9 410 unknown
+1459697513908 Coolman20a closed world -187 9 431 unknown
+1459697596817 Coolman20a opened world -204 75 274 unknown
+1459697599417 Coolman20a closed world -204 75 274 unknown
+1459697599967 Coolman20a opened world -205 75 274 unknown
+1459697604717 Coolman20a closed world -205 75 274 unknown
+1459697606717 Coolman20a closed world -204 74 277 unknown
+[Exception] 1459697612618 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryOpen(ChestListener.java:31)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor93.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:748)
+[Exception] 	at net.minecraft.server.v1_9_R1.EntityPlayer.openContainer(EntityPlayer.java:697)
+[Exception] 	at net.minecraft.server.v1_9_R1.BlockEnderChest.interact(SourceFile:105)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerInteractManager.a(PlayerInteractManager.java:515)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:888)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:55)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:11)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459697622718 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:51)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor91.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459697640570 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryOpen(ChestListener.java:31)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor93.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:748)
+[Exception] 	at net.minecraft.server.v1_9_R1.EntityPlayer.openContainer(EntityPlayer.java:697)
+[Exception] 	at net.minecraft.server.v1_9_R1.BlockEnderChest.interact(SourceFile:105)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerInteractManager.a(PlayerInteractManager.java:515)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:888)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:55)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:11)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459697642720 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:51)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor91.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+1459697704978 Coolman20a opened world -213 77 268 DoubleChest
+1459697705978 Coolman20a clicked world -213 77 268 REDSTONE CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459697706227 Coolman20a clicked world -213 77 268 REDSTONE CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459697706478 Coolman20a clicked world -213 77 268 REDSTONE CraftPlayer 83 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459697707128 Coolman20a clicked world -213 77 268 FLINT CraftPlayer 63 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459697707728 Coolman20a clicked world -213 77 268 REDSTONE CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459697708828 Coolman20a clicked world -213 77 268 WATER_BUCKET CraftPlayer 75 LEFT PICKUP_ALL
+1459697709678 Coolman20a clicked world -213 77 268 AIR CraftPlayer 83 LEFT PLACE_ALL
+1459697709978 Coolman20a clicked world -213 77 268 BUCKET CraftPlayer 67 LEFT PICKUP_ALL
+1459697710628 Coolman20a clicked world -213 77 268 AIR CraftPlayer 84 LEFT PLACE_ALL
+1459697710978 Coolman20a closed world -213 77 268 DoubleChest
+[Exception] 1459697711828 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryOpen(ChestListener.java:31)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor93.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:748)
+[Exception] 	at net.minecraft.server.v1_9_R1.EntityPlayer.openContainer(EntityPlayer.java:697)
+[Exception] 	at net.minecraft.server.v1_9_R1.BlockEnderChest.interact(SourceFile:105)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerInteractManager.a(PlayerInteractManager.java:515)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:888)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:55)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:11)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459697712228 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:51)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor91.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459697712528 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryOpen(ChestListener.java:31)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor93.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:748)
+[Exception] 	at net.minecraft.server.v1_9_R1.EntityPlayer.openContainer(EntityPlayer.java:697)
+[Exception] 	at net.minecraft.server.v1_9_R1.BlockEnderChest.interact(SourceFile:105)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerInteractManager.a(PlayerInteractManager.java:515)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:888)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:55)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:11)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459697717529 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:51)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor91.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459697718278 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryOpen(ChestListener.java:31)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor93.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:748)
+[Exception] 	at net.minecraft.server.v1_9_R1.EntityPlayer.openContainer(EntityPlayer.java:697)
+[Exception] 	at net.minecraft.server.v1_9_R1.BlockEnderChest.interact(SourceFile:105)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerInteractManager.a(PlayerInteractManager.java:515)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:888)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:55)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:11)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459697721278 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:51)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor91.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+1459697722078 Coolman20a opened world -208 77 267 unknown
+1459697725378 Coolman20a closed world -208 77 267 unknown
+1459697726579 Coolman20a opened world -213 77 268 DoubleChest
+1459697727429 Coolman20a clicked world -213 77 268 GOLD_NUGGET CraftPlayer 60 LEFT PICKUP_ALL
+1459697727828 Coolman20a clicked world -213 77 268 AIR DoubleChest 53 LEFT PLACE_ALL
+1459697728179 Coolman20a closed world -213 77 268 DoubleChest
+1459697731529 Coolman20a opened world -204 75 274 unknown
+1459697733179 Coolman20a closed world -204 75 274 unknown
+1459697733629 Coolman20a opened world -205 75 274 unknown
+1459697734878 Coolman20a closed world -205 75 274 unknown
+1459697735579 Coolman20a opened world -206 74 275 DoubleChest
+1459697736678 Coolman20a clicked world -206 74 275 IRON_INGOT DoubleChest 46 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459697737129 Coolman20a closed world -206 74 275 DoubleChest
+1459697738729 Coolman20a opened world -204 75 274 unknown
+1459697740329 Coolman20a closed world -204 75 274 unknown
+1459697740780 Coolman20a opened world -205 75 274 unknown
+1459697742029 Coolman20a closed world -205 75 274 unknown
+[Exception] 1459697745979 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryOpen(ChestListener.java:31)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor93.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:748)
+[Exception] 	at net.minecraft.server.v1_9_R1.EntityPlayer.openContainer(EntityPlayer.java:697)
+[Exception] 	at net.minecraft.server.v1_9_R1.BlockEnderChest.interact(SourceFile:105)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerInteractManager.a(PlayerInteractManager.java:515)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:888)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:55)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:11)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459697747679 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:51)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor91.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+1459697749229 Coolman20a closed world -209 77 268 unknown
+1459697749529 Coolman20a opened world -208 77 268 unknown
+1459697753229 Coolman20a closed world -208 77 267 unknown
+1459697793382 Coolman20a closed world -212 78 288 unknown
+1459697798432 Coolman20a closed world -208 78 288 unknown
+1459697799082 Coolman20a opened world -208 78 288 unknown
+1459697810883 Coolman20a closed world -208 78 288 unknown
+1459697826135 Coolman20a closed world -210 77 289 unknown
+1459697865840 Coolman20a opened world -205 75 274 unknown
+1459697867189 Coolman20a closed world -205 75 274 unknown
+1459697868135 Coolman20a opened world -206 74 277 unknown
+1459697869539 Coolman20a closed world -206 74 277 unknown
+1459697872640 Coolman20a opened world -206 74 277 unknown
+1459697874290 Coolman20a closed world -206 74 277 unknown
+1459697875290 Coolman20a opened world -204 74 275 unknown
+1459697879090 Coolman20a closed world -204 74 275 unknown
+1459697879841 Coolman20a opened world -205 75 274 unknown
+1459697881041 Coolman20a closed world -205 75 274 unknown
+1459697881891 Coolman20a opened world -204 74 275 unknown
+1459697884491 Coolman20a closed world -204 74 275 unknown
+1459697948943 Coolman20a closed world -196 77 268 unknown
+1459697957045 Coolman20a opened world -205 77 261 DoubleChest
+1459697958946 Coolman20a clicked world -205 77 261 COAL DoubleChest 17 LEFT PICKUP_ALL
+1459697959846 Coolman20a clicked world -205 77 261 AIR CraftPlayer 60 LEFT PLACE_ALL
+1459697960145 Coolman20a closed world -205 77 261 DoubleChest
+1459697971151 Coolman20a closed world -206 77 259 unknown
+1459697977151 Coolman20a opened world -205 75 274 unknown
+1459697978501 Coolman20a closed world -205 75 274 unknown
+1459697979251 Coolman20a opened world -204 74 275 unknown
+1459697983954 Coolman20a closed world -204 74 275 unknown
+1459698016707 Coolman20a closed world -196 77 261 unknown
+1459698045959 Coolman20a closed world -232 77 256 unknown
+1459698050059 Coolman20a closed world -233 76 254 unknown
+1459698067409 Coolman20a closed world -208 77 234 unknown
+1459698068409 Coolman20a opened world -208 77 234 unknown
+1459698078314 Coolman20a closed world -208 77 234 unknown
+1459698128664 Coolman20a closed world -215 77 257 unknown
+1459698137413 Coolman20a closed world -200 77 275 unknown
+1459698186774 Coolman20a opened world -216 77 250 unknown
+1459698187223 Coolman20a closed world -216 77 250 unknown
+1459698188223 Coolman20a opened world -216 77 250 unknown
+1459698197923 Coolman20a closed world -216 77 250 unknown
+1459698199973 Coolman20a opened world -205 77 261 DoubleChest
+1459698201422 Coolman20a closed world -205 77 261 DoubleChest
+[Exception] 1459698203623 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryOpen(ChestListener.java:31)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor93.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:748)
+[Exception] 	at net.minecraft.server.v1_9_R1.EntityPlayer.openContainer(EntityPlayer.java:697)
+[Exception] 	at net.minecraft.server.v1_9_R1.BlockEnderChest.interact(SourceFile:105)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerInteractManager.a(PlayerInteractManager.java:515)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:888)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:55)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:11)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459698206322 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:51)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor91.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+1459698207775 Coolman20a closed world -207 77 268 unknown
+1459702798897 Coolman20a opened world -202 77 263 DoubleChest
+1459702803047 Coolman20a closed world -202 77 263 DoubleChest
+1459702811198 Coolman20a closed world -211 77 250 unknown
+1459702934741 Coolman20a closed world -109 80 218 unknown
+1459702982347 Coolman20a closed world -116 79 232 unknown
+1459703025248 Coolman20a closed world -114 76 254 unknown
+1459703063849 Coolman20a closed world -76 76 275 unknown
+1459704675540 Coolman20a closed world -107 76 248 unknown
+1459704733592 Coolman20a closed world -183 80 237 unknown
+1459704752092 Coolman20a opened world -205 77 261 DoubleChest
+1459704754542 Coolman20a clicked world -205 77 261 ROTTEN_FLESH CraftPlayer 78 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459704754942 Coolman20a clicked world -205 77 261 SULPHUR CraftPlayer 79 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459704755292 Coolman20a clicked world -205 77 261 MUTTON CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459704755742 Coolman20a clicked world -205 77 261 AIR CraftPlayer 78 SHIFT_LEFT NOTHING
+1459704755942 Coolman20a clicked world -205 77 261 AIR CraftPlayer 78 SHIFT_LEFT NOTHING
+1459704756242 Coolman20a clicked world -205 77 261 TORCH CraftPlayer 77 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459704756642 Coolman20a clicked world -205 77 261 AIR CraftPlayer 77 SHIFT_LEFT NOTHING
+1459704756892 Coolman20a clicked world -205 77 261 AIR CraftPlayer 77 SHIFT_LEFT NOTHING
+1459704757192 Coolman20a clicked world -205 77 261 CARROT_ITEM CraftPlayer 76 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459704757492 Coolman20a clicked world -205 77 261 SPIDER_EYE CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459704757992 Coolman20a clicked world -205 77 261 BONE CraftPlayer 71 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459704758593 Coolman20a clicked world -205 77 261 STRING CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459704759492 Coolman20a clicked world -205 77 261 ARROW CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459704760243 Coolman20a clicked world -205 77 261 TORCH DoubleChest 52 LEFT PICKUP_ALL
+1459704760942 Coolman20a clicked world -205 77 261 STONE CraftPlayer 88 LEFT SWAP_WITH_CURSOR
+1459704761242 Coolman20a clicked world -205 77 261 AIR CraftPlayer 79 LEFT PLACE_ALL
+1459704761342 Coolman20a closed world -205 77 261 DoubleChest
+1459704771842 Coolman20a closed world -215 82 261 unknown
+1459704783942 Coolman20a closed world -211 76 257 unknown
+1459704785043 Coolman20a opened world -205 77 261 DoubleChest
+1459704786892 Coolman20a clicked world -205 77 261 DARK_OAK_FENCE_GATE CraftPlayer 68 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459704788792 Coolman20a clicked world -205 77 261 ARROW DoubleChest 33 LEFT PICKUP_ALL
+1459704789742 Coolman20a dragged world -205 77 261 ARROW 1 0 1 SINGLE
+1459704790492 Coolman20a clicked world -205 77 261 AIR DoubleChest 33 LEFT PLACE_ALL
+1459704793492 Coolman20a closed world -205 77 261 DoubleChest
+1459704793943 Coolman20a opened world -205 78 261 DoubleChest
+1459704798192 Coolman20a clicked world -205 78 261 SHEARS DoubleChest 0 LEFT PICKUP_ALL
+1459704798992 Coolman20a clicked world -205 78 261 AIR CraftPlayer 88 LEFT PLACE_ALL
+1459704799042 Coolman20a closed world -205 78 261 DoubleChest
+1459704837542 Coolman20a closed world -217 77 269 unknown
+1459704845443 Coolman20a closed world -207 77 258 unknown
+1459704849792 Coolman20a closed world -208 77 261 unknown
+1459704853593 Coolman20a opened world -205 77 261 DoubleChest
+1459704855793 Coolman20a clicked world -205 77 261 TORCH DoubleChest 4 LEFT PICKUP_ALL
+1459704856892 Coolman20a clicked world -205 77 261 STONE_PICKAXE CraftPlayer 85 LEFT SWAP_WITH_CURSOR
+1459704857493 Coolman20a clicked world -205 77 261 SHEARS CraftPlayer 88 LEFT SWAP_WITH_CURSOR
+1459704858243 Coolman20a clicked world -205 77 261 COBBLESTONE CraftPlayer 89 LEFT SWAP_WITH_CURSOR
+1459704859043 Coolman20a clicked world -205 77 261 SHEARS CraftPlayer 89 LEFT SWAP_WITH_CURSOR
+1459704859342 Coolman20a clicked world -205 77 261 AIR CraftPlayer 80 LEFT PLACE_ALL
+1459704861543 Coolman20a clicked world -205 77 261 WOOL DoubleChest 42 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459704866043 Coolman20a closed world -205 77 261 DoubleChest
+1459704866493 Coolman20a opened world -205 78 261 DoubleChest
+1459704869742 Coolman20a closed world -205 78 261 DoubleChest
+1459704870793 Coolman20a opened world -202 77 263 DoubleChest
+1459704871542 Coolman20a closed world -202 77 263 DoubleChest
+1459704871693 Coolman20a opened world -202 78 263 DoubleChest
+1459704873193 Coolman20a clicked world -202 78 263 COBBLESTONE DoubleChest 41 LEFT PICKUP_ALL
+1459704874143 Coolman20a clicked world -202 78 263 AIR CraftPlayer 58 LEFT PLACE_ALL
+1459704875993 Coolman20a closed world -202 78 263 DoubleChest
+1459704878843 Coolman20a closed world -204 77 263 unknown
+1459704880243 Coolman20a opened world -208 77 266 SingleChest
+1459704881743 Coolman20a closed world -208 77 266 SingleChest
+1459704882593 Coolman20a opened world -213 77 268 DoubleChest
+1459704885193 Coolman20a clicked world -213 77 268 COBBLESTONE CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459704894093 Coolman20a closed world -213 77 268 DoubleChest
+1459704922842 Coolman20a closed world -210 82 262 unknown
+1459704940398 Coolman20a closed world -215 82 264 unknown
+1459704943949 Coolman20a closed world -211 83 263 unknown
+1459704950048 Coolman20a closed world -208 83 264 unknown
+1459704959749 Coolman20a opened world -205 77 261 DoubleChest
+1459704964348 Coolman20a clicked world -205 77 261 LOG_2 DoubleChest 41 RIGHT PICKUP_HALF
+1459704964899 Coolman20a clicked world -205 77 261 AIR DoubleChest 42 LEFT PLACE_ALL
+1459704964999 Coolman20a clicked world -205 77 261 LOG_2 DoubleChest 42 RIGHT PICKUP_HALF
+1459704965349 Coolman20a dragged world -205 77 261 LOG_2 16 1 0 EVEN
+1459704965499 Coolman20a clicked world -205 77 261 LOG_2 DoubleChest 42 LEFT PICKUP_ALL
+1459704966149 Coolman20a dragged world -205 77 261 LOG_2 16 0 1 EVEN
+1459704966349 Coolman20a closed world -205 77 261 DoubleChest
+1459704968348 Coolman20a closed world -206 77 259 unknown
+1459704973248 Coolman20a opened world -204 75 274 unknown
+1459704973998 Coolman20a closed world -204 75 274 unknown
+1459704974349 Coolman20a opened world -205 75 274 unknown
+1459704980149 Coolman20a closed world -205 75 274 unknown
+1459704980398 Coolman20a opened world -204 75 274 unknown
+1459704984149 Coolman20a closed world -204 75 274 unknown
+1459704986199 Coolman20a closed world -204 74 275 unknown
+1459704987099 Coolman20a opened world -206 74 275 DoubleChest
+1459704989399 Coolman20a clicked world -206 74 275 LOG_2 DoubleChest 14 LEFT PICKUP_ALL
+1459704990249 Coolman20a dragged world -206 74 275 LOG_2 5 0 1 EVEN
+1459704990399 Coolman20a closed world -206 74 275 DoubleChest
+1459704992249 Coolman20a closed world -204 74 275 unknown
+1459704992699 Coolman20a opened world -204 75 274 unknown
+1459704993899 Coolman20a closed world -204 75 274 unknown
+1459704994649 Coolman20a opened world -206 75 276 SingleChest
+1459704995899 Coolman20a clicked world -206 75 276 COAL CraftPlayer 35 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459704996199 Coolman20a clicked world -206 75 276 BONE CraftPlayer 44 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459704997949 Coolman20a closed world -206 75 276 SingleChest
+1459704998901 Coolman20a closed world -204 74 275 unknown
+1459706262148 Coolman20a opened world -206 74 275 DoubleChest
+1459706262798 Coolman20a closed world -206 74 275 DoubleChest
+1459706263049 Coolman20a opened world -206 75 276 SingleChest
+1459706264148 Coolman20a closed world -206 75 276 SingleChest
+1459706264699 Coolman20a opened world -206 74 275 DoubleChest
+1459706265298 Coolman20a closed world -206 74 275 DoubleChest
+1459706265598 Coolman20a opened world -206 75 276 SingleChest
+1459706266448 Coolman20a clicked world -206 75 276 QUARTZ_BLOCK CraftChest 7 LEFT PICKUP_ALL
+1459706267498 Coolman20a dragged world -206 75 276 QUARTZ_BLOCK 4 0 1 EVEN
+1459706268448 Coolman20a clicked world -206 75 276 QUARTZ CraftChest 14 LEFT PICKUP_ALL
+1459706268948 Coolman20a dragged world -206 75 276 QUARTZ 40 0 1 EVEN
+1459706269598 Coolman20a closed world -206 75 276 SingleChest
+1459706270299 Coolman20a opened world -204 74 275 unknown
+1459706284749 Coolman20a closed world -204 74 275 unknown
+1459706292498 Coolman20a opened world -205 75 274 unknown
+1459706294349 Coolman20a closed world -205 75 274 unknown
+1459706294499 Coolman20a opened world -205 75 274 unknown
+1459706295048 Coolman20a closed world -205 75 274 unknown
+1459706295199 Coolman20a opened world -204 75 274 unknown
+1459706296698 Coolman20a closed world -204 75 274 unknown
+1459706301248 Coolman20a closed world -204 74 275 unknown
+1459706301998 Coolman20a opened world -204 74 275 unknown
+1459706309498 Coolman20a closed world -204 74 275 unknown
+1459706360899 Coolman20a closed world -213 83 260 unknown
+1459706390348 Coolman20a closed world -211 77 250 unknown
+1459706405149 Coolman20a opened world -205 77 261 DoubleChest
+1459706406699 Coolman20a closed world -205 77 261 DoubleChest
+1459706406899 Coolman20a opened world -205 78 261 DoubleChest
+1459706408699 Coolman20a clicked world -205 78 261 QUARTZ DoubleChest 45 LEFT PICKUP_ALL
+1459706409698 Coolman20a clicked world -205 78 261 AIR CraftPlayer 62 LEFT PLACE_ALL
+1459706409949 Coolman20a closed world -205 78 261 DoubleChest
+1459706410999 Coolman20a opened world -202 78 263 DoubleChest
+1459706412749 Coolman20a closed world -202 78 263 DoubleChest
+1459706413049 Coolman20a opened world -202 77 263 DoubleChest
+1459706415149 Coolman20a clicked world -202 77 263 RAW_CHICKEN DoubleChest 52 LEFT PICKUP_ALL
+1459706415449 Coolman20a clicked world -202 77 263 AIR DoubleChest 52 DOUBLE_CLICK COLLECT_TO_CURSOR
+1459706415699 Coolman20a clicked world -202 77 263 AIR DoubleChest 52 LEFT PLACE_ALL
+1459706415999 Coolman20a closed world -202 77 263 DoubleChest
+1459706416349 Coolman20a opened world -202 79 263 DoubleChest
+1459706417649 Coolman20a closed world -202 79 263 DoubleChest
+1459706419249 Coolman20a opened world -208 77 266 SingleChest
+1459706420849 Coolman20a closed world -208 77 266 SingleChest
+1459706421549 Coolman20a opened world -213 77 268 DoubleChest
+1459706422199 Coolman20a closed world -213 77 268 DoubleChest
+1459706422449 Coolman20a opened world -213 78 268 DoubleChest
+1459706422849 Coolman20a closed world -213 78 268 DoubleChest
+1459706423049 Coolman20a opened world -213 79 268 DoubleChest
+1459706423399 Coolman20a closed world -213 79 268 DoubleChest
+1459706424649 Coolman20a opened world -208 77 267 unknown
+1459706433149 Coolman20a closed world -208 77 267 unknown
+1459706463849 Coolman20a opened world -205 77 261 DoubleChest
+1459706465449 Coolman20a closed world -205 77 261 DoubleChest
+1459706468849 Coolman20a opened world -208 77 266 SingleChest
+1459706469599 Coolman20a closed world -208 77 266 SingleChest
+1459706472749 Coolman20a opened world -206 75 276 SingleChest
+1459706474199 Coolman20a closed world -206 75 276 SingleChest
+1459706474499 Coolman20a opened world -206 74 275 DoubleChest
+1459706480999 Coolman20a clicked world -206 74 275 NETHER_BRICK DoubleChest 22 RIGHT PICKUP_HALF
+1459706482000 Coolman20a clicked world -206 74 275 AIR CraftPlayer 71 LEFT PLACE_ALL
+1459706482999 Coolman20a closed world -206 74 275 DoubleChest
+1459706483450 Coolman20a opened world -206 74 275 DoubleChest
+1459706485399 Coolman20a closed world -206 74 275 DoubleChest
+1459706486100 Coolman20a opened world -206 75 276 SingleChest
+1459706487650 Coolman20a clicked world -206 75 276 QUARTZ CraftChest 3 LEFT PICKUP_ALL
+1459706488599 Coolman20a clicked world -206 75 276 AIR CraftPlayer 49 LEFT PLACE_ALL
+1459706489200 Coolman20a clicked world -206 75 276 QUARTZ CraftChest 16 LEFT PICKUP_ALL
+1459706489950 Coolman20a clicked world -206 75 276 GOLD_INGOT CraftPlayer 51 LEFT SWAP_WITH_CURSOR
+1459706490750 Coolman20a clicked world -206 75 276 STONE CraftPlayer 47 LEFT SWAP_WITH_CURSOR
+1459706491149 Coolman20a clicked world -206 75 276 AIR CraftChest 20 LEFT PLACE_ALL
+1459706491849 Coolman20a closed world -206 75 276 SingleChest
+1459706492450 Coolman20a opened world -204 74 275 unknown
+1459706502800 Coolman20a closed world -204 74 275 unknown
+1459706508749 Coolman20a closed world -203 77 275 unknown
+1459706510150 Coolman20a opened world -206 74 275 DoubleChest
+1459706510549 Coolman20a closed world -206 74 275 DoubleChest
+1459706511299 Coolman20a opened world -204 74 275 unknown
+1459706514150 Coolman20a closed world -204 74 275 unknown
+1459706515100 Coolman20a opened world -206 75 276 SingleChest
+1459706515800 Coolman20a clicked world -206 75 276 NETHER_BRICK CraftPlayer 44 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459706516300 Coolman20a closed world -206 75 276 SingleChest
+1459706563000 Coolman20a closed world -209 77 228 unknown
+1459706563100 Coolman20a opened world -209 77 228 unknown
+1459706569150 Coolman20a closed world -209 77 228 unknown
+1459706572451 Coolman20a opened world -209 77 228 unknown
+1459706583250 Coolman20a closed world -209 77 228 unknown
+1459706590800 Coolman20a closed world -205 75 228 unknown
+1459706602553 Coolman20a opened world -208 76 228 unknown
+1459706602854 Coolman20a closed world -208 76 228 unknown
+1459706603253 Coolman20a opened world -207 76 228 unknown
+1459706603453 Coolman20a closed world -207 76 228 unknown
+1459706605404 Coolman20a opened world -208 77 229 unknown
+1459706610254 Coolman20a closed world -208 77 229 unknown
+1459706686455 Coolman20a closed world -210 77 227 unknown
+1459706691605 Coolman20a closed world -211 77 230 unknown
+1459706704105 Coolman20a closed world -208 76 228 unknown
+1459706714905 Coolman20a closed world -208 77 228 unknown
+1459706718456 Coolman20a closed world -205 77 230 unknown
+1459706770849 Coolman20a closed world -216 68 128 unknown
+1459706836418 Coolman20a closed world -124 55 103 unknown
+1459706949503 Coolman20a closed world -210 77 255 unknown
+1459706950504 Coolman20a opened world -205 77 261 DoubleChest
+1459706952803 Coolman20a clicked world -205 77 261 STRING CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459706953204 Coolman20a clicked world -205 77 261 STONE CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459706954303 Coolman20a clicked world -205 77 261 SULPHUR CraftPlayer 73 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459706956853 Coolman20a closed world -205 77 261 DoubleChest
+[Exception] 1459706958854 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryOpen(ChestListener.java:31)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor93.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:748)
+[Exception] 	at net.minecraft.server.v1_9_R1.EntityPlayer.openContainer(EntityPlayer.java:697)
+[Exception] 	at net.minecraft.server.v1_9_R1.BlockEnderChest.interact(SourceFile:105)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerInteractManager.a(PlayerInteractManager.java:515)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:888)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:55)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:11)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459706961403 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:51)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor91.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+1459706963903 Coolman20a opened world -204 75 274 unknown
+1459706965804 Coolman20a closed world -204 75 274 unknown
+1459706966253 Coolman20a opened world -205 75 274 unknown
+1459706968003 Coolman20a closed world -205 75 274 unknown
+1459706968554 Coolman20a opened world -206 74 275 DoubleChest
+1459706970104 Coolman20a clicked world -206 74 275 DARK_OAK_STAIRS DoubleChest 35 RIGHT PICKUP_HALF
+1459706971404 Coolman20a clicked world -206 74 275 AIR CraftPlayer 71 LEFT PLACE_ALL
+1459706971554 Coolman20a closed world -206 74 275 DoubleChest
+1459706972154 Coolman20a opened world -204 75 274 unknown
+1459706974453 Coolman20a closed world -204 75 274 unknown
+1459706975004 Coolman20a opened world -205 75 274 unknown
+1459706976404 Coolman20a closed world -205 75 274 unknown
+1459706981154 Coolman20a opened world -206 74 275 DoubleChest
+1459706983103 Coolman20a clicked world -206 74 275 NETHER_BRICK DoubleChest 22 LEFT PICKUP_ALL
+1459706983804 Coolman20a clicked world -206 74 275 AIR CraftPlayer 55 LEFT PLACE_ALL
+1459706984103 Coolman20a closed world -206 74 275 DoubleChest
+1459706984654 Coolman20a opened world -204 74 275 unknown
+1459706990503 Coolman20a closed world -204 74 275 unknown
+1459706991154 Coolman20a opened world -206 74 275 DoubleChest
+1459706991854 Coolman20a clicked world -206 74 275 NETHER_BRICK CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459706992354 Coolman20a closed world -206 74 275 DoubleChest
+1459706992753 Coolman20a opened world -205 75 274 unknown
+1459706993754 Coolman20a closed world -205 75 274 unknown
+1459706996304 Coolman20a opened world -206 75 276 SingleChest
+1459706997504 Coolman20a closed world -206 75 276 SingleChest
+1459706997703 Coolman20a opened world -206 74 275 DoubleChest
+1459707001553 Coolman20a closed world -206 74 275 DoubleChest
+1459707002204 Coolman20a opened world -203 74 277 SingleChest
+1459707005104 Coolman20a clicked world -203 74 277 QUARTZ_BLOCK CraftChest 10 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707007353 Coolman20a closed world -203 74 277 SingleChest
+1459707011353 Coolman20a opened world -208 77 266 SingleChest
+1459707013904 Coolman20a closed world -208 77 266 SingleChest
+1459707014553 Coolman20a opened world -213 77 268 DoubleChest
+1459707015204 Coolman20a closed world -213 77 268 DoubleChest
+1459707016354 Coolman20a opened world -202 77 263 DoubleChest
+1459707017404 Coolman20a closed world -202 77 263 DoubleChest
+1459707017654 Coolman20a opened world -202 78 263 DoubleChest
+1459707020454 Coolman20a closed world -202 78 263 DoubleChest
+1459707020754 Coolman20a opened world -202 79 263 DoubleChest
+1459707021554 Coolman20a closed world -202 79 263 DoubleChest
+1459707022154 Coolman20a opened world -205 77 261 DoubleChest
+1459707025404 Coolman20a closed world -205 77 261 DoubleChest
+1459707025604 Coolman20a opened world -205 78 261 DoubleChest
+1459707028604 Coolman20a closed world -205 78 261 DoubleChest
+1459707041604 Coolman20a closed world -209 78 228 unknown
+1459707119955 Coolman20a closed world -207 76 231 unknown
+1459707159405 Coolman20a opened world -207 77 228 unknown
+1459707166455 Coolman20a closed world -207 77 228 unknown
+1459707180455 Coolman20a closed world -207 76 231 unknown
+1459707260106 Coolman20a opened world -205 77 261 DoubleChest
+1459707261756 Coolman20a clicked world -205 77 261 DARK_OAK_FENCE_GATE DoubleChest 48 LEFT PICKUP_ALL
+1459707263256 Coolman20a clicked world -205 77 261 AIR DoubleChest 48 LEFT PLACE_ALL
+1459707263356 Coolman20a clicked world -205 77 261 DARK_OAK_FENCE_GATE DoubleChest 48 LEFT PICKUP_ALL
+1459707264156 Coolman20a clicked world -205 77 261 AIR DoubleChest 52 RIGHT PLACE_ONE
+1459707264856 Coolman20a clicked world -205 77 261 AIR DoubleChest 48 LEFT PLACE_ALL
+1459707265506 Coolman20a clicked world -205 77 261 DARK_OAK_FENCE_GATE DoubleChest 52 LEFT PICKUP_ALL
+1459707266756 Coolman20a clicked world -205 77 261 DIRT CraftPlayer 87 LEFT SWAP_WITH_CURSOR
+1459707267106 Coolman20a clicked world -205 77 261 WOOL CraftPlayer 67 LEFT SWAP_WITH_CURSOR
+1459707267655 Coolman20a clicked world -205 77 261 GLOWSTONE_DUST DoubleChest 51 LEFT SWAP_WITH_CURSOR
+1459707267805 Coolman20a clicked world -205 77 261 WOOL DoubleChest 51 UNKNOWN UNKNOWN
+1459707268156 Coolman20a clicked world -205 77 261 AIR DoubleChest 52 LEFT PLACE_ALL
+1459707268455 Coolman20a closed world -205 77 261 DoubleChest
+1459707283106 Coolman20a opened world -205 77 261 DoubleChest
+1459707283956 Coolman20a closed world -205 77 261 DoubleChest
+1459707284106 Coolman20a opened world -205 77 261 DoubleChest
+1459707284806 Coolman20a closed world -205 77 261 DoubleChest
+1459707284956 Coolman20a opened world -205 78 261 DoubleChest
+1459707285556 Coolman20a closed world -205 78 261 DoubleChest
+[Exception] 1459707287706 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryOpen(ChestListener.java:31)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor93.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:748)
+[Exception] 	at net.minecraft.server.v1_9_R1.EntityPlayer.openContainer(EntityPlayer.java:697)
+[Exception] 	at net.minecraft.server.v1_9_R1.BlockEnderChest.interact(SourceFile:105)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerInteractManager.a(PlayerInteractManager.java:515)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:888)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:55)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:11)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459707288456 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:51)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor91.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459707290006 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryOpen(ChestListener.java:31)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor93.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.callInventoryOpenEvent(CraftEventFactory.java:748)
+[Exception] 	at net.minecraft.server.v1_9_R1.EntityPlayer.openContainer(EntityPlayer.java:697)
+[Exception] 	at net.minecraft.server.v1_9_R1.BlockEnderChest.interact(SourceFile:105)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerInteractManager.a(PlayerInteractManager.java:515)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:888)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:55)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInUseItem.a(SourceFile:11)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+[Exception] 1459707291855 Exception occured
+[Exception] java.lang.NullPointerException
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestLogEntry.<init>(ChestLogEntry.java:30)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:14)
+[Exception] 	at org.myftp.p_productions.ChestLogger.OpenClosedChestLogEntry.<init>(OpenClosedChestLogEntry.java:23)
+[Exception] 	at org.myftp.p_productions.ChestLogger.ChestListener.onInventoryClose(ChestListener.java:51)
+[Exception] 	at sun.reflect.GeneratedMethodAccessor91.invoke(Unknown Source)
+[Exception] 	at sun.reflect.DelegatingMethodAccessorImpl.invoke(Unknown Source)
+[Exception] 	at java.lang.reflect.Method.invoke(Unknown Source)
+[Exception] 	at org.bukkit.plugin.java.JavaPluginLoader$1.execute(JavaPluginLoader.java:306)
+[Exception] 	at org.bukkit.plugin.RegisteredListener.callEvent(RegisteredListener.java:62)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.fireEvent(SimplePluginManager.java:502)
+[Exception] 	at org.bukkit.plugin.SimplePluginManager.callEvent(SimplePluginManager.java:487)
+[Exception] 	at org.bukkit.craftbukkit.v1_9_R1.event.CraftEventFactory.handleInventoryCloseEvent(CraftEventFactory.java:871)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnection.a(PlayerConnection.java:1628)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:18)
+[Exception] 	at net.minecraft.server.v1_9_R1.PacketPlayInCloseWindow.a(PacketPlayInCloseWindow.java:1)
+[Exception] 	at net.minecraft.server.v1_9_R1.PlayerConnectionUtils$1.run(SourceFile:13)
+[Exception] 	at java.util.concurrent.Executors$RunnableAdapter.call(Unknown Source)
+[Exception] 	at java.util.concurrent.FutureTask.run(Unknown Source)
+[Exception] 	at net.minecraft.server.v1_9_R1.SystemUtils.a(SourceFile:45)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.D(MinecraftServer.java:721)
+[Exception] 	at net.minecraft.server.v1_9_R1.DedicatedServer.D(DedicatedServer.java:400)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.C(MinecraftServer.java:660)
+[Exception] 	at net.minecraft.server.v1_9_R1.MinecraftServer.run(MinecraftServer.java:559)
+[Exception] 	at java.lang.Thread.run(Unknown Source)
+[Exception] 
+1459707295157 Coolman20a opened world -205 75 274 unknown
+1459707296707 Coolman20a closed world -205 75 274 unknown
+1459707297156 Coolman20a opened world -204 75 274 unknown
+1459707298457 Coolman20a closed world -204 75 274 unknown
+1459707298656 Coolman20a opened world -204 75 274 unknown
+1459707299056 Coolman20a closed world -204 75 274 unknown
+1459707299207 Coolman20a opened world -204 74 275 unknown
+1459707305707 Coolman20a closed world -204 74 275 unknown
+1459707338458 Coolman20a closed world -206 80 230 unknown
+1459707340257 Coolman20a closed world -206 80 230 unknown
+1459707373507 Coolman20a opened world -205 77 261 DoubleChest
+1459707375458 Coolman20a clicked world -205 77 261 HOPPER DoubleChest 29 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707376858 Coolman20a clicked world -205 77 261 COBBLESTONE CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707377407 Coolman20a clicked world -205 77 261 DIRT CraftPlayer 67 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707378907 Coolman20a clicked world -205 77 261 LOG DoubleChest 47 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707379558 Coolman20a clicked world -205 77 261 DIRT CraftPlayer 67 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707379807 Coolman20a clicked world -205 77 261 BUCKET CraftPlayer 66 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707381958 Coolman20a clicked world -205 77 261 CHEST DoubleChest 24 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707383057 Coolman20a clicked world -205 77 261 BRICK CraftPlayer 74 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707383458 Coolman20a clicked world -205 77 261 BRICK_STAIRS CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707384007 Coolman20a closed world -205 77 261 DoubleChest
+1459707384558 Coolman20a opened world -205 78 261 DoubleChest
+1459707385708 Coolman20a clicked world -205 78 261 BRICK_STAIRS CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707388158 Coolman20a clicked world -205 78 261 STONE_AXE CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707388707 Coolman20a clicked world -205 78 261 CARPET CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707392008 Coolman20a clicked world -205 78 261 STONE CraftPlayer 71 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707393308 Coolman20a clicked world -205 78 261 STONE CraftPlayer 79 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707393709 Coolman20a clicked world -205 78 261 BONE CraftPlayer 78 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707394358 Coolman20a clicked world -205 78 261 SMOOTH_STAIRS CraftPlayer 76 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707394659 Coolman20a clicked world -205 78 261 MUTTON CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707395309 Coolman20a closed world -205 78 261 DoubleChest
+1459707397158 Coolman20a opened world -202 77 263 DoubleChest
+1459707397759 Coolman20a closed world -202 77 263 DoubleChest
+1459707402408 Coolman20a opened world -203 74 277 SingleChest
+1459707403758 Coolman20a clicked world -203 74 277 QUARTZ CraftChest 7 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707404058 Coolman20a clicked world -203 74 277 QUARTZ CraftChest 8 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707404558 Coolman20a closed world -203 74 277 SingleChest
+1459707405608 Coolman20a opened world -206 74 275 DoubleChest
+1459707407309 Coolman20a closed world -206 74 275 DoubleChest
+1459707407609 Coolman20a opened world -206 75 276 SingleChest
+1459707409608 Coolman20a clicked world -206 75 276 QUARTZ CraftChest 9 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707410209 Coolman20a closed world -206 75 276 SingleChest
+1459707411209 Coolman20a opened world -204 74 277 unknown
+1459707427509 Coolman20a closed world -204 74 276 unknown
+1459707467609 Coolman20a closed world -209 81 231 unknown
+1459707470409 Coolman20a closed world -209 81 230 unknown
+1459707492609 Coolman20a closed world -203 81 231 unknown
+1459707497609 Coolman20a closed world -203 81 231 unknown
+1459707513659 Coolman20a opened world -205 78 261 DoubleChest
+1459707515959 Coolman20a clicked world -205 78 261 STONE DoubleChest 45 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707516209 Coolman20a clicked world -205 78 261 AIR DoubleChest 45 SHIFT_LEFT NOTHING
+1459707516859 Coolman20a closed world -205 78 261 DoubleChest
+1459707517310 Coolman20a opened world -205 77 261 DoubleChest
+1459707519610 Coolman20a clicked world -205 77 261 STONE CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707520959 Coolman20a closed world -205 77 261 DoubleChest
+1459707522360 Coolman20a opened world -202 77 263 DoubleChest
+1459707523209 Coolman20a closed world -202 77 263 DoubleChest
+1459707523309 Coolman20a opened world -202 77 263 DoubleChest
+1459707523860 Coolman20a closed world -202 77 263 DoubleChest
+1459707524059 Coolman20a opened world -202 78 263 DoubleChest
+1459707526060 Coolman20a closed world -202 78 263 DoubleChest
+1459707526410 Coolman20a opened world -202 79 263 DoubleChest
+1459707527459 Coolman20a closed world -202 79 263 DoubleChest
+1459707532110 Coolman20a opened world -208 77 266 SingleChest
+1459707533560 Coolman20a clicked world -208 77 266 STONE CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707534060 Coolman20a closed world -208 77 266 SingleChest
+1459707585411 Coolman20a closed world -209 77 255 unknown
+1459707586162 Coolman20a opened world -205 77 261 DoubleChest
+1459707588211 Coolman20a closed world -205 77 261 DoubleChest
+1459707637753 Coolman20a closed world_nether -46 58 32 unknown
+1459707686104 Coolman20a closed world_nether -46 59 45 unknown
+1459707748066 Coolman20a closed world_nether 7 45 36 unknown
+1459707781067 Coolman20a closed world_nether 16 50 36 unknown
+1459707833758 Coolman20a opened world -203 74 277 SingleChest
+1459707835158 Coolman20a clicked world -203 74 277 GLOWSTONE_DUST CraftChest 9 LEFT PICKUP_ALL
+1459707835708 Coolman20a clicked world -203 74 277 AIR CraftPlayer 37 LEFT PLACE_ALL
+1459707835908 Coolman20a closed world -203 74 277 SingleChest
+1459707837458 Coolman20a opened world -204 74 275 unknown
+1459707841059 Coolman20a closed world -204 74 275 unknown
+1459707841459 Coolman20a opened world -203 74 277 SingleChest
+1459707842109 Coolman20a clicked world -203 74 277 GLOWSTONE_DUST CraftPlayer 37 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1459707844259 Coolman20a closed world -203 74 277 SingleChest
+1459707844809 Coolman20a opened world -204 75 274 unknown
+1459707845109 Coolman20a closed world -204 75 274 unknown
+1459707845359 Coolman20a opened world -204 74 275 unknown
+1459707851209 Coolman20a closed world -204 74 275 unknown
+1459707867359 Coolman20a closed world -205 77 229 unknown
+1459707877710 Coolman20a closed world -205 77 229 unknown
+1459707884960 Coolman20a closed world -207 77 229 unknown
+1459707894360 Coolman20a opened world -207 77 228 unknown
+1459707900161 Coolman20a closed world -207 77 228 unknown
+1459707905061 Coolman20a opened world -206 77 228 unknown
+1459707911060 Coolman20a closed world -207 77 228 unknown
+1459707935211 Coolman20a closed world -208 77 229 unknown
+1459707937011 Coolman20a closed world -208 77 229 unknown
+1459707939161 Coolman20a closed world -208 77 229 unknown
+1459707945461 Coolman20a closed world -206 77 228 unknown
+1459707969814 Coolman20a closed world -206 77 228 unknown
+1459707972664 Coolman20a closed world -205 77 229 unknown
+1459707987865 Coolman20a closed world -210 77 225 unknown
+1459707997465 Coolman20a opened world -207 76 228 unknown
+1459707998614 Coolman20a closed world -207 76 228 unknown
+1459707999318 Coolman20a closed world -206 77 229 unknown

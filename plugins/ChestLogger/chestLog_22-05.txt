@@ -1,0 +1,46 @@
+1463931242685 Lisa_bluemchen11 opened world 199 71 1637 DoubleChest
+1463931250234 Lisa_bluemchen11 clicked world 199 71 1637 IRON_INGOT 4 AIR 0 CraftPlayer 57 LEFT PICKUP_ALL
+1463931252035 Lisa_bluemchen11 clicked world 199 71 1637 AIR 0 IRON_INGOT 4 DoubleChest 21 LEFT PLACE_ALL
+1463931253085 Lisa_bluemchen11 clicked world 199 71 1637 DIAMOND 6 AIR 0 CraftPlayer 63 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1463931254034 Lisa_bluemchen11 closed world 199 71 1637 DoubleChest
+1463937197583 Lisa_bluemchen11 opened world 199 71 1637 DoubleChest
+1463937199274 Lisa_bluemchen11 closed world 199 71 1637 DoubleChest
+1463937400559 Lisa_bluemchen11 opened world 199 71 1637 DoubleChest
+1463937402908 Lisa_bluemchen11 closed world 199 71 1637 DoubleChest
+1463937403309 Lisa_bluemchen11 opened world 199 72 1637 DoubleChest
+1463937405709 Lisa_bluemchen11 clicked world 199 72 1637 STONE_SWORD 1 AIR 0 DoubleChest 33 LEFT PICKUP_ALL
+1463937407159 Lisa_bluemchen11 clicked world 199 72 1637 STONE_PICKAXE 1 STONE_SWORD 1 CraftPlayer 87 LEFT SWAP_WITH_CURSOR
+1463937408109 Lisa_bluemchen11 clicked world 199 72 1637 AIR 0 STONE_PICKAXE 1 CraftPlayer 78 LEFT PLACE_ALL
+1463937408909 Lisa_bluemchen11 closed world 199 72 1637 DoubleChest
+1463937741003 Lisa_bluemchen11 opened world 199 71 1637 DoubleChest
+1463937744203 Lisa_bluemchen11 clicked world 199 71 1637 SULPHUR 2 AIR 0 DoubleChest 19 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1463937745553 Lisa_bluemchen11 clicked world 199 71 1637 SAND 4 AIR 0 DoubleChest 52 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1463937746003 Lisa_bluemchen11 closed world 199 71 1637 DoubleChest
+1463937747003 Lisa_bluemchen11 opened world 199 72 1637 DoubleChest
+1463937749553 Lisa_bluemchen11 closed world 199 72 1637 DoubleChest
+1463937763905 Lisa_bluemchen11 opened world 236 65 1616 DoubleChest
+1463937766004 Lisa_bluemchen11 closed world 236 65 1616 DoubleChest
+1463937847213 Lisa_bluemchen11 opened world 246 65 1701 DoubleChest
+1463937852264 Lisa_bluemchen11 clicked world 246 65 1701 FLINT 1 AIR 0 DoubleChest 25 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1463937852614 Lisa_bluemchen11 closed world 246 65 1701 DoubleChest
+1463937891566 Lisa_bluemchen11 opened world 260 54 1717 DoubleChest
+1463937892316 Lisa_bluemchen11 closed world 260 54 1717 DoubleChest
+1463937897017 Lisa_bluemchen11 clicked world 259 55 1717 IRON_INGOT 10 AIR 0 CraftChest 25 RIGHT PICKUP_HALF
+1463937898316 Lisa_bluemchen11 clicked world 259 55 1717 AIR 0 IRON_INGOT 5 CraftPlayer 42 RIGHT PLACE_ONE
+1463937899367 Lisa_bluemchen11 clicked world 259 55 1717 IRON_INGOT 5 IRON_INGOT 4 CraftChest 25 LEFT PLACE_ALL
+1463937905367 Lisa_bluemchen11 opened world 257 55 1720 DoubleChest
+1463937911717 Lisa_bluemchen11 clicked world 257 55 1720 SULPHUR 4 AIR 0 DoubleChest 13 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1463937912567 Lisa_bluemchen11 clicked world 257 55 1720 SANDSTONE 10 AIR 0 DoubleChest 30 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1463937914968 Lisa_bluemchen11 clicked world 257 55 1720 SAND 56 AIR 0 DoubleChest 29 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1463937916318 Lisa_bluemchen11 clicked world 257 55 1720 SANDSTONE 10 AIR 0 CraftPlayer 72 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1463937917218 Lisa_bluemchen11 closed world 257 55 1720 DoubleChest
+1463944534905 C4Phoenix opened world -1189 27 452 DoubleChest
+1463944536856 C4Phoenix closed world -1189 27 452 DoubleChest
+1463944537356 C4Phoenix opened world -1189 29 452 DoubleChest
+1463944539617 C4Phoenix clicked world -1189 29 452 BOW 1 AIR 0 CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1463944539966 C4Phoenix clicked world -1189 29 452 BONE 58 AIR 0 CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1463944542069 C4Phoenix closed world -1189 29 452 DoubleChest
+1463944548021 C4Phoenix opened world -1189 29 452 DoubleChest
+1463944549071 C4Phoenix clicked world -1189 29 452 BOW 1 AIR 0 DoubleChest 40 LEFT PICKUP_ALL
+1463944549621 C4Phoenix clicked world -1189 29 452 AIR 0 BOW 1 CraftPlayer 64 LEFT PLACE_ALL
+1463944550221 C4Phoenix closed world -1189 29 452 DoubleChest

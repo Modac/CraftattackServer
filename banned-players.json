@@ -1,0 +1,26 @@
+[
+  {
+    "uuid": "c76e2606-0848-4b41-8596-de6ef867e587",
+    "name": "NoNamed",
+    "created": "2016-04-18 14:04:23 +0200",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "696105c8-23c5-45e9-9245-927b8249e358",
+    "name": "flo_1202",
+    "created": "2016-03-13 10:18:54 +0100",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  },
+  {
+    "uuid": "437433b7-a53b-4fa9-b2f7-1c38af6b92ca",
+    "name": "Laurentius_",
+    "created": "2016-03-15 14:11:43 +0100",
+    "source": "Server",
+    "expires": "forever",
+    "reason": "Banned by an operator."
+  }
+]

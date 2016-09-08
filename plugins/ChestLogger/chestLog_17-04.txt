@@ -1,0 +1,2044 @@
+1460883768197 20Flo03 opened world -279 84 119 DoubleChest
+1460883772596 20Flo03 closed world -279 84 119 DoubleChest
+1460883790248 20Flo03 opened world -288 80 134 DoubleChest
+1460883791248 20Flo03 closed world -288 80 134 DoubleChest
+1460883791848 20Flo03 opened world -288 81 134 DoubleChest
+1460883792398 20Flo03 closed world -288 81 134 DoubleChest
+1460883793398 20Flo03 opened world -288 82 134 DoubleChest
+1460883793848 20Flo03 closed world -288 82 134 DoubleChest
+1460883794298 20Flo03 opened world -288 83 134 DoubleChest
+1460883794798 20Flo03 closed world -288 83 134 DoubleChest
+1460883825867 20Flo03 clicked world -286 91 134 EGG CraftChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460883847070 20Flo03 clicked world -286 91 134 EGG CraftChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460883848719 20Flo03 clicked world -286 91 134 EGG CraftChest 0 LEFT PICKUP_ALL
+1460883849320 20Flo03 clicked world -286 91 134 AIR CraftPlayer 48 LEFT PLACE_ALL
+1460883849869 20Flo03 clicked world -286 91 134 DIRT CraftChest 2 LEFT PICKUP_ALL
+1460883850620 20Flo03 clicked world -286 91 134 CARROT_ITEM CraftPlayer 54 LEFT SWAP_WITH_CURSOR
+1460883851170 20Flo03 dragged world -286 91 134 CARROT_ITEM 64 0 1 EVEN
+1460888625537 niklas_thomas clicked world -283 87 136 SUGAR_CANE CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888684894 niklas_thomas opened world -288 87 134 DoubleChest
+1460888688144 niklas_thomas clicked world -288 87 134 CAKE CraftPlayer 83 LEFT PICKUP_ALL
+1460888688694 niklas_thomas dragged world -288 87 134 CAKE 1 0 1 EVEN
+1460888689244 niklas_thomas clicked world -288 87 134 ARROW CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888689694 niklas_thomas clicked world -288 87 134 BUCKET CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888690394 niklas_thomas clicked world -288 87 134 BUCKET DoubleChest 2 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888692144 niklas_thomas clicked world -288 87 134 SULPHUR CraftPlayer 76 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888694294 niklas_thomas clicked world -288 87 134 IRON_INGOT CraftPlayer 66 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888694944 niklas_thomas closed world -288 87 134 DoubleChest
+1460888728448 niklas_thomas opened world -288 87 134 DoubleChest
+1460888731448 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888731748 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 67 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888732098 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 65 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888732298 niklas_thomas clicked world -288 87 134 AIR CraftPlayer 65 SHIFT_LEFT NOTHING
+1460888732548 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 66 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888732948 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888733398 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 72 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888735148 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888736548 niklas_thomas clicked world -288 87 134 LAVA_BUCKET CraftPlayer 69 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888737148 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888737949 niklas_thomas closed world -288 87 134 DoubleChest
+1460888746250 niklas_thomas clicked world -286 91 134 EGG CraftChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888746599 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888753050 niklas_thomas opened world -288 87 134 DoubleChest
+1460888753950 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 79 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888754150 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 78 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888754350 niklas_thomas closed world -288 87 134 DoubleChest
+1460888757751 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888763201 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888828808 niklas_thomas clicked world -286 91 134 EGG CraftChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888829358 niklas_thomas clicked world -286 91 134 DIRT CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888830358 niklas_thomas clicked world -286 91 134 DIRT CraftPlayer 57 LEFT PICKUP_ALL
+1460888830608 niklas_thomas clicked world -286 91 134 AIR CraftPlayer 39 LEFT PLACE_ALL
+1460888835808 niklas_thomas clicked world -283 87 136 SUGAR CraftPlayer 31 RIGHT PICKUP_HALF
+1460888836358 niklas_thomas clicked world -283 87 136 AIR CraftPlayer 31 LEFT PLACE_ALL
+1460888837409 niklas_thomas opened world -288 87 134 DoubleChest
+1460888838508 niklas_thomas clicked world -288 87 134 EGG DoubleChest 15 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888838959 niklas_thomas clicked world -288 87 134 EGG DoubleChest 14 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888840309 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 84 LEFT PICKUP_ALL
+1460888841409 niklas_thomas clicked world -288 87 134 AIR DoubleChest 14 RIGHT PLACE_ONE
+1460888841509 niklas_thomas dragged world -288 87 134 EGG 1 1 0 SINGLE
+1460888841759 niklas_thomas clicked world -288 87 134 EGG DoubleChest 14 RIGHT PLACE_ONE
+1460888841859 niklas_thomas clicked world -288 87 134 EGG DoubleChest 14 RIGHT PLACE_ONE
+1460888842959 niklas_thomas dragged world -288 87 134 EGG 10 0 1 EVEN
+1460888843059 niklas_thomas closed world -288 87 134 DoubleChest
+1460888846759 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888880213 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888884413 niklas_thomas opened world -288 87 134 DoubleChest
+1460888885163 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888885364 niklas_thomas closed world -288 87 134 DoubleChest
+1460888886764 niklas_thomas opened world -288 87 134 DoubleChest
+1460888887213 niklas_thomas closed world -288 87 134 DoubleChest
+1460888912064 niklas_thomas opened world -288 87 134 DoubleChest
+1460888913065 niklas_thomas closed world -288 87 134 DoubleChest
+1460888915115 niklas_thomas clicked world -283 87 136 SUGAR_CANE CraftChest 14 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888923365 niklas_thomas opened world -288 87 134 DoubleChest
+1460888924515 niklas_thomas clicked world -288 87 134 SUGAR_CANE CraftPlayer 65 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888925765 niklas_thomas closed world -288 87 134 DoubleChest
+1460888929667 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888932117 niklas_thomas opened world -288 87 134 DoubleChest
+1460888933617 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 86 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460888934066 niklas_thomas closed world -288 87 134 DoubleChest
+1460888952318 niklas_thomas opened world -285 83 129 DoubleChest
+1460888955419 niklas_thomas closed world -285 83 129 DoubleChest
+1460888957469 niklas_thomas opened world -285 83 129 DoubleChest
+1460888962269 niklas_thomas closed world -285 83 129 DoubleChest
+1460888971921 niklas_thomas opened world -288 87 134 DoubleChest
+1460888975420 niklas_thomas closed world -288 87 134 DoubleChest
+1460888994572 JayJo07 opened world 329 83 1681 DoubleChest
+1460888997422 JayJo07 clicked world 329 83 1681 AIR DoubleChest 49 MIDDLE NOTHING
+1460888998622 JayJo07 clicked world 329 83 1681 AIR DoubleChest 49 MIDDLE NOTHING
+1460888999372 JayJo07 closed world 329 83 1681 DoubleChest
+1460889002722 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889014272 niklas_thomas opened world -288 87 134 DoubleChest
+1460889014622 niklas_thomas closed world -288 87 134 DoubleChest
+1460889014622 niklas_thomas opened world -288 87 134 DoubleChest
+1460889014672 niklas_thomas closed world -288 87 134 DoubleChest
+1460889014672 niklas_thomas opened world -288 87 134 DoubleChest
+1460889032537 niklas_thomas closed world -288 87 134 DoubleChest
+1460889059138 niklas_thomas opened world -288 87 134 DoubleChest
+1460889059888 niklas_thomas closed world -288 87 134 DoubleChest
+1460889071888 niklas_thomas clicked world -286 91 134 AIR CraftChest 1 SHIFT_LEFT NOTHING
+1460889072138 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889075288 niklas_thomas opened world -288 87 134 DoubleChest
+1460889077088 niklas_thomas clicked world -288 87 134 EGG DoubleChest 14 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889077538 niklas_thomas clicked world -288 87 134 MILK_BUCKET DoubleChest 12 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889077739 niklas_thomas clicked world -288 87 134 MILK_BUCKET DoubleChest 11 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889077888 niklas_thomas clicked world -288 87 134 MILK_BUCKET DoubleChest 10 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889078189 niklas_thomas clicked world -288 87 134 AIR DoubleChest 10 SHIFT_LEFT NOTHING
+1460889078939 niklas_thomas clicked world -288 87 134 BROWN_MUSHROOM DoubleChest 4 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889080338 niklas_thomas clicked world -288 87 134 BROWN_MUSHROOM CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889081739 niklas_thomas clicked world -288 87 134 MILK_BUCKET DoubleChest 5 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889081989 niklas_thomas clicked world -288 87 134 MILK_BUCKET DoubleChest 6 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889081989 niklas_thomas clicked world -288 87 134 MILK_BUCKET DoubleChest 7 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889082588 niklas_thomas closed world -288 87 134 DoubleChest
+1460889097739 Lisa_bluemchen11 clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889117289 Lisa_bluemchen11 opened world -288 87 134 DoubleChest
+1460889118740 Lisa_bluemchen11 closed world -288 87 134 DoubleChest
+1460889120689 niklas_thomas opened world -288 87 134 DoubleChest
+1460889121340 niklas_thomas closed world -288 87 134 DoubleChest
+1460889129040 niklas_thomas opened world -279 84 119 DoubleChest
+1460889134439 niklas_thomas closed world -279 84 119 DoubleChest
+1460889135440 niklas_thomas opened world -279 84 119 DoubleChest
+1460889136490 niklas_thomas clicked world -279 84 119 TORCH DoubleChest 33 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889136690 niklas_thomas closed world -279 84 119 DoubleChest
+1460889147390 Lisa_bluemchen11 opened world -288 87 134 DoubleChest
+1460889148790 Lisa_bluemchen11 clicked world -288 87 134 IRON_INGOT DoubleChest 3 RIGHT PICKUP_HALF
+1460889149840 Lisa_bluemchen11 dragged world -288 87 134 IRON_INGOT 8 0 1 EVEN
+1460889150140 Lisa_bluemchen11 clicked world -288 87 134 IRON_INGOT CraftPlayer 57 RIGHT PICKUP_HALF
+1460889151340 Lisa_bluemchen11 dragged world -288 87 134 IRON_INGOT 4 1 0 EVEN
+1460889151690 Lisa_bluemchen11 clicked world -288 87 134 IRON_INGOT DoubleChest 3 RIGHT PICKUP_HALF
+1460889152490 Lisa_bluemchen11 clicked world -288 87 134 IRON_INGOT CraftPlayer 57 RIGHT PLACE_ONE
+1460889153440 Lisa_bluemchen11 clicked world -288 87 134 IRON_INGOT DoubleChest 3 LEFT PLACE_ALL
+1460889153840 Lisa_bluemchen11 closed world -288 87 134 DoubleChest
+1460889167840 niklas_thomas opened world -288 80 134 DoubleChest
+1460889169090 niklas_thomas clicked world -288 80 134 CAKE CraftPlayer 78 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889169290 niklas_thomas clicked world -288 80 134 CAKE CraftPlayer 79 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889169740 niklas_thomas clicked world -288 80 134 CAKE CraftPlayer 86 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889170590 niklas_thomas clicked world -288 80 134 CAKE CraftPlayer 74 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889170641 niklas_thomas closed world -288 80 134 DoubleChest
+1460889185141 niklas_thomas opened world -288 87 134 DoubleChest
+1460889186040 niklas_thomas closed world -288 87 134 DoubleChest
+1460889213191 niklas_thomas opened world -288 87 134 DoubleChest
+1460889214241 niklas_thomas closed world -288 87 134 DoubleChest
+1460889225440 Lisa_bluemchen11 clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889255691 niklas_thomas clicked world -283 87 136 WOOL CraftChest 25 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889256541 Lisa_bluemchen11 clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889256791 niklas_thomas opened world -288 87 134 DoubleChest
+1460889257591 niklas_thomas closed world -288 87 134 DoubleChest
+1460889265542 niklas_thomas opened world -279 84 119 DoubleChest
+1460889268092 niklas_thomas clicked world -279 84 119 WOOL DoubleChest 17 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889268842 niklas_thomas closed world -279 84 119 DoubleChest
+1460889290342 Lisa_bluemchen11 opened world -288 87 134 DoubleChest
+1460889291492 Lisa_bluemchen11 closed world -288 87 134 DoubleChest
+1460889312993 niklas_thomas opened world -288 87 134 DoubleChest
+1460889314143 niklas_thomas clicked world -288 87 134 BED CraftPlayer 86 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889314243 niklas_thomas closed world -288 87 134 DoubleChest
+1460889332244 Lisa_bluemchen11 opened world -288 87 134 DoubleChest
+1460889332294 Lisa_bluemchen11 closed world -288 87 134 DoubleChest
+1460889332294 Lisa_bluemchen11 opened world -288 87 134 DoubleChest
+1460889332843 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889333943 Lisa_bluemchen11 clicked world -288 87 134 BED DoubleChest 5 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889334493 Lisa_bluemchen11 closed world -288 87 134 DoubleChest
+1460889390694 niklas_thomas opened world -288 87 134 DoubleChest
+1460889391444 niklas_thomas closed world -288 87 134 DoubleChest
+1460889436743 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889438393 niklas_thomas opened world -288 87 134 DoubleChest
+1460889439443 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889439543 niklas_thomas closed world -288 87 134 DoubleChest
+1460889443293 niklas_thomas opened world -288 87 134 DoubleChest
+1460889444143 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 65 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889444343 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 66 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889444593 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 67 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889445143 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 72 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889446193 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 69 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889446393 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 70 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889446593 niklas_thomas clicked world -288 87 134 AIR CraftPlayer 70 SHIFT_LEFT NOTHING
+1460889446793 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889447143 niklas_thomas clicked world -288 87 134 AIR CraftPlayer 60 SHIFT_LEFT NOTHING
+1460889448043 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889448743 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889448943 niklas_thomas clicked world -288 87 134 AIR CraftPlayer 61 SHIFT_LEFT NOTHING
+1460889449293 niklas_thomas closed world -288 87 134 DoubleChest
+1460889460295 Lisa_bluemchen11 opened world -288 87 134 DoubleChest
+1460889460895 Lisa_bluemchen11 closed world -288 87 134 DoubleChest
+1460889466798 niklas_thomas opened world -288 87 134 DoubleChest
+1460889468704 niklas_thomas clicked world -288 87 134 SEEDS CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889470054 niklas_thomas clicked world -288 87 134 WHEAT CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889470054 niklas_thomas closed world -288 87 134 DoubleChest
+1460889474104 niklas_thomas clicked world -283 87 136 BEETROOT_SEEDS CraftChest 5 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889475404 niklas_thomas opened world -288 87 134 DoubleChest
+1460889476304 niklas_thomas closed world -288 87 134 DoubleChest
+1460889482604 niklas_thomas opened world -279 84 119 DoubleChest
+1460889483954 niklas_thomas clicked world -279 84 119 BEETROOT_SEEDS DoubleChest 23 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889484004 niklas_thomas closed world -279 84 119 DoubleChest
+1460889502669 niklas_thomas opened world -288 87 134 DoubleChest
+1460889503869 niklas_thomas clicked world -288 87 134 WATER_BUCKET DoubleChest 9 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889504119 niklas_thomas closed world -288 87 134 DoubleChest
+1460889538421 niklas_thomas opened world -288 87 134 DoubleChest
+1460889540121 niklas_thomas clicked world -288 87 134 BEETROOT_SEEDS CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889540171 niklas_thomas closed world -288 87 134 DoubleChest
+1460889576423 niklas_thomas opened world -288 87 134 DoubleChest
+1460889577773 niklas_thomas closed world -288 87 134 DoubleChest
+1460889577773 niklas_thomas opened world -288 87 134 DoubleChest
+1460889577823 niklas_thomas closed world -288 87 134 DoubleChest
+1460889577823 niklas_thomas opened world -288 87 134 DoubleChest
+1460889579223 niklas_thomas clicked world -288 87 134 BEETROOT CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889579523 niklas_thomas clicked world -288 87 134 BEETROOT_SEEDS CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889580823 niklas_thomas clicked world -288 87 134 GRILLED_PORK CraftPlayer 55 LEFT PICKUP_ALL
+1460889580873 niklas_thomas dragged world -288 87 134 GRILLED_PORK 8 0 1 EVEN
+1460889580922 niklas_thomas closed world -288 87 134 DoubleChest
+1460889596123 niklas_thomas opened world -288 87 134 DoubleChest
+1460889597523 niklas_thomas clicked world -288 87 134 WHEAT CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889598423 niklas_thomas closed world -288 87 134 DoubleChest
+1460889654425 niklas_thomas opened world -288 87 134 DoubleChest
+1460889655625 niklas_thomas clicked world -288 87 134 WHEAT CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889656925 niklas_thomas closed world -288 87 134 DoubleChest
+1460889659925 niklas_thomas opened world -288 87 134 DoubleChest
+1460889661575 niklas_thomas clicked world -288 87 134 IRON_INGOT DoubleChest 3 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889661775 niklas_thomas closed world -288 87 134 DoubleChest
+1460889686075 niklas_thomas opened world -279 84 119 DoubleChest
+1460889688225 niklas_thomas clicked world -279 84 119 IRON_INGOT DoubleChest 6 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460889689925 niklas_thomas clicked world -279 84 119 IRON_LEGGINGS CraftPlayer 62 LEFT PICKUP_ALL
+1460889690525 niklas_thomas clicked world -279 84 119 IRON_LEGGINGS DoubleChest 51 LEFT SWAP_WITH_CURSOR
+1460889691075 niklas_thomas dragged world -279 84 119 IRON_LEGGINGS 1 0 1 EVEN
+1460889691275 niklas_thomas closed world -279 84 119 DoubleChest
+1460889713475 niklas_thomas opened world -288 87 134 DoubleChest
+1460889713776 niklas_thomas closed world -288 87 134 DoubleChest
+1460890056732 niklas_thomas opened world -288 87 134 DoubleChest
+1460890057183 niklas_thomas closed world -288 87 134 DoubleChest
+1460890057183 niklas_thomas opened world -288 87 134 DoubleChest
+1460890058883 niklas_thomas clicked world -288 87 134 SEEDS CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890059883 niklas_thomas clicked world -288 87 134 WHEAT CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890059883 niklas_thomas clicked world -288 87 134 SUGAR_CANE CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890060183 niklas_thomas closed world -288 87 134 DoubleChest
+1460890098585 niklas_thomas opened world -288 87 134 DoubleChest
+1460890099634 niklas_thomas closed world -288 87 134 DoubleChest
+1460890103235 niklas_thomas clicked world -286 91 134 EGG CraftChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890103384 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890105985 niklas_thomas opened world -288 87 134 DoubleChest
+1460890106985 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890107385 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890107835 niklas_thomas closed world -288 87 134 DoubleChest
+1460890134035 niklas_thomas opened world -288 87 134 DoubleChest
+1460890135285 niklas_thomas closed world -288 87 134 DoubleChest
+1460890148585 niklas_thomas opened world -288 87 134 DoubleChest
+1460890149785 niklas_thomas closed world -288 87 134 DoubleChest
+1460890164036 niklas_thomas opened world -288 87 134 DoubleChest
+1460890165086 niklas_thomas closed world -288 87 134 DoubleChest
+1460890170636 niklas_thomas opened world -288 87 134 DoubleChest
+1460890172286 niklas_thomas clicked world -288 87 134 WHEAT DoubleChest 20 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890172536 niklas_thomas closed world -288 87 134 DoubleChest
+1460890178288 niklas_thomas opened world -288 87 134 DoubleChest
+1460890179338 niklas_thomas clicked world -288 87 134 WHEAT CraftPlayer 74 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890179738 niklas_thomas closed world -288 87 134 DoubleChest
+1460890183738 niklas_thomas opened world -288 81 134 DoubleChest
+1460890184737 niklas_thomas clicked world -288 81 134 BREAD CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890184938 niklas_thomas closed world -288 81 134 DoubleChest
+1460890196479 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890199138 niklas_thomas opened world -288 87 134 DoubleChest
+1460890200239 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890200388 niklas_thomas closed world -288 87 134 DoubleChest
+1460890222240 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890229691 niklas_thomas opened world -288 87 134 DoubleChest
+1460890230591 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890231703 niklas_thomas clicked world -288 87 134 SEEDS DoubleChest 19 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890231803 niklas_thomas closed world -288 87 134 DoubleChest
+1460890274005 niklas_thomas opened world -288 87 134 DoubleChest
+1460890276105 niklas_thomas closed world -288 87 134 DoubleChest
+1460890291758 niklas_thomas opened world -288 87 134 DoubleChest
+1460890292658 niklas_thomas clicked world -288 87 134 BOWL CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890292858 niklas_thomas closed world -288 87 134 DoubleChest
+1460890309809 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890316360 niklas_thomas opened world -288 87 134 DoubleChest
+1460890317764 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890318264 niklas_thomas closed world -288 87 134 DoubleChest
+1460890375316 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890385618 niklas_thomas opened world -288 87 134 DoubleChest
+1460890387068 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890387318 niklas_thomas closed world -288 87 134 DoubleChest
+1460890398625 niklas_thomas opened world -267 84 148 DoubleChest
+1460890399175 niklas_thomas closed world -267 84 148 DoubleChest
+1460890411575 Lisa_bluemchen11 opened world -267 84 148 DoubleChest
+1460890412225 Lisa_bluemchen11 closed world -267 84 148 DoubleChest
+1460890418976 niklas_thomas clicked world -286 91 134 AIR CraftChest 1 SHIFT_LEFT NOTHING
+1460890419426 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890424326 niklas_thomas opened world -288 87 134 DoubleChest
+1460890425576 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890425876 niklas_thomas closed world -288 87 134 DoubleChest
+1460890613451 niklas_thomas opened world -288 87 134 DoubleChest
+1460890614801 niklas_thomas clicked world -288 87 134 MILK_BUCKET CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890615451 niklas_thomas closed world -288 87 134 DoubleChest
+1460890619351 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890621901 niklas_thomas opened world -288 87 134 DoubleChest
+1460890623301 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890623801 niklas_thomas clicked world -288 87 134 WHEAT CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890624251 niklas_thomas closed world -288 87 134 DoubleChest
+1460890813827 niklas_thomas clicked world -252 75 140 BEETROOT CraftChest 6 LEFT PICKUP_ALL
+1460890814527 niklas_thomas clicked world -252 75 140 AIR CraftPlayer 38 RIGHT PLACE_ONE
+1460890814726 niklas_thomas dragged world -252 75 140 BEETROOT 1 0 1 SINGLE
+1460890814876 niklas_thomas clicked world -252 75 140 BEETROOT CraftPlayer 38 RIGHT PLACE_ONE
+1460890815977 niklas_thomas clicked world -252 75 140 AIR CraftChest 6 LEFT PLACE_ALL
+1460890827381 niklas_thomas clicked world -250 69 143 EGG CraftChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460890857225 niklas_thomas opened world -279 84 119 DoubleChest
+1460890860475 niklas_thomas clicked world -279 84 119 AIR CraftPlayer 84 SHIFT_LEFT NOTHING
+1460890863525 niklas_thomas closed world -279 84 119 DoubleChest
+1460891000013 niklas_thomas opened world -288 87 134 DoubleChest
+1460891002363 niklas_thomas clicked world -288 87 134 BEETROOT DoubleChest 21 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891002713 niklas_thomas clicked world -288 87 134 BOWL DoubleChest 19 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891002913 niklas_thomas closed world -288 87 134 DoubleChest
+1460891041865 niklas_thomas opened world -288 87 134 DoubleChest
+1460891042915 niklas_thomas clicked world -288 87 134 SEEDS CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891043215 niklas_thomas clicked world -288 87 134 SUGAR_CANE CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891043665 niklas_thomas clicked world -288 87 134 WHEAT CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891043815 niklas_thomas closed world -288 87 134 DoubleChest
+1460891073269 niklas_thomas opened world -288 87 134 DoubleChest
+1460891074719 niklas_thomas closed world -288 87 134 DoubleChest
+1460891084620 niklas_thomas opened world -288 80 134 DoubleChest
+1460891084969 niklas_thomas closed world -288 80 134 DoubleChest
+1460891086019 niklas_thomas opened world -288 82 134 DoubleChest
+1460891087219 niklas_thomas clicked world -288 82 134 BEETROOT_SOUP CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891087719 niklas_thomas closed world -288 82 134 DoubleChest
+1460891096269 niklas_thomas opened world -288 87 134 DoubleChest
+1460891097119 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891097419 niklas_thomas clicked world -288 87 134 BEETROOT_SEEDS CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891097819 niklas_thomas clicked world -288 87 134 BEETROOT CraftPlayer 66 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891097969 niklas_thomas closed world -288 87 134 DoubleChest
+1460891100420 niklas_thomas opened world -288 87 134 DoubleChest
+1460891101219 niklas_thomas clicked world -288 87 134 BOWL CraftPlayer 65 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891101369 niklas_thomas closed world -288 87 134 DoubleChest
+1460891104919 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891107569 niklas_thomas opened world -288 87 134 DoubleChest
+1460891109319 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891110421 niklas_thomas closed world -288 87 134 DoubleChest
+1460891115271 niklas_thomas opened world -288 80 134 DoubleChest
+1460891115870 niklas_thomas closed world -288 80 134 DoubleChest
+1460891116221 niklas_thomas opened world -288 82 134 DoubleChest
+1460891116571 niklas_thomas closed world -288 82 134 DoubleChest
+1460891124671 niklas_thomas opened world -288 87 134 DoubleChest
+1460891126971 niklas_thomas closed world -288 87 134 DoubleChest
+1460891128571 niklas_thomas opened world -288 87 134 DoubleChest
+1460891129671 niklas_thomas clicked world -288 87 134 BEETROOT_SEEDS DoubleChest 9 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891130071 niklas_thomas clicked world -288 87 134 SEEDS DoubleChest 19 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891130171 niklas_thomas closed world -288 87 134 DoubleChest
+1460891150027 niklas_thomas opened world -267 84 148 DoubleChest
+1460891150627 niklas_thomas closed world -267 84 148 DoubleChest
+1460891173279 niklas_thomas clicked world -252 75 140 BEETROOT CraftChest 6 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891201580 niklas_thomas opened world -288 87 134 DoubleChest
+1460891204330 niklas_thomas clicked world -288 87 134 BEETROOT DoubleChest 21 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891205380 niklas_thomas clicked world -288 87 134 BOWL DoubleChest 25 LEFT PICKUP_ALL
+1460891206080 niklas_thomas clicked world -288 87 134 AIR CraftPlayer 58 RIGHT PLACE_ONE
+1460891206230 niklas_thomas clicked world -288 87 134 BOWL CraftPlayer 58 RIGHT PLACE_ONE
+1460891206980 niklas_thomas dragged world -288 87 134 BOWL 25 1 0 EVEN
+1460891207530 niklas_thomas closed world -288 87 134 DoubleChest
+1460891219031 niklas_thomas opened world -288 80 134 DoubleChest
+1460891219431 niklas_thomas closed world -288 80 134 DoubleChest
+1460891220731 niklas_thomas opened world -288 82 134 DoubleChest
+1460891221781 niklas_thomas clicked world -288 82 134 BEETROOT_SOUP CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891221880 niklas_thomas closed world -288 82 134 DoubleChest
+1460891238831 niklas_thomas opened world -288 87 134 DoubleChest
+1460891240381 niklas_thomas closed world -288 87 134 DoubleChest
+1460891250384 niklas_thomas opened world -279 84 119 DoubleChest
+1460891252083 niklas_thomas clicked world -279 84 119 COOKED_CHICKEN DoubleChest 50 LEFT PICKUP_ALL
+1460891254283 niklas_thomas dragged world -279 84 119 COOKED_CHICKEN 64 1 0 EVEN
+1460891255033 niklas_thomas clicked world -279 84 119 COOKED_FISH DoubleChest 44 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891255633 niklas_thomas clicked world -279 84 119 COOKED_CHICKEN DoubleChest 50 LEFT PICKUP_ALL
+1460891257734 niklas_thomas dragged world -279 84 119 COOKED_CHICKEN 60 0 6 EVEN
+1460891258133 niklas_thomas clicked world -279 84 119 COOKED_CHICKEN CraftPlayer 75 LEFT PLACE_ALL
+1460891258283 niklas_thomas clicked world -279 84 119 COOKED_CHICKEN CraftPlayer 75 LEFT PICKUP_ALL
+1460891258633 niklas_thomas clicked world -279 84 119 COOKED_CHICKEN CraftPlayer 74 LEFT PLACE_ALL
+1460891258783 niklas_thomas clicked world -279 84 119 COOKED_CHICKEN CraftPlayer 74 LEFT PICKUP_ALL
+1460891259083 niklas_thomas clicked world -279 84 119 COOKED_CHICKEN CraftPlayer 65 LEFT PLACE_ALL
+1460891259233 niklas_thomas clicked world -279 84 119 COOKED_CHICKEN CraftPlayer 65 LEFT PICKUP_ALL
+1460891259583 niklas_thomas clicked world -279 84 119 COOKED_CHICKEN CraftPlayer 64 LEFT PLACE_ALL
+1460891259684 niklas_thomas clicked world -279 84 119 COOKED_CHICKEN CraftPlayer 64 LEFT PICKUP_ALL
+1460891260133 niklas_thomas dragged world -279 84 119 COOKED_CHICKEN 44 0 1 EVEN
+1460891260183 niklas_thomas clicked world -279 84 119 COOKED_CHICKEN CraftPlayer 66 LEFT PICKUP_ALL
+1460891260933 niklas_thomas clicked world -279 84 119 AIR DoubleChest 49 LEFT PLACE_ALL
+1460891261084 niklas_thomas closed world -279 84 119 DoubleChest
+1460891283234 niklas_thomas opened world -288 87 134 DoubleChest
+1460891284884 niklas_thomas closed world -288 87 134 DoubleChest
+1460891293784 niklas_thomas opened world -288 87 134 DoubleChest
+1460891298034 niklas_thomas clicked world -288 87 134 SUGAR_CANE CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891299684 niklas_thomas clicked world -288 87 134 SEEDS CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891299884 niklas_thomas clicked world -288 87 134 BEETROOT_SEEDS CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891300084 niklas_thomas closed world -288 87 134 DoubleChest
+1460891534369 Lisa_bluemchen11 opened world -267 84 148 DoubleChest
+1460891535737 Lisa_bluemchen11 closed world -267 84 148 DoubleChest
+1460891536287 Lisa_bluemchen11 opened world -267 84 148 DoubleChest
+1460891537334 Lisa_bluemchen11 closed world -267 84 148 DoubleChest
+1460891781810 Lisa_bluemchen11 opened world -288 87 134 DoubleChest
+1460891789310 Lisa_bluemchen11 clicked world -288 87 134 BEETROOT CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891789810 Lisa_bluemchen11 closed world -288 87 134 DoubleChest
+1460891820010 Lisa_bluemchen11 opened world -288 87 134 DoubleChest
+1460891822946 Lisa_bluemchen11 closed world -288 87 134 DoubleChest
+1460891829495 niklas_thomas opened world -288 87 134 DoubleChest
+1460891829895 Lisa_bluemchen11 opened world -288 87 134 DoubleChest
+1460891830246 niklas_thomas closed world -288 87 134 DoubleChest
+1460891831246 Lisa_bluemchen11 clicked world -288 87 134 LAVA_BUCKET DoubleChest 13 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891831546 niklas_thomas opened world -288 87 134 DoubleChest
+1460891832746 Lisa_bluemchen11 closed world -288 87 134 DoubleChest
+1460891834345 niklas_thomas clicked world -288 87 134 DOUBLE_PLANT CraftPlayer 72 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891835146 niklas_thomas clicked world -288 87 134 RED_ROSE CraftPlayer 74 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891835546 niklas_thomas clicked world -288 87 134 RED_ROSE CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891836446 niklas_thomas clicked world -288 87 134 DOUBLE_PLANT CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891836946 Lisa_bluemchen11 opened world -288 87 134 DoubleChest
+1460891837446 niklas_thomas clicked world -288 87 134 SEEDS CraftPlayer 71 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891838950 niklas_thomas clicked world -288 87 134 SEEDS DoubleChest 9 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891839210 niklas_thomas closed world -288 87 134 DoubleChest
+1460891841710 Lisa_bluemchen11 clicked world -288 87 134 MILK_BUCKET DoubleChest 24 LEFT PICKUP_ALL
+1460891842661 Lisa_bluemchen11 clicked world -288 87 134 DIRT CraftPlayer 86 LEFT SWAP_WITH_CURSOR
+1460891843610 Lisa_bluemchen11 clicked world -288 87 134 AIR DoubleChest 33 LEFT PLACE_ALL
+1460891843911 Lisa_bluemchen11 closed world -288 87 134 DoubleChest
+1460891860511 niklas_thomas opened world -288 87 134 DoubleChest
+1460891862061 niklas_thomas clicked world -288 87 134 WHEAT CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891864561 niklas_thomas closed world -288 87 134 DoubleChest
+1460891899362 niklas_thomas clicked world -286 91 134 EGG CraftChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891899662 niklas_thomas clicked world -286 91 134 AIR CraftChest 1 SHIFT_LEFT NOTHING
+1460891899861 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891902612 niklas_thomas opened world -288 87 134 DoubleChest
+1460891903512 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891903761 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 74 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891906211 niklas_thomas closed world -288 87 134 DoubleChest
+1460891913762 niklas_thomas clicked world -283 87 136 LEATHER CraftPlayer 31 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891915062 niklas_thomas opened world -288 87 134 DoubleChest
+1460891915562 niklas_thomas closed world -288 87 134 DoubleChest
+1460891919462 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891923362 niklas_thomas opened world -288 87 134 DoubleChest
+1460891924262 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891924662 niklas_thomas clicked world -288 87 134 AIR CraftPlayer 80 SHIFT_LEFT NOTHING
+1460891925312 niklas_thomas closed world -288 87 134 DoubleChest
+1460891954656 niklas_thomas opened world -288 82 134 DoubleChest
+1460891956107 niklas_thomas closed world -288 82 134 DoubleChest
+1460891969158 niklas_thomas clicked world -283 87 136 COBBLESTONE CraftChest 15 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891969858 niklas_thomas clicked world -283 87 136 COBBLESTONE CraftChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891970808 niklas_thomas clicked world -283 87 136 COBBLESTONE CraftPlayer 57 LEFT PICKUP_ALL
+1460891971158 niklas_thomas dragged world -283 87 136 COBBLESTONE 64 0 1 EVEN
+1460891971458 niklas_thomas clicked world -283 87 136 COBBLESTONE CraftPlayer 58 LEFT PICKUP_ALL
+1460891972008 niklas_thomas clicked world -283 87 136 AIR CraftPlayer 39 LEFT PLACE_ALL
+1460891973108 niklas_thomas clicked world -283 87 136 COBBLESTONE CraftPlayer 48 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891973408 niklas_thomas clicked world -283 87 136 COBBLESTONE CraftPlayer 39 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891980208 niklas_thomas clicked world -283 87 136 ROTTEN_FLESH CraftPlayer 34 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891982658 niklas_thomas clicked world -283 87 136 GRILLED_PORK CraftPlayer 53 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891989009 niklas_thomas opened world -288 87 134 DoubleChest
+1460891991058 niklas_thomas clicked world -288 87 134 MUTTON CraftPlayer 69 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891991708 niklas_thomas clicked world -288 87 134 WHEAT CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460891992458 niklas_thomas closed world -288 87 134 DoubleChest
+1460892008025 niklas_thomas opened world -288 87 134 DoubleChest
+1460892009375 niklas_thomas clicked world -288 87 134 BEETROOT CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892009475 niklas_thomas closed world -288 87 134 DoubleChest
+1460892024469 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892042269 Lisa_bluemchen11 clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892053569 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892057919 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892069370 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892087520 niklas_thomas clicked world -283 87 136 COOKED_BEEF CraftPlayer 62 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892097820 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892100670 niklas_thomas opened world -288 87 134 DoubleChest
+1460892101420 niklas_thomas clicked world -288 87 134 EGG DoubleChest 22 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892101770 niklas_thomas clicked world -288 87 134 EGG DoubleChest 23 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892102070 niklas_thomas clicked world -288 87 134 EGG DoubleChest 24 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892102870 niklas_thomas clicked world -288 87 134 EGG DoubleChest 26 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892103670 niklas_thomas clicked world -288 87 134 EGG DoubleChest 5 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892104270 niklas_thomas clicked world -288 87 134 EGG DoubleChest 3 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892104520 niklas_thomas closed world -288 87 134 DoubleChest
+1460892109071 niklas_thomas opened world -288 82 134 DoubleChest
+1460892109470 niklas_thomas closed world -288 82 134 DoubleChest
+1460892109820 niklas_thomas opened world -288 83 134 DoubleChest
+1460892111120 niklas_thomas clicked world -288 83 134 EGG CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892111520 niklas_thomas clicked world -288 83 134 EGG CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892112071 niklas_thomas clicked world -288 83 134 EGG CraftPlayer 76 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892112370 niklas_thomas clicked world -288 83 134 EGG CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892112670 niklas_thomas clicked world -288 83 134 EGG CraftPlayer 74 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892113220 niklas_thomas clicked world -288 83 134 EGG CraftPlayer 72 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892113320 niklas_thomas closed world -288 83 134 DoubleChest
+1460892198472 niklas_thomas opened world -267 84 148 DoubleChest
+1460892199122 niklas_thomas closed world -267 84 148 DoubleChest
+1460892297479 Lisa_bluemchen11 opened world -267 84 148 DoubleChest
+1460892298929 Lisa_bluemchen11 clicked world -267 84 148 SIGN CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892298929 Lisa_bluemchen11 clicked world -267 84 148 AIR CraftPlayer 89 SHIFT_LEFT NOTHING
+1460892299130 Lisa_bluemchen11 clicked world -267 84 148 LAVA_BUCKET CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892299279 Lisa_bluemchen11 clicked world -267 84 148 AIR CraftPlayer 88 SHIFT_LEFT NOTHING
+1460892299429 Lisa_bluemchen11 clicked world -267 84 148 BUCKET CraftPlayer 86 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892299579 Lisa_bluemchen11 clicked world -267 84 148 IRON_HOE CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892299779 Lisa_bluemchen11 clicked world -267 84 148 DIRT CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892299780 niklas_thomas opened world -288 87 134 DoubleChest
+1460892299879 Lisa_bluemchen11 clicked world -267 84 148 STONE_SPADE CraftPlayer 83 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892300129 Lisa_bluemchen11 clicked world -267 84 148 BIRCH_FENCE CraftPlayer 81 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892300429 Lisa_bluemchen11 clicked world -267 84 148 AIR CraftPlayer 81 SHIFT_LEFT NOTHING
+1460892300529 Lisa_bluemchen11 clicked world -267 84 148 ROTTEN_FLESH CraftPlayer 82 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892300729 niklas_thomas clicked world -288 87 134 BEETROOT CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892300779 Lisa_bluemchen11 clicked world -267 84 148 AIR CraftPlayer 82 SHIFT_LEFT NOTHING
+1460892300979 niklas_thomas clicked world -288 87 134 BEETROOT_SEEDS CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892301029 Lisa_bluemchen11 clicked world -267 84 148 AIR CraftPlayer 73 SHIFT_LEFT NOTHING
+1460892301179 Lisa_bluemchen11 clicked world -267 84 148 STONE_SPADE CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892301329 Lisa_bluemchen11 clicked world -267 84 148 AIR CraftPlayer 55 SHIFT_LEFT NOTHING
+1460892301529 Lisa_bluemchen11 clicked world -267 84 148 WOOD CraftPlayer 63 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892301579 niklas_thomas closed world -288 87 134 DoubleChest
+1460892301729 Lisa_bluemchen11 clicked world -267 84 148 STONE_SPADE CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892301879 Lisa_bluemchen11 clicked world -267 84 148 AIR CraftPlayer 64 SHIFT_LEFT NOTHING
+1460892302329 Lisa_bluemchen11 clicked world -267 84 148 BIRCH_DOOR_ITEM CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892302979 Lisa_bluemchen11 clicked world -267 84 148 STICK CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892303379 Lisa_bluemchen11 clicked world -267 84 148 COBBLESTONE CraftPlayer 66 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892303579 Lisa_bluemchen11 clicked world -267 84 148 AIR CraftPlayer 66 SHIFT_LEFT NOTHING
+1460892303729 Lisa_bluemchen11 clicked world -267 84 148 AIR CraftPlayer 67 SHIFT_LEFT NOTHING
+1460892303929 Lisa_bluemchen11 clicked world -267 84 148 AIR CraftPlayer 68 SHIFT_LEFT NOTHING
+1460892304079 Lisa_bluemchen11 clicked world -267 84 148 SAPLING CraftPlayer 76 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892304279 Lisa_bluemchen11 clicked world -267 84 148 AIR CraftPlayer 76 SHIFT_LEFT NOTHING
+1460892304629 Lisa_bluemchen11 clicked world -267 84 148 AIR CraftPlayer 78 SHIFT_LEFT NOTHING
+1460892304829 Lisa_bluemchen11 clicked world -267 84 148 STONE_PICKAXE CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892305379 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892305629 Lisa_bluemchen11 clicked world -267 84 148 AIR CraftPlayer 61 SHIFT_LEFT NOTHING
+1460892305879 Lisa_bluemchen11 clicked world -267 84 148 SEEDS CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892306179 Lisa_bluemchen11 clicked world -267 84 148 DIRT CraftPlayer 62 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892307079 niklas_thomas opened world -288 87 134 DoubleChest
+1460892307279 Lisa_bluemchen11 clicked world -267 84 148 SEEDS DoubleChest 16 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892307779 Lisa_bluemchen11 closed world -267 84 148 DoubleChest
+1460892308379 niklas_thomas clicked world -288 87 134 CHEST DoubleChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892309429 niklas_thomas clicked world -288 87 134 CHEST CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892311779 niklas_thomas clicked world -288 87 134 DIRT DoubleChest 33 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892311979 niklas_thomas closed world -288 87 134 DoubleChest
+1460892320579 Lisa_bluemchen11 opened world -267 84 148 DoubleChest
+1460892323279 Lisa_bluemchen11 clicked world -267 84 148 STICK DoubleChest 12 RIGHT PICKUP_HALF
+1460892323979 Lisa_bluemchen11 clicked world -267 84 148 AIR CraftPlayer 76 RIGHT PLACE_ONE
+1460892324929 Lisa_bluemchen11 clicked world -267 84 148 STICK DoubleChest 12 LEFT PLACE_ONE
+1460892327979 Lisa_bluemchen11 closed world -267 84 148 DoubleChest
+1460892336130 Lisa_bluemchen11 opened world -267 84 148 DoubleChest
+1460892337029 Lisa_bluemchen11 clicked world -267 84 148 IRON_INGOT CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892337429 Lisa_bluemchen11 closed world -267 84 148 DoubleChest
+1460892360030 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892380781 niklas_thomas opened world -288 87 134 DoubleChest
+1460892382282 niklas_thomas closed world -288 87 134 DoubleChest
+1460892386082 niklas_thomas opened world -288 80 134 DoubleChest
+1460892386632 niklas_thomas closed world -288 80 134 DoubleChest
+1460892387181 niklas_thomas opened world -288 81 134 DoubleChest
+1460892387632 niklas_thomas closed world -288 81 134 DoubleChest
+1460892387982 niklas_thomas opened world -288 82 134 DoubleChest
+1460892388532 niklas_thomas closed world -288 82 134 DoubleChest
+1460892388882 niklas_thomas opened world -288 83 134 DoubleChest
+1460892390532 niklas_thomas clicked world -288 83 134 AIR DoubleChest 14 SHIFT_LEFT NOTHING
+1460892391132 niklas_thomas clicked world -288 83 134 EGG DoubleChest 5 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892391382 niklas_thomas closed world -288 83 134 DoubleChest
+1460892401732 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892453313 niklas_thomas opened world -288 87 134 DoubleChest
+1460892454363 niklas_thomas clicked world -288 87 134 CARROT_ITEM CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892455114 niklas_thomas clicked world -288 87 134 BEETROOT DoubleChest 21 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892455414 niklas_thomas closed world -288 87 134 DoubleChest
+1460892455814 niklas_thomas opened world -288 87 134 DoubleChest
+1460892456464 niklas_thomas clicked world -288 87 134 BOWL DoubleChest 25 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892456614 niklas_thomas closed world -288 87 134 DoubleChest
+1460892471148 niklas_thomas opened world -288 82 134 DoubleChest
+1460892472249 niklas_thomas clicked world -288 82 134 BEETROOT_SOUP CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892472448 niklas_thomas closed world -288 82 134 DoubleChest
+1460892533906 niklas_thomas clicked world -283 87 136 ROTTEN_FLESH CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892535157 niklas_thomas clicked world -283 87 136 COOKED_CHICKEN CraftPlayer 29 LEFT PICKUP_ALL
+1460892535908 niklas_thomas dragged world -283 87 136 COOKED_CHICKEN 2 0 1 EVEN
+1460892545858 niklas_thomas clicked world -283 87 136 IRON_INGOT CraftPlayer 34 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892547908 niklas_thomas opened world -288 87 134 DoubleChest
+1460892547959 Lisa_bluemchen11 clicked world -268 84 153 DIRT CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892549309 niklas_thomas clicked world -288 87 134 WHEAT CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892550759 niklas_thomas closed world -288 87 134 DoubleChest
+1460892560210 niklas_thomas opened world -288 87 134 DoubleChest
+1460892561860 niklas_thomas clicked world -288 87 134 SUGAR_CANE CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892564760 niklas_thomas clicked world -288 87 134 BEETROOT CraftPlayer 66 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892565759 niklas_thomas clicked world -288 87 134 FEATHER CraftPlayer 65 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892566160 niklas_thomas closed world -288 87 134 DoubleChest
+1460892570010 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892572760 niklas_thomas opened world -288 87 134 DoubleChest
+1460892574810 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892575060 niklas_thomas closed world -288 87 134 DoubleChest
+1460892609263 niklas_thomas opened world -288 87 134 DoubleChest
+1460892611463 niklas_thomas clicked world -288 87 134 STRING CraftPlayer 67 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892611763 niklas_thomas clicked world -288 87 134 WOOL CraftPlayer 68 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892612013 niklas_thomas closed world -288 87 134 DoubleChest
+1460892613563 niklas_thomas opened world -288 87 134 DoubleChest
+1460892614213 niklas_thomas clicked world -288 87 134 MUTTON DoubleChest 30 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892614363 niklas_thomas closed world -288 87 134 DoubleChest
+1460892621013 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892625363 niklas_thomas opened world -288 87 134 DoubleChest
+1460892626564 niklas_thomas clicked world -288 87 134 EGG CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892626814 niklas_thomas closed world -288 87 134 DoubleChest
+1460892650015 niklas_thomas opened world -288 87 134 DoubleChest
+1460892650865 niklas_thomas clicked world -288 87 134 WHEAT CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892651515 niklas_thomas clicked world -288 87 134 BEETROOT CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892652115 niklas_thomas clicked world -288 87 134 SEEDS CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892652565 niklas_thomas closed world -288 87 134 DoubleChest
+1460892660472 niklas_thomas opened world -279 84 119 DoubleChest
+1460892668972 niklas_thomas closed world -279 84 119 DoubleChest
+1460892684472 niklas_thomas opened world -267 84 148 DoubleChest
+1460892688235 niklas_thomas closed world -267 84 148 DoubleChest
+1460892768590 niklas_thomas opened world -288 87 134 DoubleChest
+1460892769740 niklas_thomas clicked world -288 87 134 BEETROOT DoubleChest 5 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892771040 niklas_thomas clicked world -288 87 134 BEETROOT_SEEDS CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892771240 niklas_thomas closed world -288 87 134 DoubleChest
+1460892781590 niklas_thomas opened world -288 87 134 DoubleChest
+1460892782490 niklas_thomas clicked world -288 87 134 BEETROOT_SOUP CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892782940 niklas_thomas clicked world -288 87 134 BEETROOT CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892783140 niklas_thomas clicked world -288 87 134 BOWL CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892783189 niklas_thomas closed world -288 87 134 DoubleChest
+1460892825306 niklas_thomas clicked world -283 87 136 COBBLESTONE CraftChest 5 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892842607 niklas_thomas clicked world -283 87 136 COBBLESTONE CraftChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892876459 niklas_thomas opened world -288 87 134 DoubleChest
+1460892877259 niklas_thomas clicked world -288 87 134 WHEAT CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892878009 niklas_thomas clicked world -288 87 134 SUGAR_CANE CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460892878209 niklas_thomas closed world -288 87 134 DoubleChest
+1460892888360 niklas_thomas clicked world -283 87 136 GRILLED_PORK CraftChest 14 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893003870 niklas_thomas clicked world -283 87 136 IRON_INGOT CraftPlayer 33 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893030321 niklas_thomas opened world -279 84 119 DoubleChest
+1460893032071 niklas_thomas closed world -279 84 119 DoubleChest
+1460893047524 niklas_thomas clicked world -283 87 136 STICK CraftPlayer 27 LEFT PICKUP_ALL
+1460893048324 niklas_thomas clicked world -283 87 136 STONE CraftPlayer 57 LEFT SWAP_WITH_CURSOR
+1460893048724 niklas_thomas clicked world -283 87 136 AIR CraftPlayer 49 LEFT PLACE_ALL
+1460893049074 niklas_thomas clicked world -283 87 136 SEEDS CraftPlayer 58 LEFT PICKUP_ALL
+1460893049574 niklas_thomas clicked world -283 87 136 AIR CraftPlayer 40 LEFT PLACE_ALL
+1460893073406 niklas_thomas clicked world -283 87 136 IRON_INGOT CraftChest 17 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893227673 niklas_thomas opened world -288 87 134 DoubleChest
+1460893228573 niklas_thomas clicked world -288 87 134 AIR DoubleChest 49 RIGHT NOTHING
+1460893229573 niklas_thomas closed world -288 87 134 DoubleChest
+1460893245724 niklas_thomas opened world -285 83 129 DoubleChest
+1460893247524 niklas_thomas clicked world -285 83 129 BEETROOT DoubleChest 14 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893249224 niklas_thomas clicked world -285 83 129 AIR DoubleChest 37 SHIFT_LEFT NOTHING
+1460893249524 niklas_thomas clicked world -285 83 129 REDSTONE DoubleChest 28 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893251925 niklas_thomas clicked world -285 83 129 IRON_HOE CraftPlayer 86 LEFT PICKUP_ALL
+1460893252874 niklas_thomas clicked world -285 83 129 AIR CraftPlayer 70 LEFT PLACE_ALL
+1460893255974 niklas_thomas clicked world -285 83 129 DIRT CraftPlayer 58 LEFT PICKUP_ALL
+1460893256974 niklas_thomas dragged world -285 83 129 DIRT 26 0 1 EVEN
+1460893257124 niklas_thomas closed world -285 83 129 DoubleChest
+1460893270575 niklas_thomas opened world -288 87 134 DoubleChest
+1460893271875 niklas_thomas clicked world -288 87 134 BEETROOT DoubleChest 26 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893273225 niklas_thomas clicked world -288 87 134 BEETROOT_SOUP DoubleChest 5 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893274175 niklas_thomas clicked world -288 87 134 BOWL DoubleChest 30 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893274275 niklas_thomas closed world -288 87 134 DoubleChest
+1460893278325 niklas_thomas opened world -288 87 134 DoubleChest
+1460893279425 niklas_thomas clicked world -288 87 134 BEETROOT CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893280975 niklas_thomas clicked world -288 87 134 BOWL CraftPlayer 72 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893281475 niklas_thomas clicked world -288 87 134 BEETROOT_SOUP CraftPlayer 74 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893281775 niklas_thomas closed world -288 87 134 DoubleChest
+1460893283525 niklas_thomas clicked world -283 87 136 STICK CraftPlayer 39 LEFT PICKUP_ALL
+1460893283975 niklas_thomas clicked world -283 87 136 AIR CraftPlayer 39 LEFT PLACE_ALL
+1460893597549 niklas_thomas opened world -288 87 134 DoubleChest
+1460893598949 niklas_thomas closed world -288 87 134 DoubleChest
+1460893620750 niklas_thomas opened world -285 83 129 DoubleChest
+1460893622400 niklas_thomas closed world -285 83 129 DoubleChest
+1460893630533 niklas_thomas opened world -285 83 129 DoubleChest
+1460893633371 niklas_thomas clicked world -285 83 129 WOOD DoubleChest 15 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893634021 niklas_thomas closed world -285 83 129 DoubleChest
+1460893667444 clashololli clicked world 259 55 1717 AIR CraftChest 22 SHIFT_RIGHT NOTHING
+1460893669093 clashololli clicked world 259 55 1717 AIR CraftChest 22 SHIFT_RIGHT NOTHING
+1460893670394 clashololli clicked world 259 55 1717 AIR CraftChest 22 LEFT NOTHING
+1460893670544 clashololli clicked world 259 55 1717 AIR CraftChest 22 LEFT NOTHING
+1460893670694 clashololli clicked world 259 55 1717 AIR CraftChest 22 DOUBLE_CLICK NOTHING
+1460893671744 clashololli clicked world 259 55 1717 AIR CraftChest 22 RIGHT NOTHING
+1460893671944 clashololli clicked world 259 55 1717 AIR CraftChest 22 RIGHT NOTHING
+1460893672344 clashololli clicked world 259 55 1717 AIR CraftChest 22 LEFT NOTHING
+1460893672544 clashololli clicked world 259 55 1717 AIR CraftChest 22 LEFT NOTHING
+1460893672645 clashololli clicked world 259 55 1717 AIR CraftChest 22 DOUBLE_CLICK NOTHING
+1460893673445 clashololli clicked world 259 55 1717 AIR CraftChest 14 LEFT NOTHING
+1460893673594 clashololli clicked world 259 55 1717 AIR CraftChest 14 LEFT NOTHING
+1460893673745 clashololli clicked world 259 55 1717 AIR CraftChest 14 DOUBLE_CLICK NOTHING
+1460893678145 niklas_thomas clicked world -283 87 136 DIRT CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893687996 clashololli clicked world 259 55 1717 GLOWSTONE_DUST CraftPlayer 31 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893689246 clashololli clicked world 259 55 1717 NETHER_STALK CraftPlayer 39 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893693196 clashololli clicked world 265 54 1717 SAND CraftChest 5 LEFT PICKUP_ALL
+1460893693897 clashololli clicked world 265 54 1717 AIR CraftPlayer 31 LEFT PLACE_ALL
+1460893722052 clashololli opened world 257 55 1720 DoubleChest
+1460893724002 clashololli closed world 257 55 1720 DoubleChest
+1460893726152 clashololli clicked world 259 55 1717 SULPHUR CraftPlayer 31 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893727552 clashololli clicked world 259 55 1717 TNT CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893728453 clashololli opened world 257 55 1720 DoubleChest
+1460893733053 clashololli clicked world 257 55 1720 IRON_LEGGINGS DoubleChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893733302 clashololli closed world 257 55 1720 DoubleChest
+1460893735153 niklas_thomas opened world -288 87 134 DoubleChest
+1460893737252 niklas_thomas closed world -288 87 134 DoubleChest
+1460893737653 niklas_thomas opened world -288 87 134 DoubleChest
+1460893738453 niklas_thomas clicked world -288 87 134 CHEST DoubleChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893738653 niklas_thomas closed world -288 87 134 DoubleChest
+1460893863365 niklas_thomas opened world -285 83 129 DoubleChest
+1460893864465 niklas_thomas clicked world -285 83 129 IRON_INGOT DoubleChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893864565 niklas_thomas closed world -285 83 129 DoubleChest
+1460893910623 niklas_thomas opened world -292 86 140 DoubleChest
+1460893911073 niklas_thomas closed world -292 86 140 DoubleChest
+1460893961143 niklas_thomas clicked world -286 91 134 EGG CraftChest 3 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893961343 niklas_thomas clicked world -286 91 134 EGG CraftChest 2 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893961543 niklas_thomas clicked world -286 91 134 EGG CraftChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893961693 niklas_thomas clicked world -286 91 134 AIR CraftChest 1 SHIFT_LEFT NOTHING
+1460893961944 niklas_thomas clicked world -286 91 134 EGG CraftChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460893987515 niklas_thomas opened world -288 87 134 DoubleChest
+1460893987615 niklas_thomas closed world -288 87 134 DoubleChest
+1460894359412 JayJo07 opened world 329 81 1681 DoubleChest
+1460894362512 JayJo07 closed world 329 81 1681 DoubleChest
+1460894363262 JayJo07 opened world 329 81 1681 DoubleChest
+1460894364812 JayJo07 clicked world 329 81 1681 INK_SACK CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894365562 JayJo07 clicked world 329 81 1681 FENCE CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894366512 JayJo07 clicked world 329 81 1681 RAW_BEEF CraftPlayer 83 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894366862 JayJo07 clicked world 329 81 1681 WOOD CraftPlayer 82 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894367312 JayJo07 clicked world 329 81 1681 WOOD_STEP CraftPlayer 81 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894367712 JayJo07 closed world 329 81 1681 DoubleChest
+1460894368412 JayJo07 opened world 329 82 1681 DoubleChest
+1460894371512 JayJo07 closed world 329 82 1681 DoubleChest
+1460894372013 JayJo07 opened world 329 83 1681 DoubleChest
+1460894373962 JayJo07 closed world 329 83 1681 DoubleChest
+1460894374412 JayJo07 opened world 329 81 1681 DoubleChest
+1460894376613 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PICKUP_HALF
+1460894376913 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894377113 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894377313 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894377513 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894377813 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894378013 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894378213 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894378663 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894380063 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894380963 JayJo07 dragged world 329 81 1681 IRON_INGOT 4 0 1 EVEN
+1460894383763 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PICKUP_HALF
+1460894384364 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894384513 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894384664 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894384863 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894385013 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894385213 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894385363 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894385613 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894385813 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894386014 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894386263 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894386414 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894386613 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894386814 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894387013 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894387363 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894387414 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894387614 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894387814 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894388614 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894389413 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894389714 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894391385 JayJo07 clicked world 329 81 1681 AIR CraftPlayer 61 LEFT PLACE_ALL
+1460894391386 JayJo07 closed world 329 81 1681 DoubleChest
+1460894429416 JayJo07 opened world 329 82 1681 DoubleChest
+1460894430864 JayJo07 closed world 329 82 1681 DoubleChest
+1460894431458 JayJo07 opened world 329 82 1681 DoubleChest
+1460894432459 JayJo07 closed world 329 82 1681 DoubleChest
+1460894432509 JayJo07 opened world 329 81 1681 DoubleChest
+1460894437009 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PICKUP_HALF
+1460894437509 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894437559 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894437709 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894437859 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894438009 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894438210 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894438810 JayJo07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 RIGHT PLACE_ONE
+1460894439910 JayJo07 dragged world 329 81 1681 IRON_INGOT 4 0 1 EVEN
+1460894440310 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PICKUP_HALF
+1460894440410 niklas_thomas opened world -292 86 140 DoubleChest
+1460894440510 JayJo07 dragged world 329 81 1681 REDSTONE 1 1 0 SINGLE
+1460894441010 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894441010 JayJo07 dragged world 329 81 1681 REDSTONE 1 1 0 SINGLE
+1460894441460 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894441510 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894442110 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894442160 niklas_thomas closed world -292 86 140 DoubleChest
+1460894442460 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894442510 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894442910 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894443010 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894443060 JayJo07 dragged world 329 81 1681 REDSTONE 1 1 0 SINGLE
+1460894443260 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894443510 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894443660 JayJo07 dragged world 329 81 1681 REDSTONE 1 1 0 SINGLE
+1460894443960 JayJo07 dragged world 329 81 1681 REDSTONE 1 1 0 SINGLE
+1460894444210 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894444510 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894445110 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894446661 JayJo07 clicked world 329 81 1681 REDSTONE DoubleChest 38 RIGHT PLACE_ONE
+1460894447461 JayJo07 clicked world 329 81 1681 AIR CraftPlayer 61 LEFT PLACE_ALL
+1460894447661 JayJo07 closed world 329 81 1681 DoubleChest
+1460894449512 JayJo07 opened world 329 81 1681 DoubleChest
+1460894450262 JayJo07 clicked world 329 81 1681 REDSTONE CraftPlayer 61 RIGHT PICKUP_HALF
+1460894450562 JayJo07 dragged world 329 81 1681 REDSTONE 1 0 1 SINGLE
+1460894450762 JayJo07 clicked world 329 81 1681 REDSTONE CraftPlayer 61 RIGHT PLACE_ONE
+1460894451362 JayJo07 clicked world 329 81 1681 REDSTONE CraftPlayer 61 RIGHT PICKUP_HALF
+1460894451762 JayJo07 clicked world 329 81 1681 REDSTONE CraftPlayer 61 RIGHT PLACE_ONE
+1460894453163 JayJo07 clicked world 329 81 1681 AIR CraftPlayer 60 LEFT PLACE_ALL
+1460894453513 JayJo07 clicked world 329 81 1681 REDSTONE CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894453713 JayJo07 closed world 329 81 1681 DoubleChest
+1460894456763 niklas_thomas clicked world -286 91 139 EGG CraftChest 2 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894466414 niklas_thomas clicked world -286 91 139 EGG CraftChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894468165 JayJo07 opened world 329 81 1681 DoubleChest
+1460894469664 JayJo07 clicked world 329 81 1681 PAPER DoubleChest 42 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894469814 JayJo07 closed world 329 81 1681 DoubleChest
+1460894479029 JayJo07 opened world 329 81 1681 DoubleChest
+1460894480529 JayJo07 clicked world 329 81 1681 PAPER CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894481879 JayJo07 clicked world 329 81 1681 EMPTY_MAP CraftPlayer 89 LEFT PICKUP_ALL
+1460894482679 JayJo07 clicked world 329 81 1681 AIR CraftPlayer 86 LEFT PLACE_ALL
+1460894482829 JayJo07 closed world 329 81 1681 DoubleChest
+1460894492755 JayJo07 opened world 329 81 1681 DoubleChest
+1460894494955 JayJo07 closed world 329 81 1681 DoubleChest
+1460894495405 JayJo07 opened world 329 81 1681 DoubleChest
+1460894496155 JayJo07 clicked world 329 81 1681 PAPER DoubleChest 42 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894496355 JayJo07 closed world 329 81 1681 DoubleChest
+1460894504909 JayJo07 opened world 329 81 1681 DoubleChest
+1460894507509 JayJo07 clicked world 329 81 1681 PAPER CraftPlayer 86 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894507959 JayJo07 closed world 329 81 1681 DoubleChest
+1460894594774 niklas_thomas opened world -292 86 140 DoubleChest
+1460894596074 niklas_thomas clicked world -292 86 140 AIR DoubleChest 12 SHIFT_LEFT NOTHING
+1460894596624 niklas_thomas clicked world -292 86 140 EGG DoubleChest 3 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894597274 niklas_thomas clicked world -292 86 140 EGG CraftPlayer 69 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894598224 niklas_thomas clicked world -292 86 140 EGG DoubleChest 3 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894598674 niklas_thomas clicked world -292 86 140 EGG DoubleChest 2 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894599024 niklas_thomas closed world -292 86 140 DoubleChest
+1460894628827 niklas_thomas opened world -288 87 134 DoubleChest
+1460894630027 niklas_thomas closed world -288 87 134 DoubleChest
+1460894630027 niklas_thomas opened world -288 87 134 DoubleChest
+1460894631177 niklas_thomas closed world -288 87 134 DoubleChest
+1460894634879 niklas_thomas clicked world -283 87 136 COOKED_BEEF CraftChest 15 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894650581 niklas_thomas opened world -288 87 134 DoubleChest
+1460894651831 niklas_thomas clicked world -288 87 134 BEETROOT DoubleChest 5 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894652581 niklas_thomas clicked world -288 87 134 BOWL DoubleChest 26 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894652832 niklas_thomas closed world -288 87 134 DoubleChest
+1460894660681 niklas_thomas opened world -288 87 134 DoubleChest
+1460894661631 niklas_thomas clicked world -288 87 134 BOWL CraftPlayer 67 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894661982 niklas_thomas clicked world -288 87 134 BEETROOT CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894662332 niklas_thomas closed world -288 87 134 DoubleChest
+1460894662782 niklas_thomas opened world -288 87 134 DoubleChest
+1460894663332 niklas_thomas clicked world -288 87 134 BEETROOT_SOUP DoubleChest 30 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894663531 niklas_thomas closed world -288 87 134 DoubleChest
+1460894669182 niklas_thomas opened world -288 82 134 DoubleChest
+1460894670132 niklas_thomas clicked world -288 82 134 BEETROOT_SOUP CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894670482 niklas_thomas clicked world -288 82 134 AIR CraftPlayer 85 SHIFT_LEFT NOTHING
+1460894670732 niklas_thomas clicked world -288 82 134 BEETROOT_SOUP CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894671632 niklas_thomas clicked world -288 82 134 BEETROOT_SOUP CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894672882 niklas_thomas clicked world -288 82 134 BEETROOT_SOUP CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894672983 niklas_thomas closed world -288 82 134 DoubleChest
+1460894678533 niklas_thomas opened world -288 87 134 DoubleChest
+1460894679533 niklas_thomas clicked world -288 87 134 WHEAT DoubleChest 20 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894679633 niklas_thomas closed world -288 87 134 DoubleChest
+1460894847344 clashololli clicked world 259 55 1717 WOOL CraftChest 0 LEFT PICKUP_ALL
+1460894848694 clashololli clicked world 259 55 1717 AIR CraftPlayer 40 LEFT PLACE_ALL
+1460894854550 clashololli clicked world 259 55 1717 WOOL CraftPlayer 40 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460894856050 clashololli clicked world 257 54 1719 WOOL CraftChest 6 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895045574 JayJo07 opened world -101 127 296 DoubleChest
+1460895056574 JayJo07 closed world -101 127 296 DoubleChest
+1460895328173 clashololli clicked world 264 54 1726 INK_SACK CraftChest 1 LEFT PICKUP_ALL
+1460895330173 clashololli clicked world 264 54 1726 AIR CraftPlayer 34 LEFT PLACE_ALL
+1460895623376 clashololli clicked world 259 55 1717 COAL CraftPlayer 30 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895679540 clashololli clicked world 260 54 1717 STONE CraftChest 15 LEFT PICKUP_ALL
+1460895682191 clashololli clicked world 260 54 1717 COBBLESTONE CraftPlayer 29 LEFT SWAP_WITH_CURSOR
+1460895682690 clashololli clicked world 260 54 1717 AIR CraftChest 20 LEFT PLACE_ALL
+1460895683141 clashololli clicked world 260 54 1717 STONE CraftPlayer 29 LEFT PICKUP_ALL
+1460895683690 clashololli clicked world 260 54 1717 COBBLESTONE_STAIRS CraftPlayer 56 LEFT SWAP_WITH_CURSOR
+1460895684391 clashololli clicked world 260 54 1717 AIR CraftChest 21 LEFT PLACE_ALL
+1460895704542 clashololli clicked world 259 55 1717 NETHER_STALK CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895732994 clashololli clicked world 258 51 1720 DIAMOND_PICKAXE CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895733594 clashololli clicked world 258 51 1720 IRON_SWORD CraftPlayer 50 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895734244 clashololli clicked world 258 51 1720 DIAMOND CraftPlayer 51 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895737844 clashololli clicked world 258 51 1720 FERMENTED_SPIDER_EYE CraftPlayer 37 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895756874 clashololli clicked world 260 54 1717 STONE CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895757174 clashololli clicked world 260 54 1717 STONE CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895757823 clashololli clicked world 260 54 1717 STEP CraftPlayer 39 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895758507 clashololli clicked world 260 54 1717 GRAVEL CraftPlayer 33 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895759157 clashololli clicked world 260 54 1717 COBBLESTONE CraftPlayer 35 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895761657 clashololli clicked world 264 55 1717 RAW_BEEF CraftPlayer 41 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895762107 clashololli clicked world 264 55 1717 ROTTEN_FLESH CraftPlayer 42 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895763057 clashololli clicked world 264 55 1717 ROTTEN_FLESH CraftChest 12 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895765757 clashololli clicked world 257 54 1719 LEATHER CraftPlayer 40 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895767738 clashololli clicked world 264 55 1717 RAW_CHICKEN CraftPlayer 31 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895770151 clashololli clicked world 264 55 1717 PORK CraftPlayer 46 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895772801 clashololli clicked world 267 54 1717 ROTTEN_FLESH CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895774851 clashololli clicked world 267 54 1717 WOOD CraftPlayer 53 LEFT PICKUP_ALL
+1460895775352 clashololli clicked world 267 54 1717 AIR CraftPlayer 53 LEFT PLACE_ALL
+1460895775651 clashololli clicked world 267 54 1717 FENCE CraftPlayer 62 LEFT PICKUP_ALL
+1460895776657 clashololli dragged world 267 54 1717 FENCE 3 0 1 EVEN
+1460895931211 C4Phoenix clicked world_nether 90 64 270 IRON_BARDING CraftChest 13 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895931569 C4Phoenix clicked world_nether 90 64 270 GOLD_INGOT CraftChest 18 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895932120 C4Phoenix clicked world_nether 90 64 270 GOLD_INGOT CraftChest 26 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895937926 C4Phoenix clicked world_nether 75 64 285 GOLD_CHESTPLATE CraftChest 23 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895938127 C4Phoenix clicked world_nether 75 64 285 FLINT_AND_STEEL CraftChest 14 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895965970 C4Phoenix clicked world_nether 105 64 312 GOLD_INGOT CraftChest 14 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895966270 C4Phoenix clicked world_nether 105 64 312 SADDLE CraftChest 24 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895966520 C4Phoenix clicked world_nether 105 64 312 SADDLE CraftChest 25 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895966770 C4Phoenix clicked world_nether 105 64 312 GOLD_BARDING CraftChest 16 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460895967120 C4Phoenix clicked world_nether 105 64 312 GOLD_INGOT CraftChest 2 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896016231 C4Phoenix opened world -1168 55 432 DoubleChest
+1460896018231 C4Phoenix clicked world -1168 55 432 SOUL_SAND CraftPlayer 69 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896018431 C4Phoenix clicked world -1168 55 432 NETHERRACK CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896018731 C4Phoenix clicked world -1168 55 432 SOUL_SAND CraftPlayer 68 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896019131 C4Phoenix clicked world -1168 55 432 NETHERRACK CraftPlayer 86 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896020681 C4Phoenix clicked world -1168 55 432 SOUL_SAND CraftPlayer 66 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896021081 C4Phoenix clicked world -1168 55 432 SOUL_SAND CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896021781 C4Phoenix clicked world -1168 55 432 NETHER_BRICK CraftPlayer 72 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896022381 C4Phoenix closed world -1168 55 432 DoubleChest
+1460896022931 C4Phoenix opened world -1165 55 432 DoubleChest
+1460896023631 C4Phoenix closed world -1165 55 432 DoubleChest
+1460896024081 C4Phoenix opened world -1168 55 432 DoubleChest
+1460896025281 C4Phoenix closed world -1168 55 432 DoubleChest
+1460896025581 C4Phoenix opened world -1165 55 432 DoubleChest
+1460896026281 C4Phoenix clicked world -1165 55 432 BLAZE_ROD DoubleChest 24 LEFT PICKUP_ALL
+1460896027231 C4Phoenix clicked world -1165 55 432 AIR DoubleChest 24 LEFT PLACE_ALL
+1460896029631 C4Phoenix closed world -1165 55 432 DoubleChest
+1460896036631 C4Phoenix opened world -1165 55 432 DoubleChest
+1460896038885 C4Phoenix closed world -1165 55 432 DoubleChest
+1460896039986 C4Phoenix opened world -1165 55 430 DoubleChest
+1460896041386 C4Phoenix clicked world -1165 55 430 GOLD_INGOT CraftPlayer 79 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896042785 C4Phoenix closed world -1165 55 430 DoubleChest
+1460896042986 C4Phoenix opened world -1165 55 432 DoubleChest
+1460896044086 C4Phoenix clicked world -1165 55 432 COBBLESTONE CraftPlayer 67 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896045085 C4Phoenix closed world -1165 55 432 DoubleChest
+1460896045836 C4Phoenix opened world -1165 55 432 DoubleChest
+1460896046486 C4Phoenix clicked world -1165 55 432 OBSIDIAN DoubleChest 43 LEFT PICKUP_ALL
+1460896046986 C4Phoenix clicked world -1165 55 432 AIR CraftPlayer 60 LEFT PLACE_ALL
+1460896047085 C4Phoenix closed world -1165 55 432 DoubleChest
+1460896047686 C4Phoenix opened world -1168 55 428 DoubleChest
+1460896048386 C4Phoenix closed world -1168 55 428 DoubleChest
+1460896048886 C4Phoenix opened world -1168 55 430 DoubleChest
+1460896049836 C4Phoenix clicked world -1168 55 430 OBSIDIAN CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896050736 C4Phoenix clicked world -1168 55 430 DIRT CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896051336 C4Phoenix closed world -1168 55 430 DoubleChest
+1460896051986 C4Phoenix opened world -1168 55 428 DoubleChest
+1460896052889 C4Phoenix clicked world -1168 55 428 BONE CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896053389 C4Phoenix closed world -1168 55 428 DoubleChest
+1460896054490 C4Phoenix opened world -1168 55 434 DoubleChest
+1460896056090 C4Phoenix clicked world -1168 55 434 ARROW CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896056990 C4Phoenix clicked world -1168 55 434 QUARTZ CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896058540 C4Phoenix closed world -1168 55 434 DoubleChest
+1460896059240 C4Phoenix opened world -1165 57 430 DoubleChest
+1460896061241 C4Phoenix clicked world -1165 57 430 RAW_CHICKEN CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896062491 C4Phoenix closed world -1165 57 430 DoubleChest
+1460896062941 C4Phoenix opened world -1165 55 432 DoubleChest
+1460896063941 C4Phoenix clicked world -1165 55 432 GLOWSTONE_DUST CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896064291 C4Phoenix clicked world -1165 55 432 GLOWSTONE_DUST CraftPlayer 62 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896064991 C4Phoenix clicked world -1165 55 432 GLOWSTONE_DUST CraftPlayer 63 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896065691 C4Phoenix clicked world -1165 55 432 GOLD_CHESTPLATE CraftPlayer 78 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896067991 C4Phoenix clicked world -1165 55 432 GHAST_TEAR CraftPlayer 71 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896068591 C4Phoenix clicked world -1165 55 432 BROWN_MUSHROOM CraftPlayer 65 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896069491 C4Phoenix closed world -1165 55 432 DoubleChest
+1460896069791 C4Phoenix opened world -1168 55 432 DoubleChest
+1460896070541 C4Phoenix closed world -1168 55 432 DoubleChest
+1460896071091 C4Phoenix opened world -1168 55 434 DoubleChest
+1460896072092 C4Phoenix closed world -1168 55 434 DoubleChest
+1460896072542 C4Phoenix opened world -1165 55 432 DoubleChest
+1460896073992 C4Phoenix closed world -1165 55 432 DoubleChest
+1460896074292 C4Phoenix opened world -1168 55 434 DoubleChest
+1460896075349 C4Phoenix clicked world -1168 55 434 IRON_BARDING CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896075949 C4Phoenix clicked world -1168 55 434 GOLD_BARDING CraftPlayer 74 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896076199 C4Phoenix clicked world -1168 55 434 SADDLE CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896076399 C4Phoenix clicked world -1168 55 434 SADDLE CraftPlayer 76 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896078999 C4Phoenix clicked world -1168 55 434 FLINT_AND_STEEL CraftPlayer 77 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896080849 C4Phoenix clicked world -1168 55 434 NETHER_STALK CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896081799 C4Phoenix clicked world -1168 55 434 SNOW_BALL CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896082049 C4Phoenix clicked world -1168 55 434 SNOW_BALL CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896083099 C4Phoenix closed world -1168 55 434 DoubleChest
+1460896083849 C4Phoenix opened world -1168 55 428 DoubleChest
+1460896084199 C4Phoenix closed world -1168 55 428 DoubleChest
+1460896084750 C4Phoenix opened world -1165 57 430 DoubleChest
+1460896085650 C4Phoenix clicked world -1165 57 430 ROTTEN_FLESH CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896087299 C4Phoenix clicked world -1165 57 430 COOKED_MUTTON DoubleChest 32 LEFT PICKUP_ALL
+1460896088049 C4Phoenix dragged world -1165 57 430 COOKED_MUTTON 1 0 1 SINGLE
+1460896088899 C4Phoenix dragged world -1165 57 430 COOKED_MUTTON 33 1 0 EVEN
+1460896089100 C4Phoenix clicked world -1165 57 430 COOKED_BEEF DoubleChest 23 LEFT PICKUP_ALL
+1460896089799 C4Phoenix clicked world -1165 57 430 COOKED_MUTTON CraftPlayer 86 RIGHT SWAP_WITH_CURSOR
+1460896090000 C4Phoenix dragged world -1165 57 430 COOKED_MUTTON 1 0 1 SINGLE
+1460896090799 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 86 LEFT PICKUP_ALL
+1460896091100 C4Phoenix dragged world -1165 57 430 COOKED_BEEF 1 0 1 SINGLE
+1460896091299 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 86 RIGHT PLACE_ONE
+1460896091449 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 86 RIGHT PLACE_ONE
+1460896091649 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 86 RIGHT PLACE_ONE
+1460896091849 C4Phoenix dragged world -1165 57 430 COOKED_BEEF 1 0 1 SINGLE
+1460896092050 C4Phoenix dragged world -1165 57 430 COOKED_BEEF 1 0 1 SINGLE
+1460896092249 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 86 RIGHT PLACE_ONE
+1460896092450 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 86 RIGHT PLACE_ONE
+1460896092650 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 86 RIGHT PLACE_ONE
+1460896092850 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 86 RIGHT PLACE_ONE
+1460896093050 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 86 RIGHT PLACE_ONE
+1460896093250 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 86 RIGHT PLACE_ONE
+1460896093450 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 86 RIGHT PLACE_ONE
+1460896093650 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 86 RIGHT PLACE_ONE
+1460896093850 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 86 RIGHT PLACE_ONE
+1460896094050 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 86 RIGHT PLACE_ONE
+1460896095100 C4Phoenix dragged world -1165 57 430 COOKED_BEEF 8 1 0 EVEN
+1460896095450 C4Phoenix closed world -1165 57 430 DoubleChest
+1460896096350 C4Phoenix opened world -1168 55 428 DoubleChest
+1460896096950 C4Phoenix closed world -1168 55 428 DoubleChest
+1460896097200 C4Phoenix opened world -1168 55 430 DoubleChest
+1460896097550 C4Phoenix closed world -1168 55 430 DoubleChest
+1460896097850 C4Phoenix opened world -1168 57 430 DoubleChest
+1460896101200 C4Phoenix clicked world -1168 57 430 LOG_2 DoubleChest 36 LEFT PICKUP_ALL
+1460896101800 C4Phoenix dragged world -1168 57 430 LOG_2 1 0 1 SINGLE
+1460896101950 C4Phoenix clicked world -1168 57 430 LOG_2 CraftPlayer 54 RIGHT PLACE_ONE
+1460896102200 C4Phoenix clicked world -1168 57 430 LOG_2 CraftPlayer 54 RIGHT PLACE_ONE
+1460896102350 C4Phoenix clicked world -1168 57 430 LOG_2 CraftPlayer 54 RIGHT PLACE_ONE
+1460896102550 C4Phoenix clicked world -1168 57 430 LOG_2 CraftPlayer 54 RIGHT PLACE_ONE
+1460896103450 C4Phoenix dragged world -1168 57 430 LOG_2 27 1 0 EVEN
+1460896103600 C4Phoenix closed world -1168 57 430 DoubleChest
+1460896106200 C4Phoenix opened world -1168 57 430 DoubleChest
+1460896107500 C4Phoenix closed world -1168 57 430 DoubleChest
+1460896128450 C4Phoenix opened world -1165 57 430 DoubleChest
+1460896130750 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896131150 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 86 LEFT PICKUP_ALL
+1460896131600 C4Phoenix clicked world -1165 57 430 AIR CraftPlayer 85 LEFT PLACE_ALL
+1460896131900 C4Phoenix closed world -1165 57 430 DoubleChest
+1460896132850 C4Phoenix opened world -1165 55 432 DoubleChest
+1460896133700 C4Phoenix clicked world -1165 55 432 COBBLESTONE DoubleChest 33 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896133900 C4Phoenix clicked world -1165 55 432 COBBLESTONE DoubleChest 32 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896134100 C4Phoenix clicked world -1165 55 432 COBBLESTONE DoubleChest 30 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896134600 C4Phoenix clicked world -1165 55 432 COBBLESTONE DoubleChest 31 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896138800 C4Phoenix closed world -1165 55 432 DoubleChest
+1460896538986 C4Phoenix opened world -1168 55 430 DoubleChest
+1460896540235 C4Phoenix clicked world -1168 55 430 OBSIDIAN CraftPlayer 55 LEFT PICKUP_ALL
+1460896546542 C4Phoenix clicked world -1168 55 430 OBSIDIAN DoubleChest 4 LEFT PLACE_ALL
+1460896546992 C4Phoenix closed world -1168 55 430 DoubleChest
+1460896560522 C4Phoenix opened world -1165 55 432 DoubleChest
+1460896561372 C4Phoenix clicked world -1165 55 432 NETHERRACK CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896561572 C4Phoenix clicked world -1165 55 432 NETHERRACK CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896562122 C4Phoenix clicked world -1165 55 432 NETHERRACK CraftPlayer 86 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896562522 C4Phoenix clicked world -1165 55 432 NETHERRACK CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896563072 C4Phoenix clicked world -1165 55 432 COBBLESTONE DoubleChest 22 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896563222 C4Phoenix clicked world -1165 55 432 COBBLESTONE DoubleChest 21 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896563422 C4Phoenix clicked world -1165 55 432 COBBLESTONE DoubleChest 20 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896563572 C4Phoenix clicked world -1165 55 432 COBBLESTONE DoubleChest 19 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896564073 C4Phoenix clicked world -1165 55 432 COBBLESTONE DoubleChest 12 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896564273 C4Phoenix clicked world -1165 55 432 COBBLESTONE DoubleChest 13 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896564423 C4Phoenix clicked world -1165 55 432 COBBLESTONE DoubleChest 14 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896565223 C4Phoenix clicked world -1165 55 432 COBBLESTONE DoubleChest 15 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896565924 C4Phoenix closed world -1165 55 432 DoubleChest
+1460896566474 C4Phoenix opened world -1165 55 432 DoubleChest
+1460896567323 C4Phoenix clicked world -1165 55 432 TORCH DoubleChest 46 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460896567774 C4Phoenix closed world -1165 55 432 DoubleChest
+1460897436839 C4Phoenix opened world -1168 55 432 DoubleChest
+1460897437489 C4Phoenix closed world -1168 55 432 DoubleChest
+1460897438389 C4Phoenix opened world -1168 57 430 DoubleChest
+1460897439588 C4Phoenix clicked world -1168 57 430 LOG DoubleChest 0 LEFT PICKUP_ALL
+1460897440338 C4Phoenix clicked world -1168 57 430 AIR CraftPlayer 55 RIGHT PLACE_ONE
+1460897440788 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 55 LEFT PLACE_ALL
+1460897440838 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 55 LEFT PICKUP_ALL
+1460897441488 C4Phoenix clicked world -1168 57 430 AIR DoubleChest 0 LEFT PLACE_ALL
+1460897441989 C4Phoenix clicked world -1168 57 430 LOG_2 DoubleChest 36 LEFT PICKUP_ALL
+1460897442439 C4Phoenix clicked world -1168 57 430 AIR CraftPlayer 55 RIGHT PLACE_ONE
+1460897442639 C4Phoenix clicked world -1168 57 430 LOG_2 CraftPlayer 55 RIGHT PLACE_ONE
+1460897442789 C4Phoenix dragged world -1168 57 430 LOG_2 1 0 1 SINGLE
+1460897442989 C4Phoenix clicked world -1168 57 430 LOG_2 CraftPlayer 55 RIGHT PLACE_ONE
+1460897443140 C4Phoenix clicked world -1168 57 430 LOG_2 CraftPlayer 55 RIGHT PLACE_ONE
+1460897443339 C4Phoenix clicked world -1168 57 430 LOG_2 CraftPlayer 55 RIGHT PLACE_ONE
+1460897443489 C4Phoenix clicked world -1168 57 430 LOG_2 CraftPlayer 55 RIGHT PLACE_ONE
+1460897443690 C4Phoenix clicked world -1168 57 430 LOG_2 CraftPlayer 55 RIGHT PLACE_ONE
+1460897444440 C4Phoenix dragged world -1168 57 430 LOG_2 19 1 0 EVEN
+1460897444690 C4Phoenix closed world -1168 57 430 DoubleChest
+1460897474049 C4Phoenix opened world -1168 55 430 DoubleChest
+1460897474599 C4Phoenix closed world -1168 55 430 DoubleChest
+1460897475048 C4Phoenix opened world -1165 55 430 DoubleChest
+1460897475748 C4Phoenix closed world -1165 55 430 DoubleChest
+1460897475898 C4Phoenix opened world -1165 55 432 DoubleChest
+1460897477050 C4Phoenix clicked world -1165 55 432 STICK CraftPlayer 78 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460897478550 C4Phoenix clicked world -1165 55 432 RED_MUSHROOM CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460897479150 C4Phoenix closed world -1165 55 432 DoubleChest
+1460897479500 C4Phoenix opened world -1165 55 432 DoubleChest
+1460897481650 C4Phoenix clicked world -1165 55 432 QUARTZ CraftPlayer 69 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460897485150 C4Phoenix clicked world -1165 55 432 NETHERRACK CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460897485600 C4Phoenix closed world -1165 55 432 DoubleChest
+1460897831562 C4Phoenix opened world -1168 57 430 DoubleChest
+1460897832412 C4Phoenix clicked world -1168 57 430 LOG_2 DoubleChest 45 LEFT PICKUP_ALL
+1460897833263 C4Phoenix dragged world -1168 57 430 LOG_2 8 1 0 EVEN
+1460897833413 C4Phoenix clicked world -1168 57 430 LOG_2 DoubleChest 36 LEFT PICKUP_ALL
+1460897834064 C4Phoenix dragged world -1168 57 430 LOG_2 1 0 1 SINGLE
+1460897834264 C4Phoenix clicked world -1168 57 430 LOG_2 CraftPlayer 63 RIGHT PLACE_ONE
+1460897834414 C4Phoenix clicked world -1168 57 430 LOG_2 CraftPlayer 63 RIGHT PLACE_ONE
+1460897835065 C4Phoenix dragged world -1168 57 430 LOG_2 16 1 0 EVEN
+1460897835365 C4Phoenix clicked world -1168 57 430 LOG DoubleChest 18 LEFT PICKUP_ALL
+1460897835964 C4Phoenix clicked world -1168 57 430 AIR CraftPlayer 64 RIGHT PLACE_ONE
+1460897836115 C4Phoenix dragged world -1168 57 430 LOG 1 0 1 SINGLE
+1460897836314 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 64 RIGHT PLACE_ONE
+1460897837665 C4Phoenix clicked world -1168 57 430 AIR DoubleChest 18 LEFT PLACE_ALL
+1460897837814 C4Phoenix clicked world -1168 57 430 LOG DoubleChest 9 LEFT PICKUP_ALL
+1460897839415 C4Phoenix clicked world -1168 57 430 AIR CraftPlayer 56 LEFT PLACE_ALL
+1460897839715 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 64 LEFT PICKUP_ALL
+1460897840316 C4Phoenix clicked world -1168 57 430 AIR DoubleChest 9 LEFT PLACE_ALL
+1460897841066 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 56 LEFT PICKUP_ALL
+1460897841766 C4Phoenix clicked world -1168 57 430 AIR CraftPlayer 64 RIGHT PLACE_ONE
+1460897841967 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 64 RIGHT PLACE_ONE
+1460897842167 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 64 RIGHT PLACE_ONE
+1460897843117 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 64 RIGHT PLACE_ONE
+1460897843317 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 64 RIGHT PLACE_ONE
+1460897843467 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 64 RIGHT PLACE_ONE
+1460897843717 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 64 RIGHT PLACE_ONE
+1460897843868 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 64 RIGHT PLACE_ONE
+1460897845018 C4Phoenix clicked world -1168 57 430 LOG DoubleChest 9 LEFT SWAP_WITH_CURSOR
+1460897845518 C4Phoenix dragged world -1168 57 430 LOG 3 1 0 EVEN
+1460897846468 C4Phoenix clicked world -1168 57 430 LOG DoubleChest 0 LEFT PICKUP_ALL
+1460897847069 C4Phoenix dragged world -1168 57 430 LOG 1 0 1 SINGLE
+1460897847218 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 65 RIGHT PLACE_ONE
+1460897847418 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 65 RIGHT PLACE_ONE
+1460897847568 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 65 RIGHT PLACE_ONE
+1460897847718 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 65 RIGHT PLACE_ONE
+1460897847868 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 65 RIGHT PLACE_ONE
+1460897848768 C4Phoenix dragged world -1168 57 430 LOG 15 1 0 EVEN
+1460897849168 C4Phoenix closed world -1168 57 430 DoubleChest
+1460898529539 C4Phoenix clicked world_nether 112 64 317 DIAMOND CraftChest 23 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898529789 C4Phoenix clicked world_nether 112 64 317 FLINT_AND_STEEL CraftChest 25 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898530089 C4Phoenix clicked world_nether 112 64 317 FLINT_AND_STEEL CraftChest 8 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898530439 C4Phoenix clicked world_nether 112 64 317 AIR CraftChest 8 SHIFT_LEFT NOTHING
+1460898530939 C4Phoenix clicked world_nether 112 64 317 GOLD_BARDING CraftChest 18 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898538904 C4Phoenix clicked world_nether 65 64 315 NETHER_STALK CraftChest 6 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898539104 C4Phoenix clicked world_nether 65 64 315 OBSIDIAN CraftChest 7 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898539404 C4Phoenix clicked world_nether 65 64 315 OBSIDIAN CraftChest 26 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898539904 C4Phoenix clicked world_nether 65 64 315 NETHER_STALK CraftChest 19 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898540154 C4Phoenix clicked world_nether 65 64 315 NETHER_STALK CraftChest 2 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898540504 C4Phoenix clicked world_nether 65 64 315 AIR CraftChest 18 SHIFT_LEFT NOTHING
+1460898540804 C4Phoenix clicked world_nether 65 64 315 OBSIDIAN CraftChest 9 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898569388 C4Phoenix clicked world_nether 95 72 300 IRON_INGOT CraftChest 22 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898569587 C4Phoenix clicked world_nether 95 72 300 GOLD_SWORD CraftChest 23 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898569837 C4Phoenix clicked world_nether 95 72 300 IRON_INGOT CraftChest 24 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898570038 C4Phoenix clicked world_nether 95 72 300 IRON_INGOT CraftChest 16 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898570537 C4Phoenix clicked world_nether 95 72 300 IRON_INGOT CraftChest 3 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898570837 C4Phoenix clicked world_nether 95 72 300 GOLD_CHESTPLATE CraftChest 2 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898591101 C4Phoenix clicked world_nether 102 72 300 GOLD_INGOT CraftChest 11 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460898591551 C4Phoenix clicked world_nether 102 72 300 GOLD_BARDING CraftChest 6 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899057997 C4Phoenix opened world -1165 57 430 DoubleChest
+1460899058747 C4Phoenix clicked world -1165 57 430 COOKED_BEEF CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899059647 C4Phoenix clicked world -1165 57 430 COOKED_MUTTON DoubleChest 32 LEFT PICKUP_ALL
+1460899060298 C4Phoenix clicked world -1165 57 430 AIR CraftPlayer 85 RIGHT PLACE_ONE
+1460899061097 C4Phoenix clicked world -1165 57 430 AIR DoubleChest 32 LEFT PLACE_ALL
+1460899061197 C4Phoenix closed world -1165 57 430 DoubleChest
+1460899065498 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899066250 C4Phoenix clicked world -1165 55 432 COBBLESTONE CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899066449 C4Phoenix clicked world -1165 55 432 NETHERRACK CraftPlayer 86 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899066850 C4Phoenix clicked world -1165 55 432 COBBLESTONE CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899067399 C4Phoenix clicked world -1165 55 432 COBBLESTONE CraftPlayer 68 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899068250 C4Phoenix clicked world -1165 55 432 NETHERRACK CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899068800 C4Phoenix clicked world -1165 55 432 NETHERRACK CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899068950 C4Phoenix clicked world -1165 55 432 NETHERRACK CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899069300 C4Phoenix clicked world -1165 55 432 QUARTZ CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899070200 C4Phoenix clicked world -1165 55 432 GLOWSTONE_DUST CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899072151 C4Phoenix clicked world -1165 55 432 GOLD_NUGGET CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899073250 C4Phoenix clicked world -1165 55 432 BLAZE_ROD CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899076052 C4Phoenix clicked world -1165 55 432 GOLD_INGOT CraftPlayer 69 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899076402 C4Phoenix clicked world -1165 55 432 GOLD_CHESTPLATE CraftPlayer 70 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899077102 C4Phoenix clicked world -1165 55 432 GOLD_INGOT DoubleChest 39 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899080203 C4Phoenix clicked world -1165 55 432 GOLD_BARDING CraftPlayer 67 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899081554 C4Phoenix clicked world -1165 55 432 GOLD_BARDING DoubleChest 39 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899083854 C4Phoenix clicked world -1165 55 432 NETHER_STALK CraftPlayer 73 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899084905 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899085705 C4Phoenix opened world -1165 55 430 DoubleChest
+1460899086805 C4Phoenix clicked world -1165 55 430 DIAMOND CraftPlayer 79 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899087556 C4Phoenix closed world -1165 55 430 DoubleChest
+1460899088205 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899089156 C4Phoenix clicked world -1165 55 432 GOLD_SWORD CraftPlayer 71 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899089757 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899090357 C4Phoenix opened world -1165 55 430 DoubleChest
+1460899091307 C4Phoenix clicked world -1165 55 430 GOLD_INGOT CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899091657 C4Phoenix closed world -1165 55 430 DoubleChest
+1460899091958 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899094359 C4Phoenix clicked world -1165 55 432 SIGN CraftPlayer 78 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899096359 C4Phoenix clicked world -1165 55 432 SIGN DoubleChest 42 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899097610 C4Phoenix clicked world -1165 55 432 TORCH CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899098310 C4Phoenix clicked world -1165 55 432 NETHER_BRICK CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899099111 C4Phoenix clicked world -1165 55 432 NETHER_FENCE CraftPlayer 62 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899099461 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899100511 C4Phoenix opened world -1168 55 430 DoubleChest
+1460899101361 C4Phoenix clicked world -1168 55 430 OBSIDIAN CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899101711 C4Phoenix closed world -1168 55 430 DoubleChest
+1460899102761 C4Phoenix opened world -1168 55 434 DoubleChest
+1460899104911 C4Phoenix clicked world -1168 55 434 SIGN CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899105261 C4Phoenix clicked world -1168 55 434 GOLD_BARDING CraftPlayer 86 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899106012 C4Phoenix clicked world -1168 55 434 GOLD_BARDING CraftPlayer 74 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899106663 C4Phoenix clicked world -1168 55 434 FLINT_AND_STEEL CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899107112 C4Phoenix clicked world -1168 55 434 FLINT_AND_STEEL CraftPlayer 77 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899108963 C4Phoenix closed world -1168 55 434 DoubleChest
+1460899109363 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899110213 C4Phoenix clicked world -1165 55 432 LADDER CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899111064 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899112415 C4Phoenix opened world -1168 55 428 DoubleChest
+1460899113465 C4Phoenix clicked world -1168 55 428 STICK CraftPlayer 76 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899114265 C4Phoenix clicked world -1168 55 428 BONE CraftPlayer 63 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899114465 C4Phoenix closed world -1168 55 428 DoubleChest
+1460899114815 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899115514 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899115715 C4Phoenix opened world -1165 55 430 DoubleChest
+1460899117015 C4Phoenix clicked world -1165 55 430 IRON_INGOT CraftPlayer 72 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899117165 C4Phoenix closed world -1165 55 430 DoubleChest
+1460899117765 C4Phoenix opened world -1168 55 428 DoubleChest
+1460899119114 C4Phoenix closed world -1168 55 428 DoubleChest
+1460899152973 C4Phoenix opened world -1168 55 434 DoubleChest
+1460899153473 C4Phoenix closed world -1168 55 434 DoubleChest
+1460899153622 C4Phoenix opened world -1168 55 432 DoubleChest
+1460899154122 C4Phoenix closed world -1168 55 432 DoubleChest
+1460899154424 C4Phoenix opened world -1168 55 432 DoubleChest
+1460899155123 C4Phoenix clicked world -1168 55 432 GLASS DoubleChest 6 LEFT PICKUP_ALL
+1460899156073 C4Phoenix clicked world -1168 55 432 AIR CraftPlayer 85 LEFT PLACE_ALL
+1460899156224 C4Phoenix closed world -1168 55 432 DoubleChest
+1460899219660 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899221961 C4Phoenix clicked world -1165 55 432 NETHER_STALK DoubleChest 39 LEFT PICKUP_ALL
+1460899222663 C4Phoenix clicked world -1165 55 432 AIR CraftPlayer 86 RIGHT PLACE_ONE
+1460899223263 C4Phoenix dragged world -1165 55 432 NETHER_STALK 6 1 0 EVEN
+1460899223464 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899238765 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899241115 C4Phoenix clicked world -1165 55 432 BLAZE_ROD DoubleChest 24 LEFT PICKUP_ALL
+1460899241867 C4Phoenix clicked world -1165 55 432 AIR CraftPlayer 60 RIGHT PLACE_ONE
+1460899242467 C4Phoenix dragged world -1165 55 432 BLAZE_ROD 7 1 0 EVEN
+1460899242667 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899254770 C4Phoenix opened world -1165 55 430 DoubleChest
+1460899256121 C4Phoenix clicked world -1165 55 430 REDSTONE DoubleChest 41 LEFT PICKUP_ALL
+1460899256672 C4Phoenix clicked world -1165 55 430 AIR CraftPlayer 86 RIGHT PLACE_ONE
+1460899257272 C4Phoenix clicked world -1165 55 430 AIR DoubleChest 41 LEFT PLACE_ALL
+1460899257422 C4Phoenix closed world -1165 55 430 DoubleChest
+1460899306939 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899308038 C4Phoenix clicked world -1165 55 432 GLOWSTONE_DUST DoubleChest 37 LEFT PICKUP_ALL
+1460899308738 C4Phoenix clicked world -1165 55 432 AIR CraftPlayer 86 RIGHT PLACE_ONE
+1460899309289 C4Phoenix dragged world -1165 55 432 GLOWSTONE_DUST 19 1 0 EVEN
+1460899309440 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899340797 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899341796 C4Phoenix clicked world -1165 55 432 NETHER_STALK DoubleChest 39 LEFT PICKUP_ALL
+1460899342453 C4Phoenix dragged world -1165 55 432 NETHER_STALK 1 0 1 SINGLE
+1460899342902 C4Phoenix clicked world -1165 55 432 AIR DoubleChest 39 LEFT PLACE_ALL
+1460899343002 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899382224 C4Phoenix opened world -1168 55 430 DoubleChest
+1460899382774 C4Phoenix closed world -1168 55 430 DoubleChest
+1460899383274 C4Phoenix opened world -1168 57 430 DoubleChest
+1460899384374 C4Phoenix clicked world -1168 57 430 LOG_2 DoubleChest 36 LEFT PICKUP_ALL
+1460899385026 C4Phoenix clicked world -1168 57 430 AIR CraftPlayer 55 RIGHT PLACE_ONE
+1460899385225 C4Phoenix clicked world -1168 57 430 LOG_2 CraftPlayer 55 RIGHT PLACE_ONE
+1460899385376 C4Phoenix clicked world -1168 57 430 LOG_2 CraftPlayer 55 RIGHT PLACE_ONE
+1460899385525 C4Phoenix clicked world -1168 57 430 LOG_2 CraftPlayer 55 RIGHT PLACE_ONE
+1460899386226 C4Phoenix clicked world -1168 57 430 AIR DoubleChest 36 LEFT PLACE_ALL
+1460899386676 C4Phoenix clicked world -1168 57 430 LOG DoubleChest 0 LEFT PICKUP_ALL
+1460899387926 C4Phoenix clicked world -1168 57 430 AIR CraftPlayer 54 RIGHT PLACE_ONE
+1460899388075 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 54 RIGHT PLACE_ONE
+1460899388276 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 54 RIGHT PLACE_ONE
+1460899388478 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 54 RIGHT PLACE_ONE
+1460899389378 C4Phoenix dragged world -1168 57 430 LOG 11 1 0 EVEN
+1460899389527 C4Phoenix clicked world -1168 57 430 LOG DoubleChest 9 LEFT PICKUP_ALL
+1460899390227 C4Phoenix clicked world -1168 57 430 AIR CraftPlayer 63 RIGHT PLACE_ONE
+1460899390428 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 63 RIGHT PLACE_ONE
+1460899390628 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 63 RIGHT PLACE_ONE
+1460899390778 C4Phoenix clicked world -1168 57 430 LOG CraftPlayer 63 RIGHT PLACE_ONE
+1460899391529 C4Phoenix dragged world -1168 57 430 LOG 10 1 0 EVEN
+1460899391778 C4Phoenix closed world -1168 57 430 DoubleChest
+1460899419084 C4Phoenix opened world -1168 55 434 DoubleChest
+1460899420634 C4Phoenix clicked world -1168 55 434 GLASS CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899421434 C4Phoenix closed world -1168 55 434 DoubleChest
+1460899421934 C4Phoenix opened world -1168 55 434 DoubleChest
+1460899423083 C4Phoenix closed world -1168 55 434 DoubleChest
+1460899428185 C4Phoenix opened world -1165 55 434 DoubleChest
+1460899431085 C4Phoenix clicked world -1165 55 434 POTION CraftPlayer 86 LEFT PICKUP_ALL
+1460899431736 C4Phoenix dragged world -1165 55 434 POTION 1 1 0 EVEN
+1460899434138 C4Phoenix clicked world -1165 55 434 POTION DoubleChest 0 LEFT PICKUP_ALL
+1460899434838 C4Phoenix dragged world -1165 55 434 POTION 1 1 0 EVEN
+1460899435289 C4Phoenix clicked world -1165 55 434 POTION CraftPlayer 56 LEFT PICKUP_ALL
+1460899435888 C4Phoenix clicked world -1165 55 434 AIR DoubleChest 0 LEFT PLACE_ALL
+1460899436289 C4Phoenix clicked world -1165 55 434 POTION CraftPlayer 57 LEFT PICKUP_ALL
+1460899436939 C4Phoenix dragged world -1165 55 434 POTION 1 1 0 EVEN
+1460899437440 C4Phoenix clicked world -1165 55 434 POTION CraftPlayer 58 LEFT PICKUP_ALL
+1460899438040 C4Phoenix dragged world -1165 55 434 POTION 1 1 0 EVEN
+1460899438789 C4Phoenix clicked world -1165 55 434 POTION CraftPlayer 87 LEFT PICKUP_ALL
+1460899439390 C4Phoenix dragged world -1165 55 434 POTION 1 1 0 EVEN
+1460899439840 C4Phoenix clicked world -1165 55 434 POTION CraftPlayer 88 LEFT PICKUP_ALL
+1460899440440 C4Phoenix clicked world -1165 55 434 AIR DoubleChest 45 LEFT PLACE_ALL
+1460899440989 C4Phoenix clicked world -1165 55 434 GLASS_BOTTLE CraftPlayer 89 LEFT PICKUP_ALL
+1460899442189 C4Phoenix dragged world -1165 55 434 GLASS_BOTTLE 6 6 0 SINGLE
+1460899442639 C4Phoenix clicked world -1165 55 434 GLASS_BOTTLE DoubleChest 8 LEFT PLACE_ALL
+1460899443641 C4Phoenix closed world -1165 55 434 DoubleChest
+1460899449193 C4Phoenix opened world -1168 55 432 DoubleChest
+1460899454345 C4Phoenix closed world -1168 55 432 DoubleChest
+1460899577485 C4Phoenix opened world -1165 55 430 DoubleChest
+1460899578185 C4Phoenix clicked world -1165 55 430 IRON_INGOT CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899578385 C4Phoenix clicked world -1165 55 430 GOLD_INGOT CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899580035 C4Phoenix clicked world -1165 55 430 COAL CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899581935 C4Phoenix clicked world -1165 55 430 IRON_INGOT DoubleChest 10 LEFT PICKUP_ALL
+1460899582591 C4Phoenix dragged world -1165 55 430 IRON_INGOT 42 0 1 EVEN
+1460899582640 C4Phoenix closed world -1165 55 430 DoubleChest
+1460899637806 C4Phoenix opened world -1165 55 434 DoubleChest
+1460899638456 C4Phoenix closed world -1165 55 434 DoubleChest
+1460899639006 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899640007 C4Phoenix clicked world -1165 55 432 BLAZE_ROD DoubleChest 24 LEFT PICKUP_ALL
+1460899640757 C4Phoenix dragged world -1165 55 432 BLAZE_ROD 1 0 1 SINGLE
+1460899641507 C4Phoenix dragged world -1165 55 432 BLAZE_ROD 6 1 0 EVEN
+1460899642458 C4Phoenix clicked world -1165 55 432 COBBLESTONE DoubleChest 21 LEFT PICKUP_ALL
+1460899643607 C4Phoenix dragged world -1165 55 432 COBBLESTONE 1 0 1 SINGLE
+1460899643807 C4Phoenix clicked world -1165 55 432 COBBLESTONE CraftPlayer 59 RIGHT PLACE_ONE
+1460899643957 C4Phoenix clicked world -1165 55 432 COBBLESTONE CraftPlayer 59 RIGHT PLACE_ONE
+1460899644857 C4Phoenix dragged world -1165 55 432 COBBLESTONE 4 1 0 EVEN
+1460899645108 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899724436 C4Phoenix opened world -1168 55 434 DoubleChest
+1460899725337 C4Phoenix clicked world -1168 55 434 SIGN DoubleChest 33 LEFT PICKUP_ALL
+1460899725937 C4Phoenix dragged world -1168 55 434 SIGN 1 0 1 EVEN
+1460899726087 C4Phoenix closed world -1168 55 434 DoubleChest
+1460899741242 C4Phoenix opened world -1165 55 434 DoubleChest
+1460899741843 C4Phoenix closed world -1165 55 434 DoubleChest
+1460899742042 C4Phoenix opened world -1168 55 434 DoubleChest
+1460899743092 C4Phoenix clicked world -1168 55 434 BUCKET DoubleChest 22 LEFT PICKUP_ALL
+1460899743793 C4Phoenix clicked world -1168 55 434 AIR CraftPlayer 67 LEFT PLACE_ALL
+1460899743993 C4Phoenix closed world -1168 55 434 DoubleChest
+1460899792159 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899792658 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899799463 C4Phoenix opened world -1168 55 434 DoubleChest
+1460899800613 C4Phoenix clicked world -1168 55 434 BUCKET CraftPlayer 86 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899802114 C4Phoenix closed world -1168 55 434 DoubleChest
+1460899812165 C4Phoenix opened world -1165 55 434 DoubleChest
+1460899812867 C4Phoenix closed world -1165 55 434 DoubleChest
+1460899813317 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899814317 C4Phoenix clicked world -1165 55 432 BLAZE_ROD DoubleChest 24 LEFT PICKUP_ALL
+1460899815467 C4Phoenix clicked world -1165 55 432 AIR CraftPlayer 58 RIGHT PLACE_ONE
+1460899816917 C4Phoenix clicked world -1165 55 432 AIR DoubleChest 24 LEFT PLACE_ALL
+1460899817167 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899833424 C4Phoenix opened world -1165 55 434 DoubleChest
+1460899834274 C4Phoenix closed world -1165 55 434 DoubleChest
+1460899834923 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899835624 C4Phoenix clicked world -1165 55 432 BLAZE_ROD DoubleChest 24 LEFT PICKUP_ALL
+1460899836274 C4Phoenix dragged world -1165 55 432 BLAZE_ROD 1 0 1 SINGLE
+1460899836774 C4Phoenix clicked world -1165 55 432 AIR DoubleChest 24 LEFT PLACE_ALL
+1460899837524 C4Phoenix clicked world -1165 55 432 BLAZE_POWDER CraftPlayer 65 LEFT PICKUP_ALL
+1460899838024 C4Phoenix clicked world -1165 55 432 AIR DoubleChest 49 LEFT PLACE_ALL
+1460899838174 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899853079 C4Phoenix opened world -1165 57 434 DoubleChest
+1460899854179 C4Phoenix closed world -1165 57 434 DoubleChest
+1460899854729 C4Phoenix opened world -1165 55 430 DoubleChest
+1460899855579 C4Phoenix clicked world -1165 55 430 IRON_INGOT CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899855779 C4Phoenix closed world -1165 55 430 DoubleChest
+1460899856729 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899858179 C4Phoenix clicked world -1165 55 432 COBBLESTONE CraftPlayer 77 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899858579 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899859679 C4Phoenix opened world -1168 55 430 DoubleChest
+1460899860781 C4Phoenix clicked world -1168 55 430 DIRT CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899861632 C4Phoenix closed world -1168 55 430 DoubleChest
+1460899862382 C4Phoenix opened world -1165 55 434 DoubleChest
+1460899863032 C4Phoenix closed world -1165 55 434 DoubleChest
+1460899863281 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899864583 C4Phoenix clicked world -1165 55 432 WORKBENCH CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899865132 C4Phoenix clicked world -1165 55 432 FURNACE CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899866382 C4Phoenix clicked world -1165 55 432 GLASS CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460899870884 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899885289 C4Phoenix opened world -1165 55 432 DoubleChest
+1460899885939 C4Phoenix closed world -1165 55 432 DoubleChest
+1460899886590 C4Phoenix opened world -1165 57 430 DoubleChest
+1460899886890 C4Phoenix clicked world -1165 57 430 ROTTEN_FLESH DoubleChest 49 RIGHT PICKUP_HALF
+1460899887892 C4Phoenix dragged world -1165 57 430 ROTTEN_FLESH 1 1 0 EVEN
+1460899888242 C4Phoenix clicked world -1165 57 430 COOKED_MUTTON DoubleChest 32 LEFT PICKUP_ALL
+1460899888993 C4Phoenix clicked world -1165 57 430 AIR CraftPlayer 85 RIGHT PLACE_ONE
+1460899889143 C4Phoenix clicked world -1165 57 430 COOKED_MUTTON CraftPlayer 85 RIGHT PLACE_ONE
+1460899889342 C4Phoenix clicked world -1165 57 430 COOKED_MUTTON CraftPlayer 85 RIGHT PLACE_ONE
+1460899889542 C4Phoenix clicked world -1165 57 430 COOKED_MUTTON CraftPlayer 85 RIGHT PLACE_ONE
+1460899889693 C4Phoenix clicked world -1165 57 430 COOKED_MUTTON CraftPlayer 85 RIGHT PLACE_ONE
+1460899889892 C4Phoenix clicked world -1165 57 430 COOKED_MUTTON CraftPlayer 85 RIGHT PLACE_ONE
+1460899890242 C4Phoenix clicked world -1165 57 430 COOKED_MUTTON CraftPlayer 85 RIGHT PLACE_ONE
+1460899890393 C4Phoenix clicked world -1165 57 430 COOKED_MUTTON CraftPlayer 85 RIGHT PLACE_ONE
+1460899890993 C4Phoenix clicked world -1165 57 430 AIR DoubleChest 32 LEFT PLACE_ALL
+1460899891142 C4Phoenix closed world -1165 57 430 DoubleChest
+1460900021807 C4Phoenix opened world -1165 55 430 DoubleChest
+1460900023207 C4Phoenix closed world -1165 55 430 DoubleChest
+1460900024107 C4Phoenix opened world -1165 55 432 DoubleChest
+1460900025457 C4Phoenix clicked world -1165 55 432 GLASS_BOTTLE CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900026008 C4Phoenix clicked world -1165 55 432 SUGAR CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900026358 C4Phoenix closed world -1165 55 432 DoubleChest
+1460900027109 C4Phoenix opened world -1168 55 428 DoubleChest
+1460900028058 C4Phoenix clicked world -1168 55 428 FEATHER CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900028359 C4Phoenix closed world -1168 55 428 DoubleChest
+1460900029609 C4Phoenix opened world -1165 55 434 DoubleChest
+1460900030309 C4Phoenix closed world -1165 55 434 DoubleChest
+1460900030409 C4Phoenix opened world -1165 55 432 DoubleChest
+1460900031409 C4Phoenix clicked world -1165 55 432 SUGAR DoubleChest 52 LEFT PICKUP_ALL
+1460900031909 C4Phoenix clicked world -1165 55 432 AIR CraftPlayer 69 LEFT PLACE_ALL
+1460900032009 C4Phoenix closed world -1165 55 432 DoubleChest
+1460900032760 C4Phoenix opened world -1168 55 428 DoubleChest
+1460900033717 C4Phoenix clicked world -1168 55 428 SUGAR CraftPlayer 69 LEFT PICKUP_ALL
+1460900034768 C4Phoenix dragged world -1168 55 428 SUGAR 2 2 0 SINGLE
+1460900035418 C4Phoenix clicked world -1168 55 428 SUGAR_CANE DoubleChest 9 LEFT PICKUP_ALL
+1460900035968 C4Phoenix clicked world -1168 55 428 AIR CraftPlayer 54 RIGHT PLACE_ONE
+1460900037475 C4Phoenix clicked world -1168 55 428 SUGAR_CANE CraftPlayer 54 RIGHT PLACE_ONE
+1460900037975 C4Phoenix clicked world -1168 55 428 AIR DoubleChest 9 LEFT PLACE_ALL
+1460900038175 C4Phoenix closed world -1168 55 428 DoubleChest
+1460900041026 C4Phoenix opened world -1168 55 428 DoubleChest
+1460900041976 C4Phoenix clicked world -1168 55 428 SUGAR CraftPlayer 80 LEFT PICKUP_ALL
+1460900042726 C4Phoenix clicked world -1168 55 428 AIR DoubleChest 17 RIGHT PLACE_ONE
+1460900043377 C4Phoenix clicked world -1168 55 428 SUGAR DoubleChest 14 LEFT PLACE_ONE
+1460900043977 C4Phoenix clicked world -1168 55 428 STICK DoubleChest 34 LEFT PICKUP_ALL
+1460900044527 C4Phoenix clicked world -1168 55 428 AIR DoubleChest 32 RIGHT PLACE_ONE
+1460900045178 C4Phoenix clicked world -1168 55 428 AIR DoubleChest 34 RIGHT PLACE_ONE
+1460900045728 C4Phoenix clicked world -1168 55 428 STICK DoubleChest 33 LEFT NOTHING
+1460900046528 C4Phoenix clicked world -1168 55 428 STICK DoubleChest 32 LEFT PLACE_ALL
+1460900046778 C4Phoenix clicked world -1168 55 428 STICK DoubleChest 33 LEFT PICKUP_ALL
+1460900047478 C4Phoenix clicked world -1168 55 428 AIR DoubleChest 33 RIGHT PLACE_ONE
+1460900047829 C4Phoenix dragged world -1168 55 428 STICK 33 1 0 EVEN
+1460900048228 C4Phoenix clicked world -1168 55 428 STICK DoubleChest 33 LEFT PLACE_ALL
+1460900049678 C4Phoenix closed world -1168 55 428 DoubleChest
+1460900050929 C4Phoenix opened world -1168 55 432 DoubleChest
+1460900052229 C4Phoenix clicked world -1168 55 432 WOOL CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900054230 C4Phoenix closed world -1168 55 432 DoubleChest
+1460900055631 C4Phoenix opened world -1165 55 430 DoubleChest
+1460900057731 C4Phoenix clicked world -1165 55 430 IRON_INGOT DoubleChest 11 LEFT PICKUP_ALL
+1460900058182 C4Phoenix clicked world -1165 55 430 AIR DoubleChest 11 RIGHT PLACE_ONE
+1460900058582 C4Phoenix clicked world -1165 55 430 AIR DoubleChest 10 LEFT PLACE_ALL
+1460900058882 C4Phoenix clicked world -1165 55 430 COAL DoubleChest 2 LEFT PICKUP_ALL
+1460900059782 C4Phoenix clicked world -1165 55 430 AIR CraftPlayer 88 RIGHT PLACE_ONE
+1460900059932 C4Phoenix clicked world -1165 55 430 COAL CraftPlayer 88 RIGHT PLACE_ONE
+1460900060132 C4Phoenix clicked world -1165 55 430 COAL CraftPlayer 88 RIGHT PLACE_ONE
+1460900060282 C4Phoenix clicked world -1165 55 430 COAL CraftPlayer 88 RIGHT PLACE_ONE
+1460900060433 C4Phoenix clicked world -1165 55 430 COAL CraftPlayer 88 RIGHT PLACE_ONE
+1460900060633 C4Phoenix clicked world -1165 55 430 COAL CraftPlayer 88 RIGHT PLACE_ONE
+1460900060883 C4Phoenix clicked world -1165 55 430 COAL CraftPlayer 88 LEFT PLACE_ALL
+1460900061633 C4Phoenix clicked world -1165 55 430 ROTTEN_FLESH CraftPlayer 87 LEFT PICKUP_ALL
+1460900062233 C4Phoenix dragged world -1165 55 430 ROTTEN_FLESH 2 0 1 EVEN
+1460900062433 C4Phoenix clicked world -1165 55 430 COAL CraftPlayer 88 LEFT PICKUP_ALL
+1460900063183 C4Phoenix clicked world -1165 55 430 AIR DoubleChest 2 RIGHT PLACE_ONE
+1460900063833 C4Phoenix dragged world -1165 55 430 COAL 24 0 1 EVEN
+1460900063933 C4Phoenix closed world -1165 55 430 DoubleChest
+1460900079687 C4Phoenix opened world -1165 57 430 DoubleChest
+1460900080587 C4Phoenix clicked world -1165 57 430 ROTTEN_FLESH CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900080736 C4Phoenix closed world -1165 57 430 DoubleChest
+1460900841666 C4Phoenix opened world -1165 55 430 DoubleChest
+1460900843016 C4Phoenix clicked world -1165 55 430 DIAMOND CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900847966 C4Phoenix clicked world -1165 55 430 COAL CraftPlayer 69 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900848867 C4Phoenix clicked world -1165 55 430 COAL CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900849267 C4Phoenix closed world -1165 55 430 DoubleChest
+1460900858970 C4Phoenix opened world -1165 57 432 DoubleChest
+1460900859720 C4Phoenix closed world -1165 57 432 DoubleChest
+1460900860320 C4Phoenix opened world -1165 57 430 DoubleChest
+1460900861621 C4Phoenix clicked world -1165 57 430 COAL CraftPlayer 64 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900862572 C4Phoenix clicked world -1165 57 430 COAL DoubleChest 4 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900862822 C4Phoenix closed world -1165 57 430 DoubleChest
+1460900863172 C4Phoenix opened world -1165 55 432 DoubleChest
+1460900864022 C4Phoenix closed world -1165 55 432 DoubleChest
+1460900864522 C4Phoenix opened world -1165 55 430 DoubleChest
+1460900865973 C4Phoenix clicked world -1165 55 430 COAL CraftPlayer 79 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900866322 C4Phoenix closed world -1165 55 430 DoubleChest
+1460900867023 C4Phoenix opened world -1165 57 432 DoubleChest
+1460900868023 C4Phoenix clicked world -1165 57 432 SADDLE DoubleChest 4 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900868273 C4Phoenix clicked world -1165 57 432 SADDLE DoubleChest 5 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900868523 C4Phoenix closed world -1165 57 432 DoubleChest
+1460900869474 C4Phoenix opened world -1165 57 432 DoubleChest
+1460900870224 C4Phoenix clicked world -1165 57 432 COBBLESTONE DoubleChest 1 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900870374 C4Phoenix clicked world -1165 57 432 COBBLESTONE DoubleChest 2 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900870574 C4Phoenix clicked world -1165 57 432 COBBLESTONE_STAIRS DoubleChest 3 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900871224 C4Phoenix clicked world -1165 57 432 COAL DoubleChest 0 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900871424 C4Phoenix closed world -1165 57 432 DoubleChest
+1460900871924 C4Phoenix opened world -1165 55 434 DoubleChest
+1460900872624 C4Phoenix closed world -1165 55 434 DoubleChest
+1460900873525 C4Phoenix opened world -1165 55 432 DoubleChest
+1460900876076 C4Phoenix clicked world -1165 55 432 COBBLESTONE CraftPlayer 65 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900876676 C4Phoenix clicked world -1165 55 432 COBBLESTONE CraftPlayer 77 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900877326 C4Phoenix closed world -1165 55 432 DoubleChest
+1460900877726 C4Phoenix opened world -1165 55 434 DoubleChest
+1460900878226 C4Phoenix closed world -1165 55 434 DoubleChest
+1460900878827 C4Phoenix opened world -1165 57 432 DoubleChest
+1460900880127 C4Phoenix clicked world -1165 57 432 COBBLESTONE_STAIRS CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900880327 C4Phoenix clicked world -1165 57 432 COBBLESTONE CraftPlayer 76 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900880927 C4Phoenix clicked world -1165 57 432 COBBLESTONE CraftPlayer 67 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900881127 C4Phoenix clicked world -1165 57 432 COBBLESTONE CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900881977 C4Phoenix clicked world -1165 57 432 COAL CraftPlayer 74 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900883077 C4Phoenix closed world -1165 57 432 DoubleChest
+1460900884377 C4Phoenix opened world -1168 55 428 DoubleChest
+1460900885178 C4Phoenix closed world -1168 55 428 DoubleChest
+1460900885428 C4Phoenix opened world -1168 55 430 DoubleChest
+1460900886727 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900886928 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900887128 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 62 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900887828 C4Phoenix clicked world -1168 55 430 STONE CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900889378 C4Phoenix clicked world -1168 55 430 GRAVEL CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900890429 C4Phoenix clicked world -1168 55 430 DIRT CraftPlayer 66 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900892579 C4Phoenix clicked world -1168 55 430 OBSIDIAN CraftPlayer 70 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900894730 C4Phoenix closed world -1168 55 430 DoubleChest
+1460900895380 C4Phoenix opened world -1165 57 432 DoubleChest
+1460900896379 C4Phoenix closed world -1165 57 432 DoubleChest
+1460900897130 C4Phoenix opened world -1165 57 430 DoubleChest
+1460900898630 C4Phoenix clicked world -1165 57 430 GRILLED_PORK CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900900832 C4Phoenix clicked world -1165 57 430 COOKED_CHICKEN CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900903082 C4Phoenix closed world -1165 57 430 DoubleChest
+1460900903382 C4Phoenix opened world -1165 55 430 DoubleChest
+1460900904532 C4Phoenix clicked world -1165 55 430 REDSTONE CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900904932 C4Phoenix clicked world -1165 55 430 REDSTONE CraftPlayer 63 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900905982 C4Phoenix closed world -1165 55 430 DoubleChest
+1460900906432 C4Phoenix opened world -1168 55 428 DoubleChest
+1460900907233 C4Phoenix closed world -1168 55 428 DoubleChest
+1460900907683 C4Phoenix opened world -1168 57 428 DoubleChest
+1460900908634 C4Phoenix clicked world -1168 57 428 FLINT CraftPlayer 68 LEFT PICKUP_ALL
+1460900909134 C4Phoenix dragged world -1168 57 428 FLINT 1 1 0 SINGLE
+1460900909784 C4Phoenix dragged world -1168 57 428 FLINT 3 1 0 EVEN
+1460900911434 C4Phoenix closed world -1168 57 428 DoubleChest
+1460900912435 C4Phoenix opened world -1168 55 434 DoubleChest
+1460900913635 C4Phoenix clicked world -1168 55 434 SADDLE CraftPlayer 78 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900913835 C4Phoenix clicked world -1168 55 434 AIR CraftPlayer 80 SHIFT_LEFT NOTHING
+1460900914685 C4Phoenix clicked world -1168 55 434 SADDLE CraftPlayer 79 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900918536 C4Phoenix closed world -1168 55 434 DoubleChest
+1460900918836 C4Phoenix opened world -1165 55 434 DoubleChest
+1460900919436 C4Phoenix closed world -1165 55 434 DoubleChest
+1460900919636 C4Phoenix opened world -1165 55 432 DoubleChest
+1460900920086 C4Phoenix closed world -1165 55 432 DoubleChest
+1460900920486 C4Phoenix opened world -1165 57 432 DoubleChest
+1460900921486 C4Phoenix clicked world -1165 57 432 COBBLESTONE CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900922036 C4Phoenix clicked world -1165 57 432 COBBLESTONE CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900922286 C4Phoenix closed world -1165 57 432 DoubleChest
+1460900923186 C4Phoenix opened world -1168 55 428 DoubleChest
+1460900925237 C4Phoenix clicked world -1168 55 428 BONE CraftPlayer 86 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900925587 C4Phoenix closed world -1168 55 428 DoubleChest
+1460900929188 C4Phoenix opened world -1165 57 430 DoubleChest
+1460900930538 C4Phoenix closed world -1165 57 430 DoubleChest
+1460900931038 C4Phoenix opened world -1165 57 432 DoubleChest
+1460900932738 C4Phoenix closed world -1165 57 432 DoubleChest
+1460900933439 C4Phoenix opened world -1165 57 432 DoubleChest
+1460900934739 C4Phoenix clicked world -1165 57 432 COAL DoubleChest 4 LEFT PICKUP_ALL
+1460900935489 C4Phoenix clicked world -1165 57 432 AIR CraftPlayer 86 LEFT PLACE_ALL
+1460900935989 C4Phoenix closed world -1165 57 432 DoubleChest
+1460900963897 C4Phoenix opened world -1168 55 428 DoubleChest
+1460900964847 C4Phoenix clicked world -1168 55 428 STICK DoubleChest 33 LEFT PICKUP_ALL
+1460900965497 C4Phoenix clicked world -1168 55 428 AIR CraftPlayer 68 RIGHT PLACE_ONE
+1460900965647 C4Phoenix clicked world -1168 55 428 STICK CraftPlayer 68 RIGHT PLACE_ONE
+1460900966348 C4Phoenix clicked world -1168 55 428 AIR DoubleChest 33 LEFT PLACE_ALL
+1460900966448 C4Phoenix closed world -1168 55 428 DoubleChest
+1460900975450 C4Phoenix opened world -1165 55 430 DoubleChest
+1460900976250 C4Phoenix clicked world -1165 55 430 IRON_INGOT CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460900976750 C4Phoenix closed world -1165 55 430 DoubleChest
+1460900980502 C4Phoenix opened world -1165 55 430 DoubleChest
+1460900981652 C4Phoenix clicked world -1165 55 430 DIAMOND DoubleChest 27 LEFT PICKUP_ALL
+1460900982302 C4Phoenix clicked world -1165 55 430 AIR CraftPlayer 57 RIGHT PLACE_ONE
+1460900982452 C4Phoenix clicked world -1165 55 430 DIAMOND CraftPlayer 57 RIGHT PLACE_ONE
+1460900982602 C4Phoenix clicked world -1165 55 430 DIAMOND CraftPlayer 57 RIGHT PLACE_ONE
+1460900983152 C4Phoenix dragged world -1165 55 430 DIAMOND 56 1 0 EVEN
+1460900983302 C4Phoenix closed world -1165 55 430 DoubleChest
+1460900984102 C4Phoenix opened world -1168 55 428 DoubleChest
+1460900985203 C4Phoenix clicked world -1168 55 428 STICK DoubleChest 33 LEFT PICKUP_ALL
+1460900985853 C4Phoenix clicked world -1168 55 428 AIR CraftPlayer 86 RIGHT PLACE_ONE
+1460900986003 C4Phoenix clicked world -1168 55 428 STICK CraftPlayer 86 RIGHT PLACE_ONE
+1460900986153 C4Phoenix clicked world -1168 55 428 STICK CraftPlayer 86 RIGHT PLACE_ONE
+1460900987303 C4Phoenix clicked world -1168 55 428 AIR DoubleChest 33 LEFT PLACE_ALL
+1460900988453 C4Phoenix closed world -1168 55 428 DoubleChest
+1460900989903 C4Phoenix opened world -1168 55 428 DoubleChest
+1460900990603 C4Phoenix clicked world -1168 55 428 STICK CraftPlayer 86 LEFT PICKUP_ALL
+1460900991354 C4Phoenix clicked world -1168 55 428 STICK DoubleChest 33 RIGHT PLACE_ONE
+1460900992004 C4Phoenix clicked world -1168 55 428 AIR CraftPlayer 86 LEFT PLACE_ALL
+1460900992104 C4Phoenix closed world -1168 55 428 DoubleChest
+1460901010409 C4Phoenix opened world -1165 55 434 DoubleChest
+1460901010959 C4Phoenix closed world -1165 55 434 DoubleChest
+1460901011560 C4Phoenix opened world -1165 57 434 DoubleChest
+1460901012160 C4Phoenix closed world -1165 57 434 DoubleChest
+1460901012760 C4Phoenix opened world -1165 57 432 DoubleChest
+1460901013909 C4Phoenix clicked world -1165 57 432 COBBLESTONE DoubleChest 6 LEFT PICKUP_ALL
+1460901014260 C4Phoenix clicked world -1165 57 432 COBBLESTONE DoubleChest 5 LEFT NOTHING
+1460901014660 C4Phoenix clicked world -1165 57 432 AIR DoubleChest 4 LEFT PLACE_ALL
+1460901014910 C4Phoenix clicked world -1165 57 432 COBBLESTONE DoubleChest 5 LEFT PICKUP_ALL
+1460901015260 C4Phoenix dragged world -1165 57 432 COBBLESTONE 8 1 0 EVEN
+1460901016110 C4Phoenix clicked world -1165 57 432 AIR CraftPlayer 88 RIGHT PLACE_ONE
+1460901016810 C4Phoenix clicked world -1165 57 432 AIR DoubleChest 5 LEFT PLACE_ALL
+1460901016961 C4Phoenix closed world -1165 57 432 DoubleChest
+1460901028433 C4Phoenix opened world -1168 55 434 DoubleChest
+1460901029833 C4Phoenix clicked world -1168 55 434 BUCKET DoubleChest 22 LEFT PICKUP_ALL
+1460901030434 C4Phoenix clicked world -1168 55 434 AIR CraftPlayer 87 LEFT PLACE_ALL
+1460901030534 C4Phoenix closed world -1168 55 434 DoubleChest
+1460901033385 C4Phoenix opened world -1168 55 434 DoubleChest
+1460901034235 C4Phoenix clicked world -1168 55 434 BUCKET CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460901035335 C4Phoenix closed world -1168 55 434 DoubleChest
+1460901042186 C4Phoenix opened world -1168 55 430 DoubleChest
+1460901042887 C4Phoenix clicked world -1168 55 430 DIRT CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460901043887 C4Phoenix clicked world -1168 55 430 DIAMOND_PICKAXE CraftPlayer 86 LEFT PICKUP_ALL
+1460901044637 C4Phoenix clicked world -1168 55 430 AIR CraftPlayer 74 LEFT PLACE_ALL
+1460901044887 C4Phoenix closed world -1168 55 430 DoubleChest
+1460901056190 C4Phoenix opened world -1165 55 430 DoubleChest
+1460901056990 C4Phoenix clicked world -1165 55 430 GOLD_INGOT CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460901057290 C4Phoenix clicked world -1165 55 430 IRON_INGOT CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460901060041 C4Phoenix closed world -1165 55 430 DoubleChest
+1460901166234 C4Phoenix opened world -1165 55 430 DoubleChest
+1460901167134 C4Phoenix clicked world -1165 55 430 GOLD_INGOT CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460901167334 C4Phoenix closed world -1165 55 430 DoubleChest
+1460901188792 C4Phoenix opened world -1165 55 434 DoubleChest
+1460901189293 C4Phoenix closed world -1165 55 434 DoubleChest
+1460901189843 C4Phoenix opened world -1165 57 434 DoubleChest
+1460901190343 C4Phoenix closed world -1165 57 434 DoubleChest
+1460901190843 C4Phoenix opened world -1165 57 432 DoubleChest
+1460901192043 C4Phoenix clicked world -1165 57 432 COBBLESTONE DoubleChest 5 LEFT PICKUP_ALL
+1460901192893 C4Phoenix clicked world -1165 57 432 AIR CraftPlayer 86 LEFT PLACE_ALL
+1460901193043 C4Phoenix closed world -1165 57 432 DoubleChest
+1460901193693 C4Phoenix opened world -1168 55 434 DoubleChest
+1460901194793 C4Phoenix closed world -1168 55 434 DoubleChest
+1460901195194 C4Phoenix opened world -1165 55 434 DoubleChest
+1460901195594 C4Phoenix closed world -1165 55 434 DoubleChest
+1460901195744 C4Phoenix opened world -1165 55 432 DoubleChest
+1460901196694 C4Phoenix clicked world -1165 55 432 LADDER DoubleChest 18 LEFT PICKUP_ALL
+1460901197295 C4Phoenix dragged world -1165 55 432 LADDER 27 0 1 EVEN
+1460901197644 C4Phoenix closed world -1165 55 432 DoubleChest
+1460906543779 Modac2 opened 2016-04-16_14-14world -192 67 206 DoubleChest
+1460906544379 Modac2 closed 2016-04-16_14-14world -192 67 206 DoubleChest
+1460906544629 Modac2 opened 2016-04-16_14-14world -192 66 206 DoubleChest
+1460906544979 Modac2 closed 2016-04-16_14-14world -192 66 206 DoubleChest
+1460906545479 Modac2 opened 2016-04-16_14-14world -192 65 206 DoubleChest
+1460906545829 Modac2 closed 2016-04-16_14-14world -192 65 206 DoubleChest
+1460906815567 Modac2 opened 2016-04-16_14-14world -187 182 207 DoubleChest
+1460906816267 Modac2 closed 2016-04-16_14-14world -187 182 207 DoubleChest
+1460911245329 JoJay07 opened world 329 82 1681 DoubleChest
+1460911246128 JoJay07 closed world 329 82 1681 DoubleChest
+1460911246429 JoJay07 opened world 329 82 1681 DoubleChest
+1460911247178 JoJay07 closed world 329 82 1681 DoubleChest
+1460911247479 JoJay07 opened world 329 81 1681 DoubleChest
+1460911250128 JoJay07 closed world 329 81 1681 DoubleChest
+1460911250579 JoJay07 opened world 329 83 1681 DoubleChest
+1460911253030 JoJay07 clicked world 329 83 1681 LOG DoubleChest 44 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911253179 JoJay07 closed world 329 83 1681 DoubleChest
+1460911258180 JoJay07 opened world 329 83 1681 DoubleChest
+1460911260080 JoJay07 clicked world 329 83 1681 LOG CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911260380 JoJay07 closed world 329 83 1681 DoubleChest
+1460911283391 JoJay07 opened world 329 81 1681 DoubleChest
+1460911284391 JoJay07 clicked world 329 81 1681 NETHER_STALK CraftPlayer 81 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911284691 JoJay07 closed world 329 81 1681 DoubleChest
+1460911318568 JoJay07 opened world 329 81 1681 DoubleChest
+1460911322169 JoJay07 clicked world 329 81 1681 NETHER_STALK DoubleChest 49 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911322319 JoJay07 closed world 329 81 1681 DoubleChest
+1460911345798 JoJay07 opened world 329 81 1681 DoubleChest
+1460911346748 JoJay07 clicked world 329 81 1681 WOOD CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911357999 JoJay07 closed world 329 81 1681 DoubleChest
+1460911432912 Modac2 opened world -204 71 205 DoubleChest
+1460911433612 Modac2 closed world -204 71 205 DoubleChest
+1460911548316 JayJo07 opened world 329 81 1681 DoubleChest
+1460911550316 JayJo07 clicked world 329 81 1681 LOG CraftPlayer 81 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911550716 JayJo07 closed world 329 81 1681 DoubleChest
+1460911551266 JayJo07 opened world 329 83 1681 DoubleChest
+1460911552316 JayJo07 clicked world 329 83 1681 LOG CraftPlayer 81 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911552716 JayJo07 closed world 329 83 1681 DoubleChest
+1460911571374 JoJay07 opened world 329 81 1681 DoubleChest
+1460911572124 JoJay07 clicked world 329 81 1681 SUGAR_CANE CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911574024 JoJay07 clicked world 329 81 1681 PAPER DoubleChest 42 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911574524 JoJay07 closed world 329 81 1681 DoubleChest
+1460911594781 JoJay07 opened world 329 82 1681 DoubleChest
+1460911595181 JoJay07 closed world 329 82 1681 DoubleChest
+1460911595832 JayJo07 opened world 329 83 1681 DoubleChest
+1460911596381 JayJo07 closed world 329 83 1681 DoubleChest
+1460911596732 JayJo07 opened world 329 83 1681 DoubleChest
+1460911598032 JayJo07 clicked world 329 83 1681 MAP CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911598332 JayJo07 clicked world 329 83 1681 COMPASS CraftPlayer 88 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911598482 JoJay07 opened world 329 82 1681 DoubleChest
+1460911599382 JayJo07 clicked world 329 83 1681 PAPER CraftPlayer 82 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911599482 JoJay07 closed world 329 82 1681 DoubleChest
+1460911600283 JoJay07 opened world 329 83 1681 DoubleChest
+1460911601985 JayJo07 clicked world 329 83 1681 PAPER CraftPlayer 81 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911602485 JayJo07 closed world 329 83 1681 DoubleChest
+1460911605336 JoJay07 clicked world 329 83 1681 IRON_SWORD DoubleChest 22 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911606586 JoJay07 clicked world 329 83 1681 DIAMOND DoubleChest 13 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911609336 JoJay07 clicked world 329 83 1681 LOG DoubleChest 32 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911609636 JoJay07 closed world 329 83 1681 DoubleChest
+1460911623292 JoJay07 opened world 329 82 1681 DoubleChest
+1460911623842 JoJay07 closed world 329 82 1681 DoubleChest
+1460911624192 JoJay07 opened world 329 83 1681 DoubleChest
+1460911625093 JoJay07 clicked world 329 83 1681 DIAMOND CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911625643 JoJay07 clicked world 329 83 1681 STICK CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911625893 JoJay07 closed world 329 83 1681 DoubleChest
+1460911631647 JoJay07 opened world 329 82 1681 DoubleChest
+1460911632897 JoJay07 closed world 329 82 1681 DoubleChest
+1460911633348 JoJay07 opened world 329 83 1681 DoubleChest
+1460911634598 JoJay07 clicked world 329 83 1681 INK_SACK DoubleChest 23 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911634748 JoJay07 closed world 329 83 1681 DoubleChest
+1460911656303 JoJay07 opened world 329 82 1681 DoubleChest
+1460911657103 JoJay07 closed world 329 82 1681 DoubleChest
+1460911657854 JoJay07 opened world 329 83 1681 DoubleChest
+1460911658853 JoJay07 clicked world 329 83 1681 INK_SACK CraftPlayer 77 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911659453 JoJay07 closed world 329 83 1681 DoubleChest
+1460911660503 JoJay07 opened world 329 82 1681 DoubleChest
+1460911662454 JoJay07 closed world 329 82 1681 DoubleChest
+1460911666877 JoJay07 opened world 329 81 1681 DoubleChest
+1460911672628 JoJay07 clicked world 329 81 1681 WOOD DoubleChest 49 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460911672827 JoJay07 closed world 329 81 1681 DoubleChest
+1460911883761 Modac2 opened world -188 66 208 DoubleChest
+1460911884761 Modac2 closed world -188 66 208 DoubleChest
+1460911931383 JayJo07 opened world 284 72 1735 DoubleChest
+1460911934232 JayJo07 closed world 284 72 1735 DoubleChest
+1460911975849 JoJay07 opened world 329 81 1681 DoubleChest
+1460911977199 JoJay07 closed world 329 81 1681 DoubleChest
+1460911986614 JoJay07 opened world 329 81 1681 DoubleChest
+1460912008167 JoJay07 closed world 329 81 1681 DoubleChest
+1460912008867 JoJay07 opened world 329 83 1681 DoubleChest
+1460912009317 JayJo07 opened world 257 55 1720 DoubleChest
+1460912012517 JayJo07 closed world 257 55 1720 DoubleChest
+1460912013418 JoJay07 closed world 329 83 1681 DoubleChest
+1460912020819 JayJo07 clicked world 258 54 1717 INK_SACK CraftPlayer 32 LEFT PICKUP_ALL
+1460912021420 JayJo07 dragged world 258 54 1717 INK_SACK 1 0 1 EVEN
+1460912028622 JoJay07 opened world 329 82 1681 DoubleChest
+1460912030971 JoJay07 clicked world 329 82 1681 QUARTZ DoubleChest 52 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912032573 JoJay07 closed world 329 82 1681 DoubleChest
+1460912033073 JoJay07 opened world 329 81 1681 DoubleChest
+1460912034473 JoJay07 clicked world 329 81 1681 INK_SACK DoubleChest 44 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912035273 JoJay07 closed world 329 81 1681 DoubleChest
+1460912042526 JoJay07 opened world 329 81 1681 DoubleChest
+1460912043476 JoJay07 closed world 329 81 1681 DoubleChest
+1460912043929 JoJay07 opened world 329 82 1681 DoubleChest
+1460912045979 JoJay07 closed world 329 82 1681 DoubleChest
+1460912046479 JoJay07 opened world 329 83 1681 DoubleChest
+1460912047729 JoJay07 clicked world 329 83 1681 LOG DoubleChest 48 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912047879 JoJay07 closed world 329 83 1681 DoubleChest
+1460912100024 JayJo07 opened world 329 81 1681 DoubleChest
+1460912102024 JayJo07 closed world 329 81 1681 DoubleChest
+1460912102424 JayJo07 opened world 329 82 1681 DoubleChest
+1460912104576 JayJo07 closed world 329 82 1681 DoubleChest
+1460912105026 JayJo07 opened world 329 83 1681 DoubleChest
+1460912110326 JayJo07 closed world 329 83 1681 DoubleChest
+1460912110676 JayJo07 opened world 329 82 1681 DoubleChest
+1460912112126 JayJo07 closed world 329 82 1681 DoubleChest
+1460912155230 JayJo07 opened world 329 81 1681 DoubleChest
+1460912156280 JayJo07 clicked world 329 81 1681 TORCH CraftPlayer 89 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912156630 JayJo07 closed world 329 81 1681 DoubleChest
+1460912164456 JoJay07 opened world 329 81 1681 DoubleChest
+1460912166756 JoJay07 closed world 329 81 1681 DoubleChest
+1460912167157 JoJay07 opened world 329 83 1681 DoubleChest
+1460912168006 JoJay07 closed world 329 83 1681 DoubleChest
+1460912168307 JoJay07 opened world 329 82 1681 DoubleChest
+1460912170807 JoJay07 clicked world 329 82 1681 HARD_CLAY DoubleChest 24 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912171006 JoJay07 closed world 329 82 1681 DoubleChest
+1460912200887 JoJay07 opened world 329 81 1681 DoubleChest
+1460912202838 JoJay07 clicked world 329 81 1681 COBBLESTONE DoubleChest 3 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912202988 JoJay07 closed world 329 81 1681 DoubleChest
+1460912239796 JoJay07 opened world 329 81 1681 DoubleChest
+1460912241596 JoJay07 clicked world 329 81 1681 REDSTONE DoubleChest 38 LEFT PICKUP_ALL
+1460912243496 JoJay07 clicked world 329 81 1681 AIR CraftPlayer 57 RIGHT PLACE_ONE
+1460912244047 JoJay07 dragged world 329 81 1681 REDSTONE 1 0 1 SINGLE
+1460912244697 JoJay07 clicked world 329 81 1681 REDSTONE CraftPlayer 57 RIGHT PLACE_ONE
+1460912246997 JoJay07 clicked world 329 81 1681 AIR CraftPlayer 56 LEFT PLACE_ALL
+1460912248298 JoJay07 closed world 329 81 1681 DoubleChest
+1460912248798 JoJay07 opened world 329 82 1681 DoubleChest
+1460912249897 JoJay07 closed world 329 82 1681 DoubleChest
+1460912274001 JoJay07 opened world 329 83 1681 DoubleChest
+1460912282417 JoJay07 clicked world 329 83 1681 STICK DoubleChest 45 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912282667 JoJay07 closed world 329 83 1681 DoubleChest
+1460912311577 JoJay07 opened world 329 81 1681 DoubleChest
+1460912312427 JoJay07 clicked world 329 81 1681 QUARTZ CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912312877 JoJay07 clicked world 329 81 1681 REDSTONE CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912313227 JoJay07 clicked world 329 81 1681 STICK CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912313577 JoJay07 closed world 329 81 1681 DoubleChest
+1460912323729 JoJay07 opened world 329 82 1681 DoubleChest
+1460912325079 JoJay07 closed world 329 82 1681 DoubleChest
+1460912325779 JoJay07 opened world 329 83 1681 DoubleChest
+1460912327029 JoJay07 closed world 329 83 1681 DoubleChest
+1460912327530 JoJay07 opened world 329 81 1681 DoubleChest
+1460912329580 JoJay07 clicked world 329 81 1681 IRON_INGOT DoubleChest 26 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912329780 JoJay07 closed world 329 81 1681 DoubleChest
+1460912331431 JoJay07 opened world 329 82 1681 DoubleChest
+1460912333331 JoJay07 clicked world 329 82 1681 WOOD DoubleChest 8 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912333531 JoJay07 closed world 329 82 1681 DoubleChest
+1460912360109 JoJay07 opened world 329 82 1681 DoubleChest
+1460912361460 JoJay07 clicked world 329 82 1681 IRON_INGOT CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912364761 JoJay07 clicked world 329 82 1681 STRING DoubleChest 36 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912367710 JoJay07 closed world 329 82 1681 DoubleChest
+1460912368161 JoJay07 opened world 329 83 1681 DoubleChest
+1460912376061 JoJay07 closed world 329 83 1681 DoubleChest
+1460912376512 JoJay07 opened world 329 81 1681 DoubleChest
+1460912378112 JoJay07 clicked world 329 81 1681 STICK DoubleChest 44 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912378312 JoJay07 closed world 329 81 1681 DoubleChest
+1460912390313 JoJay07 opened world 329 81 1681 DoubleChest
+1460912391214 JoJay07 clicked world 329 81 1681 REDSTONE DoubleChest 38 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912391413 JoJay07 closed world 329 81 1681 DoubleChest
+1460912392713 JoJay07 opened world 329 82 1681 DoubleChest
+1460912394463 JoJay07 clicked world 329 82 1681 COBBLESTONE DoubleChest 5 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912394663 JoJay07 closed world 329 82 1681 DoubleChest
+1460912401783 JayJo07 opened world 329 81 1681 DoubleChest
+1460912404051 JayJo07 closed world 329 81 1681 DoubleChest
+1460912404451 JayJo07 opened world 329 82 1681 DoubleChest
+1460912405856 JayJo07 closed world 329 82 1681 DoubleChest
+1460912406457 JayJo07 opened world 329 83 1681 DoubleChest
+1460912406857 JoJay07 opened world 329 81 1681 DoubleChest
+1460912407806 JoJay07 clicked world 329 81 1681 REDSTONE CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912408407 JayJo07 clicked world 329 83 1681 SLIME_BALL CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912408557 JoJay07 clicked world 329 81 1681 COBBLESTONE CraftPlayer 76 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912408956 JoJay07 closed world 329 81 1681 DoubleChest
+1460912409807 JayJo07 closed world 329 83 1681 DoubleChest
+1460912418951 JoJay07 opened world 329 82 1681 DoubleChest
+1460912419451 JoJay07 closed world 329 82 1681 DoubleChest
+1460912419851 JoJay07 opened world 329 83 1681 DoubleChest
+1460912420951 JoJay07 closed world 329 83 1681 DoubleChest
+1460912483190 JayJo07 opened world 329 81 1681 DoubleChest
+1460912485990 JayJo07 clicked world 329 81 1681 WOOD DoubleChest 4 LEFT PICKUP_ALL
+1460912486891 JayJo07 dragged world 329 81 1681 WOOD 8 0 1 EVEN
+1460912486991 JayJo07 closed world 329 81 1681 DoubleChest
+1460912488191 JoJay07 opened world 329 81 1681 DoubleChest
+1460912488991 JoJay07 clicked world 329 81 1681 STICK CraftPlayer 68 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912489191 JoJay07 closed world 329 81 1681 DoubleChest
+1460912496594 JayJo07 opened world 329 81 1681 DoubleChest
+1460912497945 JayJo07 clicked world 329 81 1681 TORCH DoubleChest 42 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912498346 JayJo07 closed world 329 81 1681 DoubleChest
+1460912500796 JayJo07 opened world 329 81 1681 DoubleChest
+1460912501796 JayJo07 clicked world 329 81 1681 FENCE CraftPlayer 79 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912502747 JayJo07 clicked world 329 81 1681 RAW_CHICKEN CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912503647 JayJo07 closed world 329 81 1681 DoubleChest
+1460912509148 JayJo07 clicked world 330 81 1678 HOPPER CraftPlayer 27 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912513048 JayJo07 clicked world 330 81 1678 REDSTONE_COMPARATOR CraftPlayer 33 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912586018 JayJo07 clicked world 330 81 1678 DISPENSER CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912963288 JayJo07 clicked world 407 37 1719 GOLDEN_APPLE CraftChest 21 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912963587 JayJo07 clicked world 407 37 1719 AIR CraftChest 21 SHIFT_LEFT NOTHING
+1460912963788 JayJo07 clicked world 407 37 1719 STRING CraftChest 20 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912964038 JayJo07 clicked world 407 37 1719 REDSTONE CraftChest 19 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912964238 JayJo07 clicked world 407 37 1719 AIR CraftChest 19 SHIFT_LEFT NOTHING
+1460912964388 JayJo07 clicked world 407 37 1719 SULPHUR CraftChest 10 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912964638 JayJo07 clicked world 407 37 1719 SULPHUR CraftChest 9 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912964838 JayJo07 clicked world 407 37 1719 AIR CraftChest 10 SHIFT_LEFT NOTHING
+1460912964939 JoJay07 opened world 329 82 1681 DoubleChest
+1460912965138 JayJo07 clicked world 407 37 1719 SULPHUR CraftChest 22 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912965338 JayJo07 clicked world 407 37 1719 AIR CraftChest 22 SHIFT_LEFT NOTHING
+1460912965638 JayJo07 clicked world 407 37 1719 BUCKET CraftChest 13 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912965889 JayJo07 clicked world 407 37 1719 SULPHUR CraftChest 3 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912966489 JayJo07 clicked world 407 37 1719 REDSTONE CraftChest 5 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912966539 JoJay07 clicked world 329 82 1681 WOOD CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912966839 JoJay07 clicked world 329 82 1681 STRING CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912967039 JayJo07 clicked world 407 37 1719 BONE CraftChest 25 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912967239 JoJay07 closed world 329 82 1681 DoubleChest
+1460912967289 JayJo07 clicked world 407 37 1719 STRING CraftChest 26 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912967740 JoJay07 opened world 329 83 1681 DoubleChest
+1460912968989 JoJay07 clicked world 329 83 1681 STONE CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912969240 JoJay07 clicked world 329 83 1681 TORCH CraftPlayer 82 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912969840 JoJay07 clicked world 329 83 1681 COBBLESTONE CraftPlayer 81 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912970240 JoJay07 clicked world 329 83 1681 ARROW CraftPlayer 72 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912970640 JoJay07 clicked world 329 83 1681 COBBLESTONE CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912970990 JoJay07 clicked world 329 83 1681 STONE CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912971640 JoJay07 clicked world 329 83 1681 INK_SACK CraftPlayer 83 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912972890 JoJay07 closed world 329 83 1681 DoubleChest
+1460912973892 JoJay07 opened world 329 83 1681 DoubleChest
+1460912974691 JoJay07 clicked world 329 83 1681 SUGAR_CANE DoubleChest 46 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912974841 JoJay07 closed world 329 83 1681 DoubleChest
+1460912975191 JoJay07 opened world 329 82 1681 DoubleChest
+1460912976391 JoJay07 clicked world 329 82 1681 SUGAR_CANE CraftPlayer 84 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912976891 JoJay07 clicked world 329 82 1681 INK_SACK CraftPlayer 83 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912977491 JoJay07 clicked world 329 82 1681 STONE CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912978191 JoJay07 clicked world 329 82 1681 TRAP_DOOR CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912978642 JoJay07 closed world 329 82 1681 DoubleChest
+1460912979093 JoJay07 opened world 329 81 1681 DoubleChest
+1460912980793 JoJay07 clicked world 329 81 1681 TRAP_DOOR CraftPlayer 85 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912981293 JoJay07 clicked world 329 81 1681 STONE CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460912982843 JoJay07 closed world 329 81 1681 DoubleChest
+1460913062115 JoJay07 opened world 329 82 1681 DoubleChest
+1460913064027 JoJay07 closed world 329 82 1681 DoubleChest
+1460913064528 JoJay07 opened world 329 83 1681 DoubleChest
+1460913067846 JoJay07 closed world 329 83 1681 DoubleChest
+1460913068347 JoJay07 opened world 329 81 1681 DoubleChest
+1460913071498 JoJay07 closed world 329 81 1681 DoubleChest
+1460913071898 JoJay07 opened world 329 82 1681 DoubleChest
+1460913077149 JoJay07 closed world 329 82 1681 DoubleChest
+1460913077551 JoJay07 opened world 329 83 1681 DoubleChest
+1460913078700 JoJay07 clicked world 329 83 1681 AIR CraftPlayer 76 MIDDLE NOTHING
+1460913080550 JoJay07 clicked world 329 83 1681 WOOD DoubleChest 33 MIDDLE NOTHING
+1460913084001 JoJay07 clicked world 329 83 1681 LEATHER DoubleChest 34 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913084502 JoJay07 closed world 329 83 1681 DoubleChest
+1460913089153 JoJay07 opened world 329 81 1681 DoubleChest
+1460913089803 JoJay07 closed world 329 81 1681 DoubleChest
+1460913090404 JoJay07 opened world 329 82 1681 DoubleChest
+1460913091203 JoJay07 closed world 329 82 1681 DoubleChest
+1460913091603 JoJay07 opened world 329 83 1681 DoubleChest
+1460913092653 JoJay07 closed world 329 83 1681 DoubleChest
+1460913093704 JoJay07 opened world 329 83 1681 DoubleChest
+1460913096254 JoJay07 clicked world 329 83 1681 LOG DoubleChest 9 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913096404 JoJay07 closed world 329 83 1681 DoubleChest
+1460913124562 JoJay07 opened world 329 81 1681 DoubleChest
+1460913125412 JoJay07 clicked world 329 81 1681 LOG CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913125662 JoJay07 closed world 329 81 1681 DoubleChest
+1460913134924 JoJay07 opened world 329 82 1681 DoubleChest
+1460913135724 JoJay07 closed world 329 82 1681 DoubleChest
+1460913136124 JoJay07 opened world 329 83 1681 DoubleChest
+1460913137374 JoJay07 clicked world 329 83 1681 LEATHER CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913137674 JoJay07 clicked world 329 83 1681 STICK CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913138574 JoJay07 closed world 329 83 1681 DoubleChest
+1460913141025 JoJay07 opened world 329 83 1681 DoubleChest
+1460913142526 JoJay07 clicked world 329 83 1681 CARROT_ITEM DoubleChest 47 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913142676 JoJay07 closed world 329 83 1681 DoubleChest
+1460913147677 JoJay07 opened world 329 81 1681 DoubleChest
+1460913149827 JoJay07 closed world 329 81 1681 DoubleChest
+1460913150328 JoJay07 opened world 329 82 1681 DoubleChest
+1460913151978 JoJay07 closed world 329 82 1681 DoubleChest
+1460913152479 JoJay07 opened world 329 83 1681 DoubleChest
+1460913154178 JoJay07 clicked world 329 83 1681 MAP DoubleChest 42 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913154428 JoJay07 closed world 329 83 1681 DoubleChest
+1460913165679 JoJay07 opened world 329 81 1681 DoubleChest
+1460913167179 JoJay07 closed world 329 81 1681 DoubleChest
+1460913167480 JoJay07 opened world 329 82 1681 DoubleChest
+1460913169079 JoJay07 closed world 329 82 1681 DoubleChest
+1460913169280 JoJay07 opened world 329 83 1681 DoubleChest
+1460913172880 JoJay07 closed world 329 83 1681 DoubleChest
+1460913173333 JoJay07 opened world 329 81 1681 DoubleChest
+1460913176333 JoJay07 clicked world 329 81 1681 REDSTONE DoubleChest 26 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913177383 JoJay07 closed world 329 81 1681 DoubleChest
+1460913177783 JoJay07 opened world 329 82 1681 DoubleChest
+1460913179384 JoJay07 clicked world 329 82 1681 IRON_INGOT DoubleChest 8 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913185334 JoJay07 closed world 329 82 1681 DoubleChest
+1460913186086 JoJay07 opened world 329 83 1681 DoubleChest
+1460913212897 JoJay07 clicked world 329 83 1681 PAPER DoubleChest 36 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913213196 JoJay07 clicked world 329 83 1681 PAPER DoubleChest 37 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913213547 JoJay07 closed world 329 83 1681 DoubleChest
+1460913251529 JoJay07 clicked world 330 81 1678 PAPER CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913252129 JoJay07 clicked world 330 81 1678 MAP CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913252929 JoJay07 clicked world 330 81 1678 IRON_INGOT CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913253379 JoJay07 clicked world 330 81 1678 REDSTONE CraftPlayer 28 LEFT PICKUP_ALL
+1460913255729 JoJay07 clicked world 330 81 1678 AIR CraftPlayer 40 LEFT PLACE_ALL
+1460913256179 JoJay07 clicked world 330 81 1678 IRON_INGOT CraftChest 5 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913258630 JoJay07 clicked world 330 81 1678 MAP CraftChest 4 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913259130 JoJay07 clicked world 330 81 1678 PAPER CraftChest 3 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913260430 JoJay07 clicked world 330 81 1678 ITEM_FRAME CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913269233 JoJay07 opened world 329 82 1681 DoubleChest
+1460913269832 JoJay07 closed world 329 82 1681 DoubleChest
+1460913290388 JoJay07 opened world 329 81 1681 DoubleChest
+1460913291545 JoJay07 closed world 329 81 1681 DoubleChest
+1460913291846 JoJay07 opened world 329 82 1681 DoubleChest
+1460913293496 JoJay07 clicked world 329 82 1681 REDSTONE CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913293746 JoJay07 clicked world 329 82 1681 IRON_INGOT CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913294247 JoJay07 closed world 329 82 1681 DoubleChest
+1460913294597 JoJay07 opened world 329 83 1681 DoubleChest
+1460913296498 JoJay07 clicked world 329 83 1681 IRON_INGOT CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913296898 JoJay07 closed world 329 83 1681 DoubleChest
+1460913312362 JoJay07 clicked world 330 81 1678 PAPER CraftPlayer 27 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913313062 JoJay07 clicked world 330 81 1678 MAP CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913313612 JoJay07 clicked world 330 81 1678 EMPTY_MAP CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913314012 JoJay07 clicked world 330 81 1678 NETHER_STALK CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913334373 JayJo07 opened world 329 83 1681 DoubleChest
+1460913335522 JayJo07 clicked world 329 83 1681 GOLDEN_APPLE CraftPlayer 80 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913335772 JayJo07 clicked world 329 83 1681 STRING CraftPlayer 79 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913335973 JayJo07 clicked world 329 83 1681 REDSTONE CraftPlayer 78 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913336122 JayJo07 clicked world 329 83 1681 AIR CraftPlayer 78 SHIFT_LEFT NOTHING
+1460913336322 JayJo07 clicked world 329 83 1681 SULPHUR CraftPlayer 77 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913336723 JoJay07 opened world 329 82 1681 DoubleChest
+1460913337423 JoJay07 closed world 329 82 1681 DoubleChest
+1460913337473 JayJo07 clicked world 329 83 1681 BUCKET CraftPlayer 76 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913338473 JayJo07 clicked world 329 83 1681 BONE CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913338824 JayJo07 closed world 329 83 1681 DoubleChest
+1460913339374 JayJo07 opened world 329 82 1681 DoubleChest
+1460913341274 JoJay07 opened world 329 81 1681 DoubleChest
+1460913341474 JayJo07 clicked world 329 82 1681 BONE CraftPlayer 75 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913341624 JayJo07 clicked world 329 82 1681 ROTTEN_FLESH CraftPlayer 55 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913341874 JayJo07 clicked world 329 82 1681 AIR CraftPlayer 55 SHIFT_LEFT NOTHING
+1460913342024 JayJo07 clicked world 329 82 1681 AIR CraftPlayer 55 SHIFT_LEFT NOTHING
+1460913342174 JayJo07 clicked world 329 82 1681 ARROW CraftPlayer 56 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913342374 JayJo07 clicked world 329 82 1681 SPIDER_EYE CraftPlayer 57 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913342574 JayJo07 clicked world 329 82 1681 FEATHER CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913342724 JoJay07 closed world 329 81 1681 DoubleChest
+1460913342724 JayJo07 clicked world 329 82 1681 DIRT CraftPlayer 59 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913342924 JayJo07 clicked world 329 82 1681 AIR CraftPlayer 59 SHIFT_LEFT NOTHING
+1460913343074 JayJo07 clicked world 329 82 1681 WOOD_STEP CraftPlayer 60 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913343125 JoJay07 opened world 329 82 1681 DoubleChest
+1460913343625 JayJo07 clicked world 329 82 1681 AIR CraftPlayer 55 SHIFT_LEFT NOTHING
+1460913343875 JayJo07 clicked world 329 82 1681 GRAVEL CraftPlayer 54 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913344175 JayJo07 closed world 329 82 1681 DoubleChest
+1460913344625 JoJay07 clicked world 329 82 1681 INK_SACK DoubleChest 52 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913344925 JoJay07 closed world 329 82 1681 DoubleChest
+1460913345677 JayJo07 opened world 329 82 1681 DoubleChest
+1460913346526 JayJo07 clicked world 329 82 1681 SEEDS DoubleChest 39 MIDDLE NOTHING
+1460913347076 JayJo07 closed world 329 82 1681 DoubleChest
+1460913347377 JayJo07 opened world 329 81 1681 DoubleChest
+1460913347927 JayJo07 clicked world 329 81 1681 BOAT DoubleChest 40 MIDDLE NOTHING
+1460913348577 JayJo07 closed world 329 81 1681 DoubleChest
+1460913349277 JayJo07 opened world 329 83 1681 DoubleChest
+1460913349977 JayJo07 clicked world 329 83 1681 GOLD_BARDING DoubleChest 49 MIDDLE NOTHING
+1460913350527 JayJo07 closed world 329 83 1681 DoubleChest
+1460913363283 JayJo07 opened world 329 83 1681 DoubleChest
+1460913365082 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PICKUP_HALF
+1460913365382 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PLACE_ONE
+1460913365533 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PLACE_ONE
+1460913365732 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PLACE_ONE
+1460913365933 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PLACE_ONE
+1460913366133 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PLACE_ONE
+1460913366282 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PLACE_ONE
+1460913366483 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PLACE_ONE
+1460913367233 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PLACE_ONE
+1460913367483 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PLACE_ONE
+1460913367533 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PICKUP_HALF
+1460913367783 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PLACE_ONE
+1460913367911 JoJay07 opened world 329 82 1681 DoubleChest
+1460913368164 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PLACE_ONE
+1460913368364 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PLACE_ONE
+1460913368564 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PLACE_ONE
+1460913369114 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PLACE_ONE
+1460913369764 JayJo07 clicked world 329 83 1681 DIAMOND DoubleChest 17 RIGHT PLACE_ONE
+1460913371666 JayJo07 clicked world 329 83 1681 AIR CraftPlayer 72 LEFT PLACE_ALL
+1460913372266 JayJo07 closed world 329 83 1681 DoubleChest
+1460913372316 JoJay07 closed world 329 82 1681 DoubleChest
+1460913375167 JoJay07 opened world 329 82 1681 DoubleChest
+1460913376217 JoJay07 closed world 329 82 1681 DoubleChest
+1460913388619 JoJay07 opened world 329 81 1681 DoubleChest
+1460913389218 JoJay07 closed world 329 81 1681 DoubleChest
+1460913390819 JoJay07 clicked world 330 81 1678 NETHER_STALK CraftChest 7 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913391670 JoJay07 opened world 329 81 1681 DoubleChest
+1460913392920 JoJay07 clicked world 329 81 1681 NETHER_STALK CraftPlayer 82 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913400671 JoJay07 closed world 329 81 1681 DoubleChest
+1460913402171 JoJay07 opened world 329 81 1681 DoubleChest
+1460913403171 JoJay07 clicked world 329 81 1681 LAVA_BUCKET DoubleChest 23 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913403321 JoJay07 closed world 329 81 1681 DoubleChest
+1460913405072 JoJay07 clicked world 330 81 1678 LAVA_BUCKET CraftPlayer 58 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913407123 JoJay07 opened world 329 82 1681 DoubleChest
+1460913429057 JoJay07 closed world 329 82 1681 DoubleChest
+1460913539400 JayJo07 opened world 329 81 1681 DoubleChest
+1460913540350 JayJo07 clicked world 329 81 1681 COAL CraftPlayer 87 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913540800 JayJo07 closed world 329 81 1681 DoubleChest
+1460913628953 JoJay07 opened world 329 81 1681 DoubleChest
+1460913629903 JoJay07 closed world 329 81 1681 DoubleChest
+1460913650909 JoJay07 opened world 329 81 1681 DoubleChest
+1460913654859 JoJay07 closed world 329 81 1681 DoubleChest
+1460913655309 JoJay07 opened world 329 82 1681 DoubleChest
+1460913657359 JoJay07 clicked world 329 82 1681 AIR CraftPlayer 59 MIDDLE NOTHING
+1460913657809 JoJay07 closed world 329 82 1681 DoubleChest
+1460913683514 JoJay07 opened world 329 81 1681 DoubleChest
+1460913685316 JoJay07 closed world 329 81 1681 DoubleChest
+1460913685966 JoJay07 opened world 329 81 1681 DoubleChest
+1460913687417 JoJay07 closed world 329 81 1681 DoubleChest
+1460913784254 JoJay07 opened world 329 81 1681 DoubleChest
+1460913786854 JoJay07 clicked world 329 81 1681 AIR CraftPlayer 57 MIDDLE NOTHING
+1460913788109 JoJay07 closed world 329 81 1681 DoubleChest
+1460913791560 JoJay07 opened world 329 83 1681 DoubleChest
+1460913792759 JoJay07 closed world 329 83 1681 DoubleChest
+1460913794060 JoJay07 opened world 329 83 1681 DoubleChest
+1460913794760 JoJay07 clicked world 329 83 1681 INK_SACK DoubleChest 29 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913794910 JoJay07 closed world 329 83 1681 DoubleChest
+1460913795411 JoJay07 opened world 329 82 1681 DoubleChest
+1460913796260 JoJay07 closed world 329 82 1681 DoubleChest
+1460913796611 JoJay07 opened world 329 81 1681 DoubleChest
+1460913797760 JoJay07 clicked world 329 81 1681 AIR CraftPlayer 74 SHIFT_LEFT NOTHING
+1460913798310 JoJay07 clicked world 329 81 1681 INK_SACK CraftPlayer 83 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913813163 JoJay07 closed world 329 81 1681 DoubleChest
+1460913813514 JoJay07 opened world 329 83 1681 DoubleChest
+1460913818816 JoJay07 closed world 329 83 1681 DoubleChest
+1460913819517 JoJay07 opened world 329 82 1681 DoubleChest
+1460913842022 JoJay07 clicked world 329 82 1681 WOOD_AXE DoubleChest 49 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913842322 JoJay07 clicked world 329 82 1681 WOOD_SPADE DoubleChest 50 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913842672 JoJay07 clicked world 329 82 1681 WOOD_SPADE DoubleChest 51 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913843172 JoJay07 closed world 329 82 1681 DoubleChest
+1460913860585 JoJay07 opened world 329 82 1681 DoubleChest
+1460913864286 JoJay07 closed world 329 82 1681 DoubleChest
+1460913864886 JoJay07 opened world 329 83 1681 DoubleChest
+1460913873288 JoJay07 clicked world 329 83 1681 IRON_INGOT DoubleChest 28 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913873838 JoJay07 closed world 329 83 1681 DoubleChest
+1460913919197 JoJay07 opened world 329 81 1681 DoubleChest
+1460913921848 JoJay07 closed world 329 81 1681 DoubleChest
+1460913922298 JoJay07 opened world 329 82 1681 DoubleChest
+1460913924448 JoJay07 clicked world 329 82 1681 WOOD DoubleChest 38 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460913924698 JoJay07 closed world 329 82 1681 DoubleChest
+1460914349924 Lollol123 opened world 257 55 1720 DoubleChest
+1460914351474 Lollol123 closed world 257 55 1720 DoubleChest
+1460914831942 JayJo07 opened world 329 81 1681 DoubleChest
+1460914834642 JayJo07 clicked world 329 81 1681 COAL DoubleChest 23 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460914834742 JayJo07 closed world 329 81 1681 DoubleChest
+1460914838694 JayJo07 opened world 329 81 1681 DoubleChest
+1460914843194 JayJo07 closed world 329 81 1681 DoubleChest
+1460914843645 JayJo07 opened world 329 82 1681 DoubleChest
+1460914846597 JayJo07 closed world 329 82 1681 DoubleChest
+1460914847047 JayJo07 opened world 329 83 1681 DoubleChest
+1460914855349 JayJo07 closed world 329 83 1681 DoubleChest
+1460914855799 JayJo07 opened world 329 82 1681 DoubleChest
+1460914859599 JayJo07 closed world 329 82 1681 DoubleChest
+1460914860099 JayJo07 opened world 329 81 1681 DoubleChest
+1460914876613 JayJo07 closed world 329 81 1681 DoubleChest
+1460914877113 JayJo07 opened world 329 82 1681 DoubleChest
+1460914881515 JayJo07 closed world 329 82 1681 DoubleChest
+1460914882216 JayJo07 opened world 329 83 1681 DoubleChest
+1460914887667 JayJo07 closed world 329 83 1681 DoubleChest
+1460914923479 JayJo07 opened world 329 81 1681 DoubleChest
+1460914924529 JayJo07 clicked world 329 81 1681 HARD_CLAY CraftPlayer 61 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460914926329 JayJo07 clicked world 329 81 1681 INK_SACK CraftPlayer 63 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460914926829 JayJo07 closed world 329 81 1681 DoubleChest
+1460914927280 JayJo07 opened world 329 82 1681 DoubleChest
+1460914928780 JayJo07 clicked world 329 82 1681 INK_SACK CraftPlayer 63 SHIFT_LEFT MOVE_TO_OTHER_INVENTORY
+1460914928830 JayJo07 closed world 329 82 1681 DoubleChest
+1460917270230 DragonRider0x2A opened world -281 102 267 DoubleChest
+1460917271030 DragonRider0x2A closed world -281 102 267 DoubleChest

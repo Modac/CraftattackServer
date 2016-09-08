@@ -1,0 +1,20 @@
+[
+  {
+    "uuid": "b16c0a74-cf68-4325-a4ac-02cbcf7dc5c2",
+    "name": "Enderbann",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "4f03713d-4123-43ef-970c-4ac05fd238a8",
+    "name": "DragonRider0x2A",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  },
+  {
+    "uuid": "b4626dc4-3711-4c43-9baf-df556d0c8ca2",
+    "name": "Modac2",
+    "level": 4,
+    "bypassesPlayerLimit": false
+  }
+]
